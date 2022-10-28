@@ -1,0 +1,192 @@
+This Privacy Policy is effective from 27th July 2020
+You can find the previous Privacy Policy here 
+At Slido your privacy is important to us and we are committed to protecting it
+This Privacy Policy transparently describes what you can expect Slido to do with your personal data
+We do not sell your personal data
+If you do not agree with this Privacy Policy, please do not use our Service
+If we use any capitalised words here that we don’t define, you’ll find the meaning in our Terms of Service
+.
+You can find our identification and ways to contact us here 
+Our Data Protection Officer at dpo@slido.com would also be happy to help with your privacy questions, concerns and would also welcome your feedback.
+In most cases we are the controller, meaning we decide what personal data to collect from you, how and why and are responsible for dealing with your requests to exercise your rights
+Where our Customer (represented by the organiser of your event) is the controller, you can either contact them directly or if you cannot contact them directly, contact us and we can pass your query on to them.
+We only collect the minimum personal data necessary and we don’t use automated decision making or profiling techniques.
+The table below tells you:
+What categories of personal data we collect and who it relates to 
+Who the controller is 
+What the legal basis is and the purpose we use it for 
+A list of all personal data we collect with description why we need it
+Category & who it relates to 
+Controller 
+Legal basis & purpose 
+Participant profile data: 
+name, email address and company 
+(optional) 
+Customer 
+Contract with Customer: provision of the Services only (Service provision may include support, maintenance and protection of the Service in all cases) 
+Participant content data in Enterprise plans: 
+questions, poll answers, ideas, chats - simply content shared by participants and related to a non-anonymous
+individual 
+(optional) 
+Customer 
+Contract with Customer: provision of the Services only 
+Participant content data in other plans: 
+questions, poll answers, ideas, chats - simply content shared by participants and related to a non-anonymous
+individual 
+(optional) 
+Customer, 
+Slido 
+Contract with Customer and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones 
+Organiser profile data + contact data of representatives 
+involved in the procurement, legal, IT&security and audit
+processes: 
+name, email address, company 
+Slido, 
+Customer 
+Contract and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones and marketing 
+This may include e.g
+registration, account management, feedback, education, product news etc
+Other organiser data: video & voice 
+Slido, 
+Customer 
+Consent and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones and marketing 
+This may include e.g
+support, user experience research calls, testimonials 
+Organiser purchase data: 
+e.g
+invoices 
+We do not collect payment card information - this is collected directly by the payment gateway (optional) 
+Slido, 
+Customer 
+Contract and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones, sales and marketing 
+This may include e.g
+procurement, sales, contracting, reviews, billing, accounting, statistics etc
+User technical data: 
+Most of this data is not personal data, but some may be in some circumstances
+E.g.: 
+- device data (e.g
+hardware model, operating system version, unique device identifiers), 
+- log data (e.g
+your search queries, details about your connection such as IP address, date, time, edge-location, ssl-protocol, ssl-cipher or time-taken to serve you requested site, device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL) 
+- location information (IP address) 
+- unique application numbers 
+- browser local storage and application data caches 
+Slido 
+Contract and/ or legitimate interest of provision, tailoring and improvement of our Services 
+Cookies and other trackers: 
+Essential, analytical and advertising cookies
+For more information about cookies, please see our Cookie Policy 
+Slido 
+Contract, consent and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones and marketing 
+Contact data of people reaching out to us: 
+E.g
+on our web forms, chat, email, demo, contact us, newsletter, webinars, masterclasses, feedback etc
+Usually name, email, company, rarely voice and video
+Slido 
+Consent and/ or contract with the person and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones, sales and marketing 
+Leads contact data: 
+usually name, email, company
+Slido 
+Consent and/ or contract with the person and/ or legitimate interest of provision, tailoring and improvement of our Services, development of new ones, sales and marketing 
+Partners contact data: 
+e.g
+events professionals
+Usually name, email, company
+Slido 
+Contract and/ or legitimate interests of cooperation to provide the best Service possible 
+Because of the nature of the Service we don’t expect any sensitive data or any other personal data in any other fields.
+We may anonymise and aggregate data so it wouldn’t be personal data and use or share such data for any other legitimate business purpose
+We may share non-personal aggregated data publicly (e.g
+to show trends about the usage of our Services).
+The personal data we collect could generally cover these categories under the California Consumer Privacy Act:
+Identifiers (e.g
+real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers) 
+Categories of personal data from s
+1798.80 (e) California Consumer Privacy Act (e.g
+name, address, telephone number) 
+Commercial information (e.g
+information regarding products or services purchased, obtained, or considered) 
+Electronic network activity information 
+Geolocation data 
+Audio, video data 
+Professional or employment-related information 
+Education information 
+We might also use or share your personal data for other legal reasons and purposes if we have a good faith belief it is reasonably necessary e.g.
+to comply with any law that applies to us, 
+to cooperate with public or government authorities or law enforcement, 
+to enforce our contracts, 
+to protect rights, privacy, safety or property - yours, ours or others’, 
+to detect, prevent, or otherwise address fraud, security or technical issues, 
+in connection with a sale or business transaction (e.g
+in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock including in connection with any bankruptcy or similar proceedings), 
+or with your consent.
+Apart from technical data which we collect automatically, we get personal data from you as the data subject directly - it’s what you give us.
+We may also obtain data about you from our partners
+When such information is associated with your Slido account, we treat it as personal data.
+How long we keep your personal data depends on the type of data and the purpose for which we use the data
+We will keep your personal data only for the period necessary to fulfil the purposes unless the law tells us to keep it for longer.
+For Customer Data, this will generally be for the Term plus the period from the expiry of the Term until deletion of all Customer Data by Slido in accordance with its back up policies.
+The Service also offers certain controls for the Users to automatically delete their data via the Service themselves.
+Who we share your data with depends on who you are:
+If you are a participant, who can see your content data depends on the organiser’s event and their privacy settings - e.g
+an event might be public
+If an organiser lets you interact anonymously, it is up to you whether you decide to fill in your profile data and interact with these
+Your profile and content data can be accessed by the organiser’s company (our Customer) and relevant Slido staff and service providers
+Your technical data can be accessed by our staff and service providers.
+If you are an organiser, we can share your profile data with your company and relevant Slido staff and service providers
+We only share your technical data with our staff and service providers.
+If you are anyone else, we only share your data with our staff and service providers
+Slido is based in Slovakia, EU, but some of our staff and service providers we rely on to provide the best Service to you work outside of Slovakia or the EU
+This means your personal data may be transferred outside of the country where you live
+Having said that, we will only transfer or share your personal data if there are sufficient controls in place to protect it (e.g., we may make the recipients promise they will protect your data in our contracts with them).
+For specific information about which service providers we use, what for, what personal data we send them, where they will process that data and how we make sure it’s protected, please see our table of Processors (Service Providers) .
+For more information on sharing and transfers, please also see sections 3 and 4 of this Privacy Policy.
+Depending on where you are, the law gives you some rights around your personal data
+We believe you should have control over your data no matter where you live, so where we are the controller, we decided to give you all these rights below regardless of where you are
+If our Customer is the controller, you should contact them directly or let us know whether we should pass your query on to them
+Right to information: Simply, we need to tell you how we use your personal data
+We do this through this Privacy Policy and privacy notices when we collect your personal data and through answering any questions from you if anything is unclear
+Right to access (right to know): If you ask us for this, we will send you what specific pieces of data we collect about you in a secure way
+Both organisers and participants can see their profile data via the Service in their profiles
+Right to rectification: If you ask us for this, we will correct any inaccurate, incomplete or out of date personal data
+Both organisers and participants can change their profile data via the Service
+Right to erasure (right to be forgotten): If you ask us for this, we will delete certain personal data, for example when it is no longer necessary for us to use the personal data for the purpose, or when you have withdrawn your consent
+Organisers have an option in the Service to delete event content data only, or delete their account (which deletes all data under that account including from our systems)
+Unless the organiser doesn’t allow them to, participants can delete their profile through the Service while at an event
+Right to restriction of processing: If you ask us for this, we will block or temporarily freeze your personal data use (usually while a dispute is resolved).
+Right to portability: If you ask us for this, we will send you your personal data in a way you can use or share somewhere else.
+Right to withdraw consent: Wherever it is optional to collect personal data about you, we transparently inform you about it and we ask for your consent
+When you change your mind, there is always a convenient way to let us know.
+Right to object: If you ask us for this, we will opt you out or unsubscribe you from the relevant use
+This usually applies to analytical and advertising cookies, Switcher diagnostics and marketing
+You can control your cookies in Privacy Settings and can opt out of analysis and advertising
+An organiser can unsubscribe from emails via the link at the bottom of the email or set their email preferences via the Service.
+Right to receive the Service on equal terms: We will never discriminate against you for exercising your rights.
+Right to complain to a supervisory authority: If you have any concerns about how we handle your privacy, it is a feedback we want to hear so we can improve
+Please do let our Data Protection Officer know at dpo@slido.com 
+You also have a right to complain to your national supervisory data protection authority, or the Slovak Data Protection Authority
+See here for more information about how to complain to the Slovak Data Protection Authority.
+The fastest way to submit and get a rights request resolved is via the automatic controls you have in the Service
+However, if you can’t do that for whatever reason, you can always contact us (please see our contact details in the contacts section above) or if you are a California resident wanting to exercise your rights, you can call us at this toll free number: +1 855 659 0501.
+Please note that for your protection and the protection of your data we won’t be able to resolve your request unless we successfully verify it is you
+This will usually be via asking you to log in where applicable or via an email reasonably associated with you
+You can also authorise an agent to make a request on your behalf, but you will need to provide us with sufficient written authorization or a power of attorney, signed by you, for the agent to act on your behalf and will still need to verify your identity directly with us
+We collect as little data as possible, offer options for participants to be anonymous and automatic controls for users, so sufficient verification may not always be possible
+If we can’t verify it is you, we can only respond with information contained in this Privacy Policy or can deny your request.
+Some of the rights above are not absolute meaning we might not be able to comply with them immediately or fully, for example if the law makes us keep some personal data (e.g
+we won’t be able to delete all your personal data if the law makes us keep records of your request and our compliance), or to maintain backups for the protection of your personal data (e.g
+your information will be in our backups for 28 days before it is deleted automatically and permanently.)
+To protect your personal data, we’ve put reasonable technical and organisational security measures in place
+For more information, please see our Security Appendix .
+As our business evolves, Slido may change this policy from time to time to keep up to date with the changes to our Service and our business, and laws applicable to us and you
+We will, however, always maintain our commitment to respect your privacy
+We will post any changes on this page
+If you’d also like to be notified of material changes by email, you can sign up by emailing legal@slido.com with the subject “Subscribe to Privacy Policy Notifications” and telling us the email address where we should send such notifications
+If you continue to use the Services after those changes are in effect, you agree to the revised policy
+If you disagree, you’ll have to stop using the Service and delete your data.
+We do not knowingly collect personal data of children where the law would require us to obtain the consent of their parents
+If you would like to collect personal data from children through the Service where parental consent is required by law, you agree to get all the consents to do this legally.
+We may sometimes include or offer third party products or services on our Websites or through the Service
+These third parties will have their own privacy policies and it is up to you to follow these
+We’re not responsible for these third parties
+However, we do our best to protect our Websites and Services and welcome any feedback about these third parties.
