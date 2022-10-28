@@ -1,0 +1,337 @@
+Nom de domaine : c’est un identifiant unique lié à une entité dont
+les ordinateurs sont reliés à Internet.
+Adresse IP : série de nombres constituant l'élément
+d'identification sur le réseau de l'Internet.
+Le client : personne physique ou morale (société) ayant formé une
+demande de réservation pour un nom de domaine.
+Internic : organisme responsable, pour la zone Etats-Unis, de
+l'enregistrement des noms de domaine (notamment de type .com, .org et .net).
+Afnic : organisme responsable, pour la zone France, de
+l'enregistrement des noms de domaine (notamment de type .fr, tm.fr, asso.fr,
+etc.).
+Blog, Weblog : un blog est un site internet conçu pour permettre la
+publication fréquente d’informations diverses (texte, image, vidéo), tout en
+conservant une structure cohérente et organisée.
+Le présent contrat a pour objet de fixer les conditions dans lesquelles
+Overblog délivre le service nommé « pack Premium » défini sur le site
+www.over-blog.com, service comprenant pour les offres Premium Individuel ou
+Premium Business notamment la location d’un nom de domaine de type .com, .fr,
+.net, .org, .me, .co.uk, .ch, .de, .eu, .be, .name, .info, .biz, .pro, .it,
+.es sur une période minimale de 1 an
+Cette location est exclue de l’offre
+Premium Confort.
+L'offre Premium comprend différentes offres (Confort, Individuel et Business)
+qui sont disponibles en abonnement annuel ou mensuel.
+Lorsque le présent contrat est conclu avec une offre Premium mensuelle, il
+l'est pour une durée de 1 (un) mois avec tacite reconduction.
+Conformément à l'article L121-20-2 du Code de la consommation, le Client
+reconnait et accepte que le droit de rétractation ne trouvera pas à
+s'appliquer si le service est activé avant l'écoulement du délai de sept jours
+francs par le Code de la Consommation.
+A tout moment, le client d’un abonnement Premium mensuel peut décider
+d’arrêter son abonnement en choisissant de revenir à l’offre gratuite Basic.
+Pour cela, le client doit se rendre dans l'administration de son blog dans la
+rubrique Renouvellement de l'onglet Premium en suivant la procédure de
+"Suppression du Premium" ou en contactant l'équipe support
+Dans ce cas, son
+blog conservera les avantages liés à son pack Premium jusqu’à la date
+anniversaire du mois déjà réglé
+A aucun moment cela ne pourra donner lieu à
+des indemnités ou remboursement à quelque titre que ce soit au profit du
+client.
+Le nom de domaine qui aurait été associé à une offre Premium mensuelle reste
+la propriété d'Overblog durant un an soit la durée de réservation auprès de
+notre registrar.
+Le présent contrat est conclu initialement pour une durée de 1 (un) an dans le
+cadre d’un abonnement Premium 1 an.
+A tout moment durant la période contractuelle, le client peut anticiper le
+renouvellement de son abonnement, la période supplémentaire ainsi acquise
+venant s’additionner à celle déjà en cours.
+A tout moment durant la période contractuelle, le client peut signifier à
+Overblog son souhait de ne pas renouveler automatiquement son abonnement
+Premium au terme de la période en cours, et donc de mettre un terme à son
+abonnement Premium au terme de la période contractuelle en cours
+Pour cela,
+le client doit se rendre dans l'administration de son blog, et à l'onglet
+Premium, section Renouvellement, indiquer son souhait au terme de la période
+contractuelle en cours.
+Le client est averti par Overblog au moyen de courriers électroniques envoyés
+30, 15, 7 et 3 jours de l'imminence de l'expiration de son abonnement Premium
+et par conséquent, de l'imminence de son renouvellement automatique sans
+action contraire effectuée par le client.
+Lorsque la période contractuelle arrive à son terme, et en l’absence de
+renouvellement par le client, les effets du contrat sont éteints.
+Les 3 packs Premium se composent des services communs suivants : 
+L’espace de stockage 
+Le client dispose d'un espace disque associé à un ensemble d'éléments
+constituant un site Internet accessible sur le réseau Internet.
+Overblog prendra en charge l’ensemble des connexions nécessaires à la mise en
+place de l'hébergement et à la consultation par les tiers des services mis en
+ligne
+Le client peut faire usage de son espace web comme bon lui semble, dans
+la mesure où cet usage est conforme aux lois et règlements en vigueur en
+France et/ou sur le territoire dans lequel il réside.
+Fonctionnalités avancées Overblog met à disposition du client un ensemble de
+fonctionnalités décrites sur le site www.over-blog.com.
+La suppression de la publicité est une des fonctionnalités communes
+Cette
+possibilité ne sera pas remise en question dans le temps tout au long de son
+abonnement Premium
+Si le nombre de pages vues venaient à dépasser
+régulièrement les 3000 pages vues par mois pour l’abonnement Confort, Overblog
+pourrait être amené à désactiver cette option pour le blog.
+La protection par mot de passe permet de limiter l’accès à toutes les pages de
+son administration par un identifiant et mot de passe.
+L'offre Premium Individuel et Business se composent de ces services
+additionnels :
+Nom de domaine 
+Le pack Premium comprend la location d'un nom de domaine sur une période
+déterminée par la durée de l’abonnement de son offre souscrite.
+Dès la confirmation du règlement à la société Webedia, cette dernière s’engage
+à tout mettre en œuvre pour procéder à l’enregistrement du nom de domaine
+requis par le client auprès des organismes compétents
+Il s’agit d’une
+obligation de moyen.
+Une fois enregistré, le nom de domaine ayant emporté l’adhésion du client se
+substituera à l’ancienne adresse associée à son blog.
+Le client et Overblog ne deviennent en aucun cas propriétaires du nom de
+domaine ainsi enregistré
+La société Webedia souscrit à un droit sur le nom de
+domaine auprès de l’organisme d’enregistrement sur une période d’un an, droit
+qu’elle rétrocède alors automatiquement au client sur la durée de l’abonnement
+au Pack Premium.
+Messageries électroniques 
+Overblog propose des solutions de messageries électroniques à chacun de ses
+clients mais dégage toute responsabilité sur l'intégralité des messages
+déposés dans les boîtes aux lettres du client
+Le client s'engage à ne pas se
+servir des possibilités de la messagerie pour envoyer des messages en grand
+nombre ou à des personnes qui ne désirent pas en recevoir.
+Overblog se réserve le droit, à tout moment et sans préavis de supprimer une
+ou l'ensemble des adresses de courrier électronique, s'il estime que l'usage
+qui en est fait n'est pas conforme à la législation française et/ou sur le
+territoire dans lequel il réside.
+La possibilité de supprimer la publicité est une de ces fonctionnalités
+Elle
+reste au choix du client souscrivant une offre Premium dans son administration
+et ne sera pas remise en question dans le temps tout au long de son
+abonnement.
+Partenariat Droit d'Auteur 
+Il y a deux conditions pour accéder au Partenariat Droits d’Auteur : le blog
+doit avoir plus de 30 jours d’existence et être Premium individuel ou
+business
+Seul le propriétaire du blog peut activer le Partenariat et générer
+des revenus en son nom
+Pour les personnes de moins de 18 ans, le Partenariat
+Droits d’Auteur vous est accessible, il est en revanche nécessaire que votre
+tuteur légal remplisse et signe la partie qui le concerne dans les champs
+prévus à cet effet dans le contrat Partenariat Droits d’Auteur.﻿
+Les sources de trafic non naturel sont interdites (ex: autosurf, réseau
+d'échange de lien)
+En cas de fraude avérée, ou si le blog enfreint nos
+conditions générales d’utilisations (pas d’incitation à la haine, à la
+violence, à la xénophobie etc.) le paiement de la facture sera refusé et le
+contrat Partenariat Droit d’auteur sera résilié sans possibilité de le
+réouvrir.
+Le hub social 
+Le client a la possibilité de connecter un ou plusieurs réseaux sociaux
+(Facebook, Instagram…) pré définis pour alimenter automatiquement son blog en
+articles
+Dans le cas où un blog génèrerait plus de 100 (cent) créations
+d’articles par jour avec son hub, Overblog se garde la possibilité de
+désactiver ou supprimer la connexion d’un hub contrevenant.
+Les réseaux sociaux utilisés pour le hub étant sujets à des changements
+indépendants de notre volonté (modification des API, limitation du service,
+suppression,...), il se peut qu’un hub cesse de fonctionner
+Nous ne
+garantissons donc pas le fonctionnement permanent d’un hub connecté.
+Avant de procéder à l'achat du pack Premium, le client a signé
+électroniquement les conditions générales d'utilisation d'OverBlog
+Ces
+conditions restent valables et s'appliquent dans le cadre de l'utilisation des
+fonctionnalités du pack Premium.
+Le client s'engage à informer, par écrit, Overblog de toute modification
+concernant sa situation (notamment changement d'adresse, modification de sa
+domiciliation bancaire, etc.)...
+Le client est seul responsable du choix du nom de domaine dont il a sollicité
+et obtenu l'enregistrement
+Il lui appartient de prendre toutes précautions
+utiles afin de s'assurer que le nom ne constitue pas une violation des
+dispositions légales et réglementaires en vigueur et qu'il ne porte pas
+atteinte aux droits de tiers, ou de marques commerciales.
+En aucun cas Overblog ne saurait être tenu pour responsable à quelque titre
+que ce soit de recours, amiables ou contentieux, dont le client pourrait faire
+l'objet consécutivement à l'enregistrement d'un nom de domaine.
+Le client s'engage à garantir Overblog de toute condamnation qui pourrait être
+prononcée à son encontre, que se soit du fait de l'enregistrement d'un nom de
+domaine ou du fait du contenu de son blog/espace de stockage plus
+généralement.
+Le client qui opterait pour un domaine externe reconnait qu'il doit s'assurer
+lui même de sa bonne configuration
+Dans le cas contraire, Overblog se dégage
+de toute responsabilité en cas d'indisponibilité.
+Toute demande de réservation emporte acceptation préalable et sans réserve des
+règles administratives et techniques de nommage régissant le niveau
+d'enregistrement sollicité, ainsi que l'acceptation, lorsqu'elles existent,
+des règles de résolution des conflits pouvant survenir entre le propriétaire
+du nom de domaine et tout tiers revendiquant des droits sur tout ou partie de
+ce nom.
+Les règles administratives et techniques de nommage ainsi que les règles de
+résolution des conflits afférentes au niveau d'enregistrement .com, net, et
+.org sont accessibles sur le site de l'Internic à l'adresse
+http://www.internic.net et sur celui de l'ICANN à l'adresse
+http://www.icann.org
+Les prix sont payables à la commande
+Les tarifs pratiqués l'internic ou
+l'afnic pouvant varier, Overblog se réserve la faculté de répercuter ces
+éventuelles variations sur ses propres tarifs
+Pour cette raison, les frais
+annuels et de maintenance sont communiqués sous réserve de telles variations.
+Overblog se réserve la faculté de répercuter, sans délai, toute nouvelle taxe
+ou toute augmentation de taux des taxes existantes sur les frais annuels et de
+maintenance précités
+Conformément à l'article L121-18 du Code de la
+Consommation, le client se déclare averti qu'il ne dispose d'aucun droit de
+rétractation après paiement du Pack Premium, et l'accepte.
+La réservation du nom de domaine n'est effective qu'à compter de la mise à
+jour des bases de données des organismes concernés (Afnic, Internic) ou de la
+confirmation adressée au client par voie d'e-mail par Overblog.
+En cas d'inexécution par le client de l'une de ses obligations, Overblog se
+réserve le droit de suspendre, sans préavis, l'ensemble des services fournis,
+sans que cette suspension puisse ouvrir droit à quelle qu'indemnité que ce
+soit.
+Overblog se réserve la faculté de s'opposer à toute demande de transfert d'un
+ou plusieurs noms de domaine, dès lors que le client serait débiteur pour l'un
+de ces noms du prix de la réservation ou de toute autre somme due au titre du
+présent contrat.
+Overblog se réserve la faculté de céder, transférer ou apporter à un tiers,
+sous quelle que forme que ce soit, les droits et obligations nés du présent
+contrat.
+Le client pourra exercer son droit individuel d'accès et de rectification
+auprès de Overblog, conformément aux dispositions de la loi Française n° 78-17
+du 6 janvier 1978, pour l'ensemble des informations communiquées dans le cadre
+du bon de commande.
+L'utilisateur se déclare averti que si la société Webedia, dans le cadre de
+son activité d'hébergement, est astreinte au secret professionnel (Article
+6-III-2 de la loi du 21 Juin 2004), cette dernière,
+dans le cadre de son activité de vente de nom de domaine , est
+légalement contrainte de rendre publiques les informations communiquées par
+l'utilisateur (telles que notamment nom, adresse, adresse de courrier
+électronique, numéro de téléphone et de télécopie, Nom de Domaine, DNS et
+adresses IP des serveurs de noms du domaine) aux fins d’être incluses, suivant
+les règles imposées par l'ICANN ainsi que les NIC, dans la Base Whois et
+l’Extrait Whois du Nom de Domaine de l'utilisateur
+L'utilisateur déclare
+consentir à cette communication d'informations personnelles dans le cadre de
+l'achat de son nom de domaine.
+Le présent contrat est régit par la loi française
+Tout litige relatif à
+l'interprétation ou à l'exécution des présentes conditions générales sera de
+la compétence des tribunaux du ressort du siège social de la société Webedia.
+OverBlog est une marque déposée à l'I.N.P.I de Toulouse sous le numéro 04 3
+327 071 OverBlog (La base de Blogueurs) est déposé à la CNIL sous le
+numéro 11 30 398 Webedia est déposé à la CNIL sous le numéro 11 31 560 Le
+Site www.over-blog.com a été déclaré à la CNIL sous le numéro n° 1045584 par
+la société Webedia Depot APP: IDDN.FR.001.430030.000.S.P.2005.000.10000
+Le Site www.over-blog.com est édité par : Webedia Au capital
+de 1 270 837€ 2 rue Paul Vaillant Couturier 92532
+Levallois-Perret Téléphone de contact : +33 811 69 41 42 SIRET 501
+106 520 00049 TVA FR89501106520
+Pour vos règlements, merci de les adresser à : Webedia -
+Overblog 1 place Occitane bât
+le Sully 31000 Toulouse
+Les serveurs des Sites sont hébergés en France par : Webedia 
+Les présentes conditions générales de vente de l’offre OverBlog (ci-après « les Conditions Générales de l’Offre ») sont conclues entre la société Webedia SA, (ci-après « Webedia ») et l’utilisateur, tel qu’identifié lors de la souscription à l’Offre (ci-après « l’Utilisateur »)
+Les présente Conditions Générales de l’Offre déterminent les conditions et les règles d'accès au site internet fixe (i.e
+hors application mobile) OverBlog accessible à l’adresse www.over-blog.com (ci-après « le Site ») sans cookies publicitaires
+Cette offre payante permet ainsi à l’Utilisateur de continuer à accéder à notre Site, sans que soient déposés des cookies publicitaires analysant ses données de navigation pour l’affichage de publicités personnalisées sur nos pages (« l’Offre »)
+L’Utilisateur reconnaît et accepte que des publicités seront toujours visibles lorsqu’il accédera au Site
+Cependant, celles-ci ne dépendront pas des cookies publicitaires
+Cette pratique consiste à offrir un choix à l’utilisateur de notre site internet entre (i) consentir au dépôt des cookies ou (ii) payer un prix, pour accéder au site/application
+L’utilisateur ne pourra donc pas accéder aux services proposés par notre site internet sans effectuer ce choix préalable
+Le modèle économique de notre site internet repose essentiellement sur l’affichage de publicités personnalisées qui sont basées sur l’utilisation de cookies publicitaires qui permettent de suivre la navigation des internautes afin d’ajuster la publicité aux centres d’intérêts des internautes
+La réglementation relative aux cookies ne permet pas à notre société de se baser sur ce seul modèle économique
+En conséquence, afin de pouvoir maintenir le financement du Site ; et fournir les services proposés tout en vous offrant une même qualité de contenu éditorial sans cesse renouvelé, nous vous offrons la possibilité d’exprimer votre choix entre les deux alternatives suivantes d’accès:
+Continuer à accéder gratuitement à notre site, en acceptant la pose de cookies publicitaires ;
+ou
+Souscrire à l’offre payante pendant un mois, qui vous permettra pendant ce mois de continuer à accéder à notre site, sans que soient déposés des cookies publicitaires sur votre terminal.
+Les Conditions Générales de l’Offre viennent en complément des Conditions Générales d’utilisation du Site
+Les Conditions Générales d’Utilisation du Site font partie intégrante des présentes et en cas de silence des Conditions Générales de l’Offre, les Conditions Générales d’utilisation du Site s’appliqueront
+L’Utilisateur reconnaît qu’il ne pourra souscrire à l’Offre que s’il accepte sans réserve les Conditions Générales de l’Offre
+Les présentes Conditions Générales sont uniquement disponibles en langue française, cette version étant la seule opposable
+L’Utilisateur dispose de la faculté d’y accéder à tout moment au bas de chaque page du Site et pourra les sauvegarder et les imprimer
+Cette offre payante permet à l’Utilisateur qui y souscrit de continuer à accéder à notre Site internet pendant 30 jours à compter de son achat, sans que soient déposés sur son terminal des cookies publicitaires analysant ses données de navigation pour l’affichage de publicités personnalisées sur nos pages
+L’Utilisateur reconnaît et accepte que des publicités seront toujours visibles lorsqu’il accédera au Site
+Cependant, celles-ci ne dépendront pas des cookies publicitaires
+Offre non-applicable à l’application mobile : La présente Offre n’est valable que pour le site internet et non l’application mobile
+Pour toute utilisation de l’application sans cookie publicitaire, l’Utilisateur devra souscrire à une autre offre directement via l’application
+Pour souscrire à l’Offre et accéder au Site sans cookies publicitaires, l’Utilisateur doit : 
+Accepter l’intégralité des Conditions Générales de l’Offre, 
+Choisir son mode de paiement entre l’utilisation de son compte PayPal ou l’utilisation des coordonnées de sa carte bancaire, 
+Procéder au paiement sécurisé de l’Offre
+Un e-mail de confirmation, récapitulant le détail de la commande sera envoyé par PayPal à l’Utilisateur
+Cet e-mail de confirmation contiendra le numéro d’identifiant que l’Utilisateur devra saisir à chaque première connexion au Site sur un autre terminal que celui avec lequel il a souscrit à l’Offre afin de lui permettre de bénéficier de l’Offre.
+3.1 Webedia met en œuvre les moyens nécessaires pour protéger les informations personnelles des Utilisateurs en assurant un haut niveau de sécurité, mais l’Utilisateur a également un rôle dans la protection de ses données à caractère personnel
+L’Utilisateur doit en particulier maintenir la sécurité de ses transactions en ligne par exemple en ne communiquant à personne ses identifiants et le cas échéant en changeant régulièrement son mot de passe
+A ce titre, Webedia ne peut pas être responsable de la divulgation des informations concernant l’Utilisateur à tout individu ayant utilisé ses identifiants
+3.2 La fourniture du numéro de carte bancaire et la validation finale de la souscription à une Offre vaudront preuve de l’acceptation de ladite commande et vaudront exigibilité des sommes engagées au titre de la commande
+Les registres informatisés, conservés dans les systèmes informatiques de Webedia et de ses partenaires seront considérés comme des preuves des communications, des commandes et des paiements intervenus entre les Parties
+L’Utilisateur reconnait que les échanges entre lui et Webedi seront principalement électroniques (par email) sauf dans les cas particuliers présentés prévues aux présentes ou requis par la loi et accepte expressément que les factures lui soient transmises par email.
+3.3 Le numéro ou code d’identifiant est personnel, secret et incessible et l’Utilisateur s’engage ainsi à ne pas le divulguer
+L’Utilisateur devra informer immédiatement Webedia, de toute perte ou utilisation non autorisée de son numéro d’identifiant
+Webedia (i) ne pourra pas être tenu pour responsable de l’utilisation du numéro d’identifiant par un tiers si celui-ci y a eu accès suite à une faute et/ou négligence de l’Utilisateur et (ii) Webedia sera, le cas échéant, fondé à résilier l’Offre conformément à aux présentes Conditions
+3.4 Tout abus ou tentative de manipulation du système ou d’utilisation de code d’accès par le biais d’un tiers ou d’un groupe annule la validité des codes d’accès, et peut entraîner la fermeture des accès concernés
+Webedia se réserve le droit, à chaque fois que nécessaire, de prendre toutes les mesures raisonnables pour se protéger de la fraude, y compris, de vérifier tout élément concernant un Utilisateur afin notamment de s’assurer qu’il est bien le client concerné
+Webedia ne pourra pas voir sa responsabilité engagée pour tout code d’accès perdu, corrompu ou retardé en raison d’une défaillance réseau, informatique ou logicielle quelconque
+Le code d’accès ne peut être utilisé que pour un usage personnel et non-commercial
+Tout partage du code d’identification par quelconque moyen est interdit.
+En souscrivant à l’Offre, l’Utilisateur demande expressément à bénéficier immédiatement de l’Offre et à accéder au Site sans cookies publicitaires avant l'expiration du délai de rétractation
+L’Utilisateur reconnaît qu’en souscrivant à l’Offre, il ne pourra pas bénéficier du délai de rétractation de quatorze (14) jours prévu par l’article L221-18 du Code de la consommation
+5.1 Le prix de l’Offre est mentionné sur le Site, indiqué et payable en Euros toutes taxes comprises, étant entendu que les Offres souscrites sont facturées aux prix en vigueur lors de leur achat
+Webedia se réserve le droit de modifier le prix de l’Offre à tout moment, étant précisé que cette modification s’appliquera uniquement aux nouvelles Offres
+5.2 Le paiement de l’Offres s’effectue au moyen du compte Paypal de l’Utilisateur ou d’une carte de paiement bancaire
+A ce titre, le l’Utilisateur devra indiquer au sein du module Paypal sécurisé son numéro de carte bancaire, la date de validité et les trois derniers chiffres se trouvant au dos de cette dernière
+Tout paiement sera traité par Paypal, par une procédure sécurisée de cryptage des données afin qu’aucune information transmise par l’Utilisateur ne soit interceptée par des tiers
+Il appartient à l’Utilisateur d’enregistrer et d’imprimer son certificat de paiement s’il souhaite conserver les détails bancaires relatifs à sa transaction
+L’Utilisateur garantit à Webedia qu’il est pleinement autorisé à utiliser la carte de paiement pour le paiement de sa commande et que ces moyens de paiement donnent légalement accès à des fonds suffisants pour couvrir les sommes dues
+Webedia ne pourra être tenue pour responsable de tout usage frauduleux du moyen de paiement utilisé.
+5.3 Webedia se réserve le droit de suspendre, refuser une commande ou d’annuler tout souscription, quelle que soit sa nature et niveau d’exécution, en cas de non-paiement total ou partiel ou de non-encaissement de toute somme qui serait due par l’Utilisateur, en cas d’incident de paiement ou d’un litige relatif à un paiement, ou en cas de partage des codes d’accès, de fraude ou de tentative de fraude relative à l’utilisation du Site, y compris à l’occasion d’une souscription antérieure
+L’Offre est conclue pour une durée déterminée d’un mois (30 jours glissants consécutifs) à compter de sa souscription
+L’Offre ne sera pas reconduite tacitement
+Si à l’expiration de son Offre, l’Utilisateur souhaite continuer à pouvoir accéder au Site sans cookies publicitaires, il lui suffira de souscrire à une nouvelle Offre d’un mois dans les conditions visées à l’article 1 ci-avant
+Des publicités seront toujours visibles par l’Internaute lorsqu’il accédera au Site
+Cependant, celles-ci ne seront pas basées sur des cookies publicitaires
+Ainsi, à tout moment, Webedia peut décider de placer des espaces publicitaires sur le Site Internet
+Webedia jouit d’une totale liberté lorsqu’il s’agit du choix de ces annonceurs, des types de visualisation des publicités mais également de leur position sur le site.
+8.1 Webedia ne peut en aucun cas être tenue de vérifier la capacité juridique de ses Utilisateurs
+En conséquence, si un Utilisateur ne disposant pas de la capacité juridique souhaite souscrire à l’Offre sur le Site, ses responsables légaux (parents, tuteurs, notamment) assument l'entière responsabilité de cette souscription et doivent notamment en honorer le prix
+8.2 Les informations accessibles sur le Site sont fournies « EN L’ETAT » sans garantie d’aucune sorte, qu’elle soit implicite ou explicite, concernant notamment l’intégrité, l’exactitude, l’actualité, la non contrefaçon, la disponibilité, la fiabilité ou l’exhaustivité des informations relatives aux services apparaissant sur le Site ou encore leur adéquation à l’utilisation que l’Utilisateur projette d’en faire
+8.3 La responsabilité de Webedia est limitée aux préjudices directs à l’exclusion de tout autre préjudice notamment indirect, de quelque nature que ce soit
+La responsabilité de Webedia ne saurait être engagée pour tout dommage subi par l’Utilisateur ou par un tiers résultant directement ou indirectement du non-respect par l’Utilisateur de l’une quelconque de ses obligations, d’une négligence, d’une utilisation du Site non conforme notamment à d’autres fins que celles indiquées par Webedia ou en cas de retard ou de manquement à ses obligations imputable au fait d’un tiers même s’il est prévisible ou de la survenance d’un événement en dehors de son contrôle tel qu’un cas fortuit ou cas de force majeure tel que défini par l’article 1218 du Code Civil et les Tribunaux français
+8.4 En tout état de cause, dans les limites prévues par la loi, dans l’hypothèse où la responsabilité de Webedia devait être établie et retenue à raison d’un préjudice subi par l’Utilisateur et imputable exclusivement à la souscription d’une Offre, le montant total des indemnisations et de toute somme mise à la charge de Webedia dans ce cadre est limitée au montant de la somme payée par l’Utilisateur à Webedia sur le Site au titre de cette Offre
+Cette limitation de responsabilité n’est pas applicable en cas de dommage corporel ou de mise en cause de la responsabilité extracontractuelle de Webedia
+Toute réclamation contre Webedia doit être formulée dans les 2 mois suivant l’apparition de l’événement, objet de la réclamation et adressée à Webedia par email
+A défaut, Webedia sera dégagée de ses obligations à ce titre.
+Cession - Les contrats, les droits et obligations des Utilisateurs ne peuvent être cédés ou transférés sans consentement écrit préalable de Webedia
+Les contrats, les droits et obligations de Webedia peuvent être cédés ou transférés à tout moment sans consentement préalable de l’Utilisateur
+Non-validité partielle - Si une ou plusieurs stipulations des Conditions Générales sont tenues pour non valides ou déclarées comme telles en application d’une loi, d’un règlement ou à la suite d’une décision définitive d’une juridiction compétente, les autres stipulations garderont toute leur force et leur portée
+Non-renonciation - Le fait pour l’une des Parties de ne pas se prévaloir auprès de l’autre Partie d’un manquement à l’une quelconque des obligations visées au sein des présentes Conditions Générales ne saurait être interprété pour l’avenir comme une renonciation à l’obligation en cause
+Résiliation - Webedia se réserve le droit de suspendre et/ou résilier de plein droit, sans préavis ni indemnité, l’Offre en cas de non-respect par l’Utilisateur des Conditions Générales de l’Offre et notamment en cas de connexions multiples simultanées avec le même numéro d’identifiant
+Le non-respect par l’Utilisateur des obligations souscrites aux termes des présentes Conditions Générales, tout incident de paiement du prix d’une commande, des agissements contraires aux intérêts de Webedia, la communication d’identifiants (code d’accès), d’informations fausses, dénigrantes ou erronées ou sur un forum ou sur les réseaux sociaux, pourront entraîner la suspension de l’accès au Site, voire la résiliation de l’Offre en fonction du degré de gravité des agissements en cause, sans qu’il puisse être réclamé des dommages et intérêts ou indemnisations, quels qu’ils soient, à Webedia
+Webedia se réserve le droit de refuser toute commande d’un Utilisateur avec lequel il existerait un litige de cette nature, même si celui-ci utilise un nouveau compte
+Webedia ne pourra alors être tenue responsable du préjudice subi par l’Utilisateur.
+Webedia se réserve la possibilité de modifier et de mettre à jour les Conditions Générales sans préavis
+Une notification sera faite sur le Site et/ou par email pour informer les Utilisateurs du Site en cas de modification de ces Conditions Générales et contenant un lien vers la nouvelle version
+Toute nouvelle commande d’une Offre sera soumise aux Conditions Générales en vigueur à la date de la commande
+Accès au Site - Le Site est en principe accessible par l’Utilisateur 24 heures sur 24, 7 jours sur 7 excepté en cas de force majeure, d’interruption volontaire ou non du réseau internet, peu importe la cause, notamment en cas de maintenance
+Etant soumise à une obligation de moyen, Webedia ne pourra être tenue responsable de tout préjudice causé par l’indisponibilité du Site et/ou du non fonctionnement de tout ou partie du Site
+Propriété intellectuelle - L’ensemble des éléments reproduits sur le Site, et notamment mais non exclusivement les textes, commentaires, ouvrages, illustrations, images, photographies et marques sont protégés au titre de la propriété intellectuelle appartenant à Webedia ou à ses partenaires
+Toute reproduction totale ou partielle des éléments accessibles sur le Site est strictement interdite
+Les Conditions Générales de l’Offre sont soumises au droit français
+Conformément à l'article L.211-3 du Code de la consommation, en cas de litige, l’Utilisateur pourra avoir recours à une procédure de médiation pour les consommateurs dans les conditions prévues aux articles L
+611-1 et suivants du Code de la consommation
+Webedia adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr
+Après démarche préalable écrite des consommateurs vis-à-vis de Webedia, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti
+Pour connaître les modalités de saisine du Médiateur, cliquer ici 
+Tout litige pourra également être porté sur la plateforme de règlement en ligne des litiges européens accessible à l’adresse : https://ec.europa.eu/consumers/odr/ 
+Dans le cas où aucune solution amiable ne serait trouvée, les tribunaux français seront compétents.

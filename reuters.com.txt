@@ -1,0 +1,194 @@
+Reuters.com 
+Terms & Conditions 
+Last updated on December 7, 2021
+Table of Contents 
+Introduction 
+Age Requirement 
+Changes to Terms 
+Changes to Digital Products 
+Privacy 
+Registration 
+Intellectual Property; Copyright 
+Restrictions on Use 
+User-Generated Material 
+Third Party Sites and Services 
+Other Thomson Reuters Services 
+Limitations of Our Service and Content 
+Our Financial Responsibility to You 
+Export Controls 
+Choice of Law and Jurisdiction 
+General 
+Company Details 
+Introduction 
+a
+This page describes the terms and conditions (the “ Terms ”) that govern your use of reuters.com and (i) the content and related services and products available on or through reuters.com (including mobile applications and newsletters) and (ii) any updates, new versions or new releases of those services and products
+Individually and collectively, we’ll refer to these services and products as the “ Service ”
+b
+The Service is provided by Reuters News & Media, Inc
+and its group affiliates (being Thomson Reuters Corporation and all entities directly or indirectly controlled by Thomson Reuters Corporation) (“ Reuters group affiliate(s) ”), which we’ll refer to individually and collectively as “ Reuters ,” “ we ”, “ us ”, or “ our ”
+c
+These Terms are for the benefit of each Reuters group affiliate and each such Reuters group affiliate may enforce these Terms
+d
+Certain features or components of the Service may be subject to additional terms and conditions, including user guidelines or other rules, which will be posted on the applicable Service
+Those additional terms and conditions are part of these Terms
+e
+Please read this page carefully
+You agree that by accessing, using and/or downloading the Service, you agree to be legally bound and consent to these Terms
+If any of these Terms are unacceptable to you, you must stop using the Service
+For those users who do not complete the registration process, your access to the Service may be limited
+f
+If you access the Service under a group subscription agreement (e.g., corporations, organizations, institutions, etc.), then your access and use are also governed by that particular agreement between Reuters and your group
+You agree that you are bound by and consent to all of these Terms; however if there is any inconsistency or dispute between these Terms and the group subscription agreement, then the terms of the relevant group subscription agreement will prevail to the extent of the inconsistency or dispute
+g
+If you access (or download) the Service through any third party platform or service, the applicable terms and conditions for such third party platform or service may apply in addition to these Terms and you agree that you are subject to such application or platforms terms in addition to these Terms
+Age Requirement 
+By using the Service, you agree that you are at least 18 years old
+Changes to Terms 
+From time to time, we may revise these Terms without giving prior notice
+If we do make such revisions, we will post an updated version on this site (and update the “Last updated on _____” reference above)
+By continuing to use the Service after the updated version has been posted, you agree that you accept any changes to these Terms
+If you do not accept these changes, please stop using the Service
+Changes to Digital Products 
+From time to time, we may make changes to the Service without prior notice, which could include modifying, discontinuing, or disabling the Service, or modifying the registration options available to users
+For example, we may automatically update or upgrade the version of the Service you may be using on your mobile device
+You agree to any such changes and agree that these Terms will apply to all such changes
+Privacy 
+Please review the Thomson Reuters Privacy Statement (found at: https://www.thomsonreuters.com/en/privacy-statement.html) for a description of our privacy practices
+By registering for an account, making a purchase, or otherwise using our Services (including viewing our content), you acknowledge and agree that we may and will collect, use, transfer, disclose, and otherwise process your personal information as described in our Privacy Statement 
+Without limiting the foregoing and for clarity, you agree that we may transfer your personal information (a) outside of your home country to another country where the laws may not provide an equivalent level of protection and (b) to third parties in accordance with our Privacy Statement 
+Registration 
+a
+As part of the registration process, you will be required to create a user account (including creating a login name and password)
+If you do not complete the registration process, you will not be able to access those parts of the Service available to registered users
+b
+You agree and promise that the information provided by you to us, including during the registration process, is complete and accurate to the best of your knowledge
+You will promptly inform us of any changes to your information
+c
+You are not allowed to share your login details or give your login details to anyone else
+Your registration is for your single use only
+You are responsible for the use or misuse of any login details you create as part of the registration process and for maintaining its confidentiality
+You must promptly notify us of any actual or suspected confidentiality breach or unauthorized use of your login details or account by notifying us at the following link: https://liaison.reuters.com/contact-us 
+d
+If you fail to comply with this Section 6, we may immediately suspend or terminate your access and/or registration to the Service
+Intellectual Property; Copyright 
+a
+All the materials on the Service — the text, photographs, video, audio, graphics, metadata, quotes, data, information, the overall “look and feel,” and all protectable intellectual property (collectively, the “ Content ”) - is the property of Reuters or, in some cases, its licensors
+b
+The Service and Content are protected by copyrights, trademarks, design rights, patents, trade secrets, database rights, sui generis rights, and other intellectual or proprietary rights under U.S
+and international laws
+You agree that all intellectual property rights in the Service and the Content (in whole and in part) are and shall remain the property of Reuters and the Reuters group affiliates and/or our licensors
+No intellectual property rights in the Content or in the Service are transferred to you
+c
+For further information, please refer to the Thomson Reuters Copyright page , which is part of these Terms
+Restrictions on Use 
+a
+THE SERVICE AND THE CONTENT IS PROVIDED BY REUTERS AND ITS LICENSORS TO YOU FOR YOUR PERSONAL USE AND INFORMATION ONLY
+YOU MAY NOT USE THE SERVICE OR THE CONTENT FOR ANY COMMERCIAL PURPOSE
+b
+You promise that you are accessing, using, and/or registering to the Service in your personal, individual capacity (except, if applicable, where your access falls under a group subscription agreement in accordance with Section 1(f))
+c
+You may not remove, alter, forward, scrape, copy, sell, distribute, retransmit, create derivative works or otherwise make available the Content to third parties without our prior written consent (except as occasionally permitted by certain sharing features in the Service that explicitly allow you to share Content or links to Content with a few other individuals)
+d
+You may purchase re-prints of certain Content through our third-party providers
+Information is available here: Copyright page 
+e
+You may not reverse engineer, circumvent, decrypt, decompile, disassemble or otherwise attempt to discern the source code or architecture of any feature or component of the Service
+f
+You may not cache or archive the Content (except for a public search engine’s use of spiders for creating search indices)
+g
+Except for the limited license described herein, you are not conferred any right in the Content or in the Service, by implication, estoppel or otherwise, under copyright or other intellectual property laws, either now or in the future
+h
+Without prejudice to the other provisions under these Terms, we reserve the right to suspend or terminate your access and/or use if you breach any of the provisions under this Section 8
+User-Generated Material 
+a
+The Service may have certain features that allow you or other users to comment on, discuss, upload, submit, link to, or otherwise provide content (e.g., information, graphics, videos, images)
+We’ll refer to that material collectively as “ User Material ”
+User Material is subject to these Terms as well as any additional guidelines or rules that are posted on the parts of the Service where you can provide User Material
+b
+You agree that you will not provide any User Material that: 
+violates anyone’s copyright, trademark or other proprietary right; 
+contains any form of advertising or promotion for goods and services, or any spam or other form of unsolicited communication; 
+is abusive, illegal, defamatory, indecent, obscene, pornographic, offensive, discriminatory (e.g., on the basis of race, nationality, religion, nationality, sex, gender, sexual orientation, age, region, or disability), or threatening in any way; 
+encourages anyone to break the law; 
+interferes with the privacy of another user; 
+contains malware, viruses, spyware, or other software, files, or code designed that could interrupt, destroy, limit, or otherwise harm the Service; 
+misrepresents your identity, affiliation, or status, or otherwise contains false or misleading statements with an intent to defraud; 
+collects or stores other users’ personal data; 
+uses automated means to upload, submit, or post content; 
+gives rise to any liability or violates any applicable local, state, federal, national or international law or regulation
+c
+By posting User Material, you agree that you are legally permitted to upload, submit, or post that User Material
+You also agree that you are legally and financially responsible for any claims against us by any third party relating to your User Material or your posting of it
+d
+You agree that by uploading, submitting, or posting User Material, we have a right unlimited in time to publish, re-use, archive, edit, display, modify, delete, or commercially exploit that User Material in whole or in part as we see fit, whether on the Service or otherwise, without any requirement to pay you or to credit you
+In other words, by posting User Material you are granting us a non-exclusive, transferable, worldwide, fully paid-up, royalty-free, perpetual, irrevocable right and license to use your User Material in any manner and for any purpose whatsoever
+You also irrevocably waive any “moral rights” or other attribution or authorship rights you may have in the User Material
+We do not have an obligation to store User Material for any period of time, and we may remove or delete any User Material for any reason, at any time and without giving you notice
+Third Party Sites and Services 
+a
+The Service may include content created by third parties, including advertisers, sponsors, or other users
+We may also link to, reference, or promote websites, applications and/or services from third parties
+b
+We do not guarantee the accuracy of or endorse the views or opinions given by such third parties
+We are not responsible for, and do not control such non-Reuters websites, applications, products, or services
+Any dealings you have with any third party—including advertisers or sponsors—are solely between you and that third party
+Other Thomson Reuters Services 
+Other Thomson Reuters-related entities may discuss, offer, or promote additional services on the Service
+Those services may be outside the scope of these Terms and may require a separate agreement with the appropriate Thomson Reuters entity
+Limitations of Our Service and Content 
+a
+The Service and Content are provided for informational purposes only
+You understand that the Content on the Service does not constitute any form of tax, legal, or investment advice or opinion regarding the suitability, value or profitability of any particular security, portfolio or investment strategy
+The mention of a particular security on the Service does not constitute a recommendation for you to buy, sell, refrain from buying, or hold that or any other security, financial product, or investment
+b
+We and our licensors are not liable for any errors, inaccuracies, or delays in the Service or any Content, or for any actions taken by you in reliance on the Service or Content
+You agree that your use of the Service or the Content is at your sole risk
+c
+We do not provide any promises or warranties about the Service or the Content, which are provided to you on an “as is” and “as available” basis
+We do not make any promises about the Service or the Content, or of the quality, completeness, or accuracy of the Content available on or linked to from the Service
+In other words, we disclaim all responsibility for any loss, injury claim, liability, or damage of any kind resulting or related to your access, use, or the unavailability of the Service (or any part thereof)
+Our Financial Responsibility to You 
+To the fullest extent permitted under applicable law, we will not be liable—jointly or severally—for any direct, indirect, consequential, special, incidental, punitive, or exemplary damages, including but not limited to lost profits, lost savings, and lost revenues, whether in negligence, tort, contract, or any other theory of liability, even if we have been advised of the possibility of such damages or could have foreseen any such damages
+The limitations of liability in these Terms shall apply for the benefit of our officers, directors, employees, agents, or any company to whom we may transfer our rights and obligations to in accordance with these Terms
+Export Controls 
+By using the Services contained herein, you: (a) agree to abide by the export and sanctions regulations of Canada, the European Union, the United Kingdom and of the United States, including the US Export Administration Regulations and the US Office of Foreign Assets Control Regulations (collectively, “ Trade Regulations ”); and (b) represent and warrant that you are not a specially designated, denied or unverified party as described in such Trade Regulations
+Choice of Law and Jurisdiction 
+a
+These Terms shall (to the fullest extent permitted under applicable law) be governed by and construed in accordance with the laws of the State of New York in the United States, without giving effect to any principles of conflicts of law
+To the fullest extent permitted under applicable law, you hereby agree that any disputes arising under or in connection with these Terms or the Service shall be submitted for resolution to federal and state courts in New York County in the State of New York, and you hereby waive any jurisdictional, venue or inconvenient forum objections to such courts
+b
+Any claim or cause of action arising out of or related to your use of the Service or these Terms must be filed within one year after such claim or cause of action arose or be forever barred
+Any claim by you that may arise in connection with these Terms will be compensable by monetary damages and you will in no event be entitled to injunctive or other equitable relief
+You also hereby expressly waive any right to resort to any form of class action
+General 
+a
+These Terms contain the entire agreement between us regarding your use of the Service and supersedes all previous agreements (if any)
+b
+If a court or other valid authority determines that any provision of the Terms is void, invalid, unenforceable, or illegal, such provision(s) will be ineffective only to the extent of such invalidity or unenforceability and the validity and enforceability of the other provisions will remain and not otherwise be affected
+c
+If we do not enforce any provision of the Terms, that will not constitute or be construed as a waiver of such a provision or our right to enforce it
+d
+The United National Convention on the International Sale of Goods shall not apply to the Terms, the Service, or any Content
+Company Details 
+Country & Legal Entity 
+Address & Contact Details 
+Tax ID 
+USA: Reuters News & Media Inc
+3 Times Square, New York, NY 10017 +1 (833) 282 6915 
+82-5086673 
+United Kingdom: Reuters News & Media Ltd 
+Five Canada Square, Canary Wharf, London, E14 5AQ +44 207 94 94864 
+GB 900 5487 43 
+Germany: Thomson Reuters Germany GmbH 
+Friedrich-Ebert-Anlage 49, 60327 Frankfurt am Main +44 207 94 94864 
+DE317995269 
+France: Agence Reuter SARL 
+6-8 Boulevard Haussmann, 75009 Paris +44 207 94 94864 
+FR 31 432646 552 
+Canada: Thomson Reuters Canada Limited 
+Bay Adelaide Centre, 333 Bay Street, Suite 300, Toronto ON, M5H 2R2 +1 (833) 282 6915 
+897176350 RT0005 
+Switzerland: Avanon SA 
+14 Rue du Rhône, 1204 Geneva +44 207 94 94864 
+CHE105171098 
+For further inquiries, please contact us via the following link: https://liaison.reuters.com/contact-us .

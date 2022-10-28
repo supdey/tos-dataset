@@ -1,0 +1,626 @@
+Version: 19.10.2021 
+The protection of your personal data is very important to us
+As such, our customers’ and users’ data protection and data security is a top priority for Sedo GmbH
+When you use a Sedo website, we will collect personal data relating to you for various purposes
+Your personal data is processed in accordance with the EU General Data Protection Regulation and the applicable country-specific data protection regulations
+Sedo GmbH has taken numerous technical and organizational measures to guarantee the greatest possible protection of the personal data collected and processed via this website
+Notwithstanding this, internet-based data transfers are generally subject to security weaknesses, making it impossible to absolutely guarantee your protection
+For this reason, all data subjects are free to visit the Sedo GmbH website and send your personal data to us using alternative, non-electronic means
+1
+Definitions 
+Our data protection declaration is based on the terms used by the European legislator for the adoption of the EU General Data Protection Regulation (GDPR)
+Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners
+To ensure this, we would like to first explain the terminology used
+In this data protection declaration, we use, inter alia, the following terms: 
+a) Personal data 
+Personal data means any information relating to an identified or identifiable natural person (“data subject”)
+An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
+b) Data subject 
+Data subject is any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing
+c) Processing 
+Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
+d) Restriction of processing 
+Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future
+e) Profiling 
+Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements
+f) Pseudonymization 
+Pseudonymization is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person
+g) Controller or controller responsible for the processing 
+Controller or controller responsible for the processing is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law
+h) Processor 
+Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller
+i) Recipient 
+Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not
+However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing
+j) Third party 
+Third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorized to process personal data
+k) Consent 
+Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her
+2
+Name and address of the controller 
+We, Sedo GmbH, are the controller within the meaning of the GDPR , that is the legal person which determines the purposes and means of the processing of personal data 
+Our contact details are: Im Mediapark 6B, 50670 Cologne, Germany; Ph.: +49 180 5 733622; Fax: +49 221 34030-102, email: kontakt@sedo.de 
+3
+Name and address of the data protection officer 
+Our data protection officer is Noura Khelaifia, Im Mediapark 6B, 50670 Cologne, Ph.: +49 221 34030-571, email: dataprotection@sedo.de 
+All data subjects may refer personal data-related questions or queries to our data protection officer directly
+4
+How is your personal data processed? 
+a) Collection of general data and information 
+When you visit our website our servers temporarily save all accesses in a log file
+The following information is temporarily stored (until it is automatically deleted after six months): The requesting device’s IP address Date and time accessed File requested by the client (file name and URL) Data volume transferred Indication if access was successful Recognition data regarding the browser and operating system used
+When this general data and information is processed, we do not connect it to a data subject
+Rather, this information is processed to allow access to the website (establishing a connection), for the purposes of the ongoing technical functionality of our IT systems and the technology in our website, for system security and to optimize our online offerings
+As such, the data and information are analyzed by us for statistical purposes on the one hand and, on the other hand, to improve our company’s data protection and data security and thereby to offer an optimal level of data protection in relation to the personal data processed by us
+The data on the server log files is kept separate from personal data provided by a data subject
+Personal data going beyond this, such as name, address, telephone number or email address are not collected unless you provide this information voluntarily, for example in the context of a request for information
+b) Collection and processing of our customers’ personal data 
+As part of the registration for the use of our services in accordance with the contract, we collect personal data such as your name, address and email address
+You can see what personal data is being sent to us from the fields which are used to enter information during registration
+The personal data entered by the data subject is only collected and stored for internal use and our own purposes
+When you register on our website, we also save the IP address allocated by the data subject’s internet service provider (ISP), as well as the time and date of registration
+This information is recorded in order to prevent misuse of our services and to allow the investigation of any criminal offences
+As such, this data is stored for security purposes
+In principle, this information is not disclosed to third parties to unless there is a legal obligation to do so or the disclosure is in order to further a criminal investigation
+The registration of personal data provided voluntarily by data subjects helps us to offer content and services to the data subject which, due to the nature of the matter, can only be offered to registered users
+Registered persons have the right to change or request the complete deletion of personal data provided during registration, if this is not inconsistent with any legal regulations
+On request, we will provide any data subject with information regarding what personal data we have saved in relation to them
+Furthermore, we will correct or delete personal data on request or if instructed by the data subject, to the extent that this is not inconsistent with a statutory data retention obligation
+Your data will only be processed for other purposes with your consent or if there is a legal basis for this
+This data processing is based on art
+6 para
+1 p
+1 lit
+b) of the GDPR which allows the processing of data in performance of a contract or in relation to steps prior to entering a contract
+c) Contact possibility via the website 
+Our website contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address)
+If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored
+Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject
+The processing of data submitted through the contact form is based on art
+6 para
+1 p
+1 lit
+b) of the GDPR which allows the processing of data in performance of a contract or in relation to steps prior to entering a contract
+In addition to this, art
+6 para
+1 p
+1 lit
+b) of the GDPR authorizes us to process data for the purposes of our legitimate interests
+d) Data protection for applications and the application procedure 
+We collect and process the personal data of applicants for the purpose of the processing of the application procedure
+The processing may also be carried out electronically
+This is the case, in particular, if an applicant submits corresponding application documents by e-mail
+If we conclude an employment contract with an applicant, the submitted data will be stored for the purpose of processing the employment relationship in compliance with legal requirements
+If no employment contract is concluded with the applicant by us, the application documents shall be automatically erased two months after notification of the refusal decision, provided that no other legitimate interests of the controller are opposed to the erasure
+Other legitimate interest in this relation is, e.g
+a burden of proof in a procedure under the General Equal Treatment Act (AGG)
+This data processing is based on art
+6 para
+1 p
+1 lit b) of the GDPR which allows the processing of data in performance of a contract or in relation to steps prior to entering a contract
+5
+Newsletters 
+a) Subscription to our newsletter 
+On our website, users are given the opportunity to subscribe to our enterprise's newsletter
+The input mask used for this purpose determines what personal data are transmitted, as well as when the newsletter is ordered from the controller
+We inform our customers and business partners regularly by means of a newsletter about enterprise offers
+The enterprise's newsletter may only be received by the data subject if the data subject has a valid e-mail address and the data subject registers for the newsletter shipping
+A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter shipping, for legal reasons, in the double opt-in procedure
+This confirmation e-mail is used to prove whether the owner of the e-mail address as the data subject is authorized to receive the newsletter
+During the registration for the newsletter, we also store the IP address of the computer system assigned by the Internet service provider (ISP) and used by the data subject at the time of the registration, as well as the date and time of the registration
+The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address of a data subject at a later date, and it therefore serves the aim of the legal protection of the controller
+The personal data collected as part of a registration for the newsletter will only be used to send our newsletter
+In addition, subscribers to the newsletter may be informed by e-mail, if this is necessary for the operation of the newsletter service or a registration in question, as this could be the case in the event of modifications to the newsletter offer, or in the event of a change in technical 
+Our newsletters are sent using the service provider Oracle Deutschland B.V
+& Co
+KG, Riesstraße 25, 80992 München, Germany
+The servers are located in the Netherlands (Laarderhoogtweg 57, 1101 EB, Amsterdam)
+In the context of support and administration services, it cannot be ruled out in individual cases that individual employees of Oracle Corporation outside the EU may also have access to user data as part of their contractual performance of services
+As a precautionary measure, we have ensured an appropriate level of data protection at Oracle Corporation by means of sufficient guarantees within the meaning of the GDPR
+The data that is entered during registration is not sent to other third parties 
+You can find additional information regarding Oracle Deutschland B.V
+& Co
+KG approach to data protection at: https://www.oracle.com/de/legal/privacy/ 
+Naturally, you are able to withdraw your consent for the receipt of our newsletters at any time by logging in at our website and updating your email settings for the relevant newsletter which can be found under account settings in the customer area
+Alternatively, you can unsubscribe using the unsubscribe link contained in each newsletter email
+Your email address is therefore processed exclusively based on your consent (art
+6 para
+1 p
+1 lit
+a) of the GDPR)
+You may withdraw this consent at any time
+There are no formal requirements for this; a simple email to us will suffice
+Withdrawal of consent does not affect the lawfulness of any data processing which has occurred prior to the withdrawal of consent
+b) Newsletter-Tracking 
+Our newsletter contains so-called tracking pixels
+A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis
+This allows a statistical analysis of the success or failure of online marketing campaigns
+Based on the embedded tracking pixel, we may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects
+Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by us in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject
+These personal data will not be passed on to third parties
+Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure
+After a revocation, these personal data will be deleted by us
+We automatically regard a withdrawal from the receipt of the newsletter as a revocation
+Furthermore, a cookie is set on the information technology system of the data subject
+What exactly cookies are is explained in detail below
+Oracle will use the data and information obtained via our website on behalf of the controller to evaluate the user behavior of the data subject who has used our website
+Furthermore, Oracle will use the data to compile reports on user activities on our behalf, as well as to provide other services for our company in connection with the use of our website
+The data subject can prevent the setting of cookies by our website at any time by means of an appropriate setting of the Internet browser used and thus permanently object to the setting of cookies
+Such a setting of the Internet browser used would also prevent Oracle from setting a cookie on the information technology system of the data subject
+In addition, cookies already set by Oracle can be deleted at any time via the Internet browser or other software programs
+In addition, the data subject has the possibility to object to the collection of data generated by the Eloqua cookie and related to a use of this website as well as to the processing of such data by Oracle and to prevent such processing
+To do this, the data subject must press the Click Here button at www.oracle.com/marketingcloud/opt-status.html , which sets an opt-out cookie
+The opt-out cookie set with the objection is stored on the information technology system used by the data subject
+If the cookies on the system of the data subject are deleted after an objection, the data subject must call up the link again and set a new opt-out cookie
+However, with the setting of the opt-out cookie, there is the possibility that the Internet pages of the controller are no longer fully usable for the data subject
+The applicable data protection provisions of Oracle can be found at www.oracle.com/legal/privacy/index.html.The main purpose of tracking and the associated analysis of user behavior is to measure the success of advertising campaigns and to optimize the advertising being displayed
+This processing of personal data is carried out pursuant to art
+6 para
+1 p
+1 lit
+f) of the GDPR
+You are able to prohibit third party provider tracking
+6
+Trustpilot 
+We offer the possibility to rate our service via the rating service www.trustpilot.de
+After concluding an agreement, you will receive an e-mail from us asking you to rate our service
+In this e-mail you will find a link which will forward you to the Trustpilot page where you can submit your customer rating
+The terms and conditions and privacy policy of Trustpilot apply and are published at legal.trustpilot.de/end-user-privacy-terms and legal.trustpilot.de/end-user-terms-and-conditions 
+The service provider is Trustpilot A/S based at Pilestræde 58, 5, 1112 Copenhagen, Denmark
+The data processing within the rating procedure via Trustpilot serves the purpose of offering our customers the possibility to evaluate our service on the internet
+The customer rating provided is used by Sedo to optimise the services offered
+It is also intended to provide potential new customers with reliable experience reports that provide information on the quality of our products and services
+If you participate in the rating system, your rating will be published on our website as well as on the Trustpilot and its partners’ websites
+The e-mail address, first name, surname and reference number will be sent to Trustpilot for the purpose of submitting a rating
+This data processing and transfer is based on a given consent pursuant to art
+6 para
+1 p
+1 lit
+a) of the GDPR
+The given consent can be revoked at any time.7
+Payment processing 
+a) Payment Servcie Provider 
+For payment processing, we use the payment service provider Adyen N.V., located at Simon Carmiggelstraat 6-50, 1011 DJ Amsterdam, The Netherlands (hereinafter referred to as "Adyen")
+In this context, we share your payment information (name, address, IBAN, BIC, invoice amount, currency, transaction number) with Adyen
+Furthermore, we transfer your IP address to Adyen for the prevention and detection of fraud
+All data is transmitted in encrypted form
+Adyen is solely responsible for the processing of the payment data in the course of the subsequent payment processing
+Information on data protection at Adyen can be found at www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy 
+The transfer of data for payment processing as well as fraud prevention and detection are based on our legitimate interest according to Art
+6 para
+1 p
+1 lit
+f) DSGVO as well as based on Art
+6 para
+1 p
+1 lit
+b) for the fulfillment of the contractual relationship
+b) Payment method: PayPal 
+On this website, we have integrated components of PayPal
+PayPal is an online payment service provider
+Payments are processed via so-called PayPal accounts, which represent virtual private or business accounts
+PayPal is also able to process virtual payments through credit cards when a user does not have a PayPal account
+A PayPal account is managed via an e-mail address, which is why there are no classic account numbers
+PayPal makes it possible to trigger online payments to third parties or to receive payments
+PayPal also accepts trustee functions and offers buyer protection services
+The European operating company of PayPal is PayPal (Europe) S.à.r.l
+& Cie
+S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg
+If the data subject chooses "PayPal" as the payment option in the online shop during the ordering process, we automatically transmit the data of the data subject to PayPal
+By selecting this payment option, the data subject agrees to the transfer of personal data required for payment processing
+The personal data transmitted to PayPal is usually first name, last name, address, email address, IP address, telephone number, mobile phone number, or other data necessary for payment processing
+The processing of the purchase contract also requires such personal data, which are in connection with the respective order
+The transmission of the data is aimed at payment processing and fraud prevention
+We will transfer personal data to PayPal, in particular, if a legitimate interest in the transmission is given
+The personal data exchanged between PayPal and us for the processing of the data will be transmitted by PayPal to economic credit agencies
+This transmission is intended for identity and creditworthiness checks
+PayPal will, if necessary, pass on personal data to affiliates and service providers or subcontractors to the extent that this is necessary to fulfill contractual obligations or for data to be processed in the order
+The data subject has the possibility to revoke consent for the handling of personal data at any time from PayPal
+A revocation shall not have any effect on personal data which must be processed, used or transmitted in accordance with (contractual) payment processing
+The applicable data protection provisions of PayPal may be retrieved under www.paypal.com/us/webapps/mpp/ua/privacy-full 
+This data processing is based on art
+6 para
+1 p
+1 lit
+b) of the GDPR which allows the processing of data in performance of a contract or in relation to steps prior to entering a contract
+c) Payment method: credit card via ipayment 
+As a further payment method we offer credit card payment
+Regarding this payment method, we use the payment processing system "ipayment" of 1&1 Internet SE, Elgendorfer Str
+57, 56410 Montabaur
+If you choose to pay by credit card, the payment data you enter will be transmitted to 1&1 Internet SE
+The data transmission as well as processing is guaranteed to high security standards of 1&1 by the certification in the highest security level according to the Payment Card Industry Data Security Standard (PCI DSS)
+The data transfer is based on Art
+6 para
+1 p
+1 lit
+b) DSGVO and serves the fulfillment of the contract
+8
+Cookies 
+To improve the user experience on our website and enable you to use certain features, some pages of this website make use of cookies
+These are small text files which are stored on your computer
+Most of the cookies we use are deleted from your hard drive when you end the browser session (so-called session cookies)
+Other cookies remain on your computer and allow us to recognize your computer the next time you visit our website (so-called persistent cookies)
+Our partner companies are not allowed to process personal data collected via our website using cookies
+You can prevent cookies from being stored on your hard drive by changing your browser settings to “do not accept cookies”
+You can also configure your browser so that it asks you whether to accept or reject the cookies before they are placed.  You are also always able to delete cookies once they have been saved
+For detailed instructions please refer to your browser or device user manual
+Disabling cookies may limit your access to some features of our website in some cases
+You can find further information on our cookies in our cookie policy 
+Cookies which are necessary to carry out electronic communication or to provide certain functions requested by you (e.g
+shopping cart functions) are stored pursuant to art
+6 para
+1 p
+1 lit
+f) of the GDPR
+Website operators have a legitimate interest in storing cookies for the purposes of optimizing the provision of their services free of technical errors
+If other cookies (e.g
+Cookies analyzing your surfing behavior) are stored, they will be covered separately in this privacy policy
+9
+Information that we automatically receive based on your use of Sedo 
+When you use our services or visit our website, we automatically collect data regarding your use or your visit
+We do this using various tracking technologies
+On the one hand, we collect user and third-party data on our server
+On the other, we use cookies, pixels and similar tracking technologies on devices
+a) Data protection provisions about the application and use of Google analytics (with anonymization function) 
+On our website we have integrated the component of Google Analytics (with the anonymizer function)
+Google Analytics is a web analytics service
+Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites
+A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed
+Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising
+The operator of the Google Analytics component is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States
+For the web analytics through Google Analytics we use the application "_gat
+_anonymizeIp"
+By means of this application the IP address of the Internet connection of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area
+The purpose of the Google Analytics component is to analyze the traffic on our website
+Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us
+Google Analytics places a cookie on the information technology system of the data subject
+The definition of cookies is explained above
+With the setting of the cookie, Google is enabled to analyze the use of our website
+With each call-up to one of the individual pages of this Internet site, which is operated by us and into which a Google Analytics component was integrated, the Internet browser on the information technology system of the data subject will automatically submit data through the Google Analytics component for the purpose of online advertising and the settlement of commissions to Google
+During the course of this technical procedure, the enterprise Google gains knowledge of personal information, such as the IP address of the data subject, which serves Google, inter alia, to understand the origin of visitors and clicks, and subsequently create commission settlements
+The cookie is used to store personal information, such as the access time, the location from which the access was made, and the frequency of visits of our website by the data subject
+With each visit to our Internet site, such personal data, including the IP address of the Internet access used by the data subject, will be transmitted to Google in the United States of America
+These personal data are stored by Google in the United States of America
+Google may pass these personal data collected through the technical procedure to third parties
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies
+Such an adjustment to the Internet browser used would also prevent Google Analytics from setting a cookie on the information technology system of the data subject
+In addition, cookies already in use by Google Analytics may be deleted at any time via a web browser or other software programs
+In addition, the data subject has the possibility of objecting to a collection of data that are generated by Google Analytics, which is related to the use of this website, as well as the processing of this data by Google and the chance to preclude any such
+For this purpose, the data subject must download a browser add-on under the link tools.google.com/dlpage/gaoptout and install it
+This browser add-on tells Google Analytics through a JavaScript, that any data and information about the visits of Internet pages may not be transmitted to Google Analytics
+The installation of the browser add-ons is considered an objection by Google
+If the information technology system of the data subject is later deleted, formatted, or newly installed, then the data subject must reinstall the browser add-ons to disable Google Analytics
+If the browser add-on was uninstalled by the data subject or any other person who is attributable to their sphere of competence, or is disabled, it is possible to execute the reinstallation or reactivation of the browser add-ons
+Further information and the applicable data protection provisions of Google may be retrieved under www.google.com/intl/en/policies/privacy/ and under www.google.com/analytics/terms/us.html 
+Google Analytics is further explained under the following Link www.google.com/analytics/ 
+The tracking and the associated analysis of user behavior are principally carried out for the performance of our contractual obligations
+This processing of personal data is carried out pursuant to art
+6 para
+1 p
+1 lit
+b) of the GDPR
+You are able to prohibit third party provider tracking
+Google Analytics also uses tracking technology to measure the success of advertising campaigns and optimize the display of advertising
+This processing of personal data is carried out pursuant to art
+6 para
+1 p
+1 lit
+f) of the GDPR
+You are able to prohibit third party provider tracking
+b) Data protection provisions about the application and use of Google Remarketing 
+As a further tracking-technology we have integrated Google Remarketing services on our website
+Google Remarketing is a feature of Google AdWords, which allows an enterprise to display advertising to Internet users who have previously resided on the enterprise's Internet site
+The integration of Google Remarketing therefore allows an enterprise to create user-based advertising and thus shows relevant advertisements to interested Internet users
+The operating company of the Google Remarketing services is the Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States
+The purpose of Google Remarketing is the insertion of interest-relevant advertising
+Google Remarketing allows us to display ads on the Google network or on other websites, which are based on individual needs and matched to the interests of Internet users
+Google Remarketing sets a cookie on the information technology system of the data subject
+The definition of cookies is explained above
+With the setting of the cookie, Google enables a recognition of the visitor of our website if he calls up consecutive web pages, which are also a member of the Google advertising network
+With each call-up to an Internet site on which the service has been integrated by Google Remarketing, the web browser of the data subject identifies automatically with Google
+During the course of this technical procedure, Google receives personal information, such as the IP address or the surfing behavior of the user, which Google uses, inter alia, for the insertion of interest relevant advertising
+The cookie is used to store personal information, e.g
+the Internet pages visited by the data subject
+Each time we visit our Internet pages, personal data, including the IP address of the Internet access used by the data subject, is transmitted to Google in the United States of America
+These personal data are stored by Google in the United States of America
+Google may pass these personal data collected through the technical procedure to third parties
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies
+Such an adjustment to the Internet browser used would also prevent Google from setting a cookie on the information technology system of the data subject
+In addition, cookies already in use by Google may be deleted at any time via a web browser or other software programs
+In addition, the data subject has the possibility of objecting to the interest-based advertising by Google
+For this purpose, the data subject must call up the link to www.google.de/settings/ads and make the desired settings on each Internet browser used by the data subject
+Further information and the actual data protection provisions of Google may be retrieved under www.google.com/intl/en/policies/privacy/ 
+Google Remarketing also uses tracking technology to measure the success of advertising campaigns and optimize the display of advertising
+This processing of personal data is carried out pursuant to art
+6 para
+1 p
+1 lit
+f) of the GDPR
+You are able to prohibit third party provider tracking
+c) Hotjar 
+Our website uses the web analytics service Hotjar
+The provider is Hotjar Ltd, Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (website: www.hotjar.com) 
+Hotjar is a tool used to analyze your user behavior on our website
+We use Hotjar to better understand the needs of our users and to optimize the offer and the experience on this website
+Using Hotjar's technology, we gain a better understanding of our users' experiences
+This allows us to record your mouse and scroll movements and clicks, among other things
+Hotjar can also determine how long you stayed in a particular spot with your mouse pointer
+From this information, Hotjar creates so-called heat maps, which can be used to determine which website areas are viewed preferentially by the website visitor
+Furthermore, we can determine how long you stayed on a page and when you left it
+We can also determine at which point you abandoned your input in a contact form (so-called conversion funnels)
+In addition, Hotjar can be used to obtain direct feedback from website visitors
+This function serves to improve the website operator's web offerings
+Hotjar works with cookies and other technologies to collect data about the behavior of our users and about their end devices, in particular IP address of the device (collected and stored only in anonymized form during your website use), screen size, device type (unique device identifiers), information about the browser used, location (country only), preferred language for viewing our website
+Hotjar stores this information on our behalf in a pseudonymized user profile
+Hotjar is contractually prohibited from selling the data collected on our behalf
+Hotjar cookies remain on your terminal device until you delete them
+You can set your browser so that you are informed about the setting of cookies and only allow cookies in individual cases, exclude the acceptance of cookies for certain cases or in general, as well as activate the automatic deletion of cookies when closing the browser
+If you disable cookies, the functionality of this website may be limited
+Alternatively, you can deactivate the data collection by Hotjar by clicking on the following link and following the instructions there: www.hotjar.com/opt-out 
+Please note that the deactivation of Hotjar must be done separately for each browser or terminal device
+For more information about Hotjar and the data it collects, please see Hotjar's privacy policy at the following link: www.hotjar.com/privacy 
+The use of Hotjar and the storage of Hotjar cookies is based on Art
+6 para
+1 p
+1 lit
+f) of the GDPR
+As a website operator, we have a legitimate interest in analyzing user behavior in order to optimize both our website and our advertising
+d) Taboola 
+We use the Taboola service on our website, which makes it possible to play out user-specific recommendations for content and ads based on surfing behavior and customer interests in order to improve the user-friendliness of our offering
+The usage profiles are created using pseudonyms, they are not merged with the data about the bearer of the pseudonym and do not allow any conclusions to be drawn about personal data
+Taboola collects the following user information by means of cookies: 
+(1) events from the user's website including (a) initial and subsequent page visits to our website; (b) conversion data; (c) the associated hashed Taboola User ID read from the cookie; (d) engagement signals (time on site, scroll depth, session depth); (e) hashed emails (if provided by the user); and (f) gender of the user (if provided by the user); and (2) information about the user's browser read from the user agent, including operating system, browser type, and browser version
+For more information about Taboola, please visit www.taboola.com/privacy-policy 
+There you can deactivate tracking at any time in the "User Choices" section
+Your data is processed exclusively based on your consent (Art
+6 para
+1 p
+1 lit
+a) of the GDPR)
+You can revoke this consent at any time by deactivating the tracking
+After you have opted out, no more personalized content/advertising will be played to you
+e) Data protection provisions of the integration of the Trusted Shops Trustbadge 
+Following an order, the Trusted Shops Trustbadge is incorporated into this web page in order to display our eventually collected reviews
+In balancing the various interests, this serves to safeguard our legitimate prevailing interests in an optimised marketing of our offer
+The trustbadge and the services advertised are an offer of Trusted Shops GmbH, Subbelrather Str
+15C, 50823 Köln
+Whenever a trustbadge is called up, the web server automatically stores a so-called server log file which contains, for example, your IP address, the date and time of retrieval, the data volume transferred and the requesting provider (access data), and documents the retrieval
+This access data will not be evaluated and will be automatically overwritten seven days after your visit to the page
+Other personal information will only be transferred to Trusted Shops if you decide, after completing an order, to use Trusted Shops products or have already registered for their use
+In this case, the contractual agreement between you and the Trusted Shops applies
+This tracking is carried out to get evaluations from our customers
+This processing of personal data is carried out pursuant to art
+6 para
+1 p
+1 lit
+f) of the GDPR
+f) Data protection provisions about the application and use of Facebook 
+On our website we have integrated components of the enterprise Facebook
+Facebook is a social network
+A social network is a place for social meetings on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space
+A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information
+Facebook allows social network users to include the creation of private profiles, upload photos, and network through friend requests
+The operating company of Facebook is Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, United States
+If a person lives outside of the United States or Canada, the controller is the Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland
+With each call-up to one of the individual pages of this Internet website, which is operated by us and into which a Facebook component (Facebook plug-ins) was integrated, the web browser on the information technology system of the data subject is automatically prompted to download display of the corresponding Facebook component from Facebook through the Facebook component
+An overview of all the Facebook Plug-ins may be accessed under developers.facebook.com/docs/plugins/ 
+During the course of this technical procedure, Facebook is made aware of what specific sub-site of our website was visited by the data subject
+If the data subject is logged in at the same time on Facebook, Facebook detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-site of our Internet page was visited by the data subject
+This information is collected through the Facebook component and associated with the respective Facebook account of the data subject
+If the data subject clicks on one of the Facebook buttons integrated into our website, e.g
+the "Like" button, or if the data subject submits a comment, then Facebook matches this information with the personal Facebook user account of the data subject and stores the personal data
+Facebook always receives, through the Facebook component, information about a visit to our website by the data subject, whenever the data subject is logged in at the same time on Facebook during the time of the call-up to our website
+This occurs regardless of whether the data subject clicks on the Facebook component or not
+If such a transmission of information to Facebook is not desirable for the data subject, then he or she may prevent this by logging off from their Facebook account before a call-up to our website is made
+The data protection guideline published by Facebook, which is available at facebook.com/about/privacy/ , provides information about the collection, processing and use of personal data by Facebook
+In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject
+In addition, different configuration options are made available to allow the elimination of data transmission to Facebook
+These applications may be used by the data subject to eliminate a data transmission to Facebook
+Facebook is used in the interests of presenting our online services
+This constitutes a legitimate interest within the meaning of art
+6 para
+1 p
+1 lit
+f) of the GDPR
+g) Data protection provisions about the application and use of Twitter 
+Furthermore, we have integrated on our website components of Twitter
+Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called ‘tweets,’ e.g
+short messages, which are limited to 280 characters
+These short messages are available for everyone, including those who are not logged on to Twitter
+The tweets are also displayed to so-called followers of the respective user
+Followers are other Twitter users who follow a user's tweets
+Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets
+The operating company of Twitter is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, UNITED STATES
+With each call-up to one of the individual pages of this Internet site, which is operated by us and on which a Twitter component (Twitter button) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding Twitter component of Twitter
+Further information about the Twitter buttons is available under about.twitter.com/de/resources/buttons 
+During the course of this technical procedure, Twitter gains knowledge of what specific sub-page of our website was visited by the data subject
+The purpose of the integration of the Twitter component is a retransmission of the contents of this website to allow our users to introduce this web page to the digital world and increase our visitor numbers
+If the data subject is logged in at the same time on Twitter, Twitter detects with every call-up to our website by the data subject and for the entire duration of their stay on our Internet site which specific sub-page of our Internet page was visited by the data subject
+This information is collected through the Twitter component and associated with the respective Twitter account of the data subject
+If the data subject clicks on one of the Twitter buttons integrated on our website, then Twitter assigns this information to the personal Twitter user account of the data subject and stores the personal data
+Twitter receives information via the Twitter component that the data subject has visited our website, provided that the data subject is logged in on Twitter at the time of the call-up to our website
+This occurs regardless of whether the person clicks on the Twitter component or not
+If such a transmission of information to Twitter is not desirable for the data subject, then he or she may prevent this by logging off from their Twitter account before a call-up to our website is made
+The applicable data protection provisions of Twitter may be accessed under twitter.com/privacy 
+Twitter is used in the interests of presenting our online services
+This constitutes a legitimate interest within the meaning of art
+6 para
+1 p
+1 lit
+f) of the GDPR
+h) Data protection provisions about the application and use of YouTube 
+On this website, we have integrated components of YouTube
+YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them
+YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal
+The operating company of YouTube is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, UNITED STATES
+The YouTube, LLC is a subsidiary of Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES
+With each call-up to one of the individual pages of this Internet site, which is operated by us and on which a YouTube component (YouTube video) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding YouTube component
+Further information about YouTube may be obtained under www.youtube.com/yt/about/en/ 
+During the course of this technical procedure, YouTube and Google gain knowledge of what specific sub-page of our website was visited by the data subject
+If the data subject is logged in on YouTube, YouTube recognizes with each call-up to a sub-page that contains a YouTube video, which specific sub-page of our Internet site was visited by the data subject
+This information is collected by YouTube and Google and assigned to the respective YouTube account of the data subject
+YouTube and Google will receive information through the YouTube component that the data subject has visited our website, if the data subject at the time of the call to our website is logged in on YouTube; this occurs regardless of whether the person clicks on a YouTube video or not
+If such a transmission of this information to YouTube and Google is not desirable for the data subject, the delivery may be prevented if the data subject logs off from their own YouTube account before a call-up to our website is made
+YouTube's data protection provisions, available at www.google.com/intl/en/policies/privacy/ , provide information about the collection, processing and use of personal data by YouTube and Google
+YouTube is used in the interests of presenting our online services
+This constitutes a legitimate interest within the meaning of art
+6 para
+1 p
+1 lit
+f) of the GDPR
+i) Content Delivery Networks (CDN) 
+On our Sites, we use Content Delivery Network (CDN) from Akamai Technologies GmbH, Parkring 20-22, 85748 Garching, Germany, and (collectively, "Akamai") as a processor for the purpose of service delivery of the CDN solution
+CacheNetworks, LLC, 111 W
+Jackson Blvd
+Suite 160, Chicago, Illinois 60604, USA ("Cachefly")
+For the purpose of a shorter loading time of our online presence, we use a so-called Content Delivery Network ("CDN"), in which the website is delivered via web servers of CacheflyAkamai, which acts for us in the context of an order processing
+With the CDN, content from our website such as images, fonts, stylesheets and scripts are thus delivered to you more quickly via a network of distributed servers
+For this purpose, the browser you use must connect to Cachefly Akamai's servers
+In this way, Cachefly Akamai learns that our website has been accessed via your IP address, together with all the information that your browser discloses in the request
+The resulting data is only used for the aforementioned purpose and to maintain the functionality and security of the CDN
+The service provider uses Akamai International B.V., Coengebouw Building Kabelweg 37, 7th floor, 1014 BA Amsterdam, Netherlands and Akamai Technologies, Inc., 150 Broadway, Cambridge, 02142 MA, USA to provide the service
+The appropriate level of data protection is ensured by the conclusion of a contract processing agreement, provided that the data is processed within the EU and EEA
+The transfer to Akamai Technologies, Inc
+takes place in the USA and thus in a state outside the EU or EEA
+Here, the appropriate level of data protection is ensured by concluding a contract that complies with the standard contractual clauses of the European Commission
+This transfer is permitted under Article 45 of the GDPR, as Akamai Technologies, Inc is Privacy Shield certified and thus an adequate level of data protection exists under the Commission's Implementing Decision (EU) 2016/1250 ( https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016D1250&from=DE )
+The certification can be viewed at 
+For more information, please see AkamaiCachefly's privacy policy: www.akamai.com/de/de/privacy-policies/privacy-statement.jsp 
+www.cachefly.com/privacy-policy/ 
+The use of the CDN serves to protect our legitimate interests in accordance with Art
+6 para 1 p
+1 lit
+f) of the GDPR in the secure provision and optimization of the online offer, which are overriding in the context of a balancing of interests
+j) Cloudflare 
+We use Cloudflare from Cloudflare, Inc, 101 Townsend St., San Francisco, CA 94107, USA on this website
+Cloudflare helps us to make our website more secure
+For this, Cloudflare provides us with security services, such as DDoS protection and web firewall
+Cloudflare blocks threats and limits abusive bots and crawlers that waste our bandwidth and server resources
+By storing our website on local data centers and blocking spam software, Cloudflare allows us to reduce our bandwidth usage
+Serving content through a data center near you and some web optimizations performed there reduces the average website load time by about half
+Cloudflare generally forwards only that data which is controlled by website operators
+Thus, the content is not determined by Cloudflare, but always by the website operator itself
+In addition, Cloudflare may collect certain information about the use of our website and process data that is sent by us or for which Cloudflare has received appropriate instructions
+In most cases, Cloudflare receives data such as contact information, IP addresses, security fingerprints, DNS log data, and performance data for websites derived from browser activity
+Log data helps Cloudflare detect new threats, for example
+This allows Cloudflare to ensure a high level of security protection for our website
+Cloudflare processes this data as part of the services in compliance with applicable laws
+This of course includes the German Data Protection Regulation (GDPR)
+For security reasons, Cloudflare also uses a cookie
+The cookie is used to identify individual users behind a shared IP address and to apply security settings for each individual user
+For example, this cookie becomes very useful when you use our website from a location where there are a number of infected computers
+However, if your computer is trustworthy, we can recognize this from the cookie
+Thus, despite infected PCs in the vicinity, you can surf our website unhindered
+It is also important to know that this cookie does not store any personal data
+This cookie is absolutely necessary for the Cloudflare security features and cannot be disabled
+The use of the security services offered by Cloudflare serve to protect our legitimate interests in accordance with Art
+6 para 1 p
+1 lit
+f) of the GDPR in the secure provision and optimization of the online offer, which are overriding in the context of a balancing of interests
+10
+Routine erasure and blocking of personal data 
+The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to
+If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements
+11
+Period for which the personal data will be stored 
+The criteria used to determine the period of storage of personal data is the respective statutory retention period
+After expiration of that period, the corresponding data is routinely deleted, if it is no longer necessary for the fulfillment of the contract or the initiation of a contract
+12
+Provision of personal data as statutory or contractual requirement; Requirement necessary to enter a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data 
+We clarify that the provision of personal data is partly required by law (e.g
+tax regulations) or can also result from contractual provisions (e.g
+information on the contractual partner)
+Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us
+The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her
+The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded
+Before personal data is provided by the data subject, the data subject must contact any employee
+The employee clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data
+13
+Data security 
+We have taken technical and organizational measures to protect your personal data from loss, destruction, forgery, manipulation and unauthorized access or disclosure
+All our employees and other persons involved with the data processing are under an obligation to treat personal data with confidentiality and in accordance with data protection-relevant laws
+14
+Links to third-party websites 
+If you use external links which are featured on our websites, our privacy policy does not extend to these links
+We do not have any influence over the third parties’ compliance with data protection and security requirements and refer you to the relevant providers’ privacy policies
+15
+Rights of the data subject 
+a) Right of confirmation 
+Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed
+If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact us
+b) Right of access 
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the purposes of the processing
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the categories of personal data concerned
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the existence of the right to lodge a complaint with a supervisory authority
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information where the personal data are not collected from the data subject, any available information as to their source
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information Furthermore the European directives and regulations grant the data subject access to the following information the existence of automated decision-making, including profiling, referred to in Article 22 para
+1 and para
+4 of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject.
+Furthermore, the data subject shall have a right to obtain information as to whether personal data are transferred to a third country or to an international organisation
+Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer
+If a data subject wishes to avail himself of this right of access, he or she may, at any time, contact us
+c) Right of rectification 
+Each data subject shall have the right granted by the European legislator to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her
+Considering the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement
+If a data subject wishes to exercise this right to rectification, he or she may, at any time, contact us
+d) Right to erasure (Right to be forgotten) 
+Each data subject shall have the right granted by the European legislator to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies, if the processing is not necessary: The personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed
+The data subject withdraws consent to which the processing is based according to point (a) of Article 6 para
+1 of the GDPR, or point (a) of Article 9 para 2 of the GDPR, and where there is no other legal ground for the processing
+The data subject objects to the processing pursuant to Article 21 para
+1 of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21 para 2 of the GDPR
+The personal data have been unlawfully processed
+The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject
+The personal data have been collected in relation to the offer of information society services referred to in Article 8 para
+1 of the GDPR
+If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by us, he or she may, at any time, contact us
+We will ensure that the erasure request is complied with immediately
+Where we have made personal data public and we are obliged pursuant to Article 17 para
+1 to erase the personal data, we, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required
+We will arrange the necessary measures in individual cases
+e) Right of restriction of processing 
+Each data subject shall have the right granted by the European legislator to obtain from us restriction of processing where one of the following applies: The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data
+The processing is unlawful and the data subject opposes the erasure of the personal data and requests instead the restriction of their use instead
+The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defense of legal claims
+The data subject has objected to processing pursuant to Article 21 para
+1 of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject
+If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by us, he or she may at any time contact us
+We will arrange the restriction of the processing
+f) Right of data portability 
+Each data subject shall have the right granted by the European legislator, to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format
+He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, if the processing is based on consent pursuant to point (a) of Article 6 para
+1 of the GDPR or point (a) of Article 9 para
+2 of the GDPR, or on a contract pursuant to point (b) of Article 6 para
+1 of the GDPR, and the processing is carried out by automated means, if the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
+Furthermore, in exercising his or her right to data portability pursuant to Article 20 para
+1 of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others
+In order to assert the right to data portability, the data subject may at any time contact us
+g) Right to object 
+Each data subject shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6 para
+1 p
+1 of the GDPR
+This also applies to profiling based on these provisions
+We shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defense of legal claims
+If we process personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing
+This applies to profiling to the extent that it is related to such direct marketing
+If the data subject objects the processing for direct marketing purposes, we will no longer process the personal data for these purposes
+In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by us for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest
+In order to exercise the right to object, the data subject may contact us
+In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications
+h) Automated individual decision-making, including profiling 
+Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorized by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, or (3) is not based on the data subject's explicit consent
+If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, we will implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on our part, to express his or her point of view and contest the decision
+If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact us
+i) Right to withdraw data protection consent 
+Each data subject shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time
+If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact us
+j) Contact 
+If you wish to exercise one of your rights mentioned under section 11 a) – i) you can contact us under dataprotection@sedo.de 
+16
+Amending our privacy policy 
+We reserve the right to amend or adjust our security and or privacy policy as made necessary by technological or regulatory developments
+In these cases, we will also amend our information on data protection
+Please be sure to take note of the most recent version of our privacy policy.

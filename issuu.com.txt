@@ -1,0 +1,83 @@
+Last Updated: September 2nd, 2021 
+ISSUU'S TERMS OF SERVICE ARE CHANGING
+THE UPDATED TERMS OF SERVICE WILL BE EFFECTIVE SEPTEMBER 9TH, 2021
+IF YOU USE OUR SERVICE AFTER THAT DATE, YOU ARE CONFIRMING THAT YOU HAVE READ AND AGREE TO THE UPDATED TERMS
+10.1 All fees are paid in advance and are drawn from your selected payment method upon your acceptance of the Paid Service
+11.1.1 ISSUU is owned and operated by Issuu
+11.1.2 ISSUU consists of the visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of ISSUU as provided by Issuu and all these elements are protected by United States and EU copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws
+11.2 Except for any user submissions (Publications and Other Content) that are provided and owned by Publisher, all parts of ISSUU are the property of Issuu or its subsidiaries or affiliated companies or third-party licensors
+All trademarks, service marks, and trade names are proprietary to Issuu or its affiliates or third-party licensors
+11.3 If you act in your capacity as Publisher you hereby grant to Issuu, for as long as the content/publications are accessible on ISSUU, a transferable, worldwide, non-exclusive, royalty free right to grant to users the user rights contained in these Terms and any other right necessary to operate ISSUU
+11.4 Except as expressly authorized by Issuu, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of any part of ISSUU
+Issuu reserves all rights not expressly granted in these Terms
+12.1 User shall be solely liable for any and all use of ISSUU, including access to ISSUU and any handling of any uploaded content from the User' s account
+12.2 Issuu does not assume any kind of responsibility for any use of ISSUU for which ISSUU is not intended or does not support
+12.3 Issuu shall not be liable for any inability to access ISSUU caused by: 
+12.3.1 User' s lack of internet access regardless of the reason; 
+12.3.2 Telecommunication problems, i.e
+cable breakdown, unusual heavy traffic etc
+that makes it impossible to access ISSUU; 
+12.3.3 Updates and other required maintenance of ISSUU or the underlying it-infrastructure; and 
+12.3.4 such extraordinary circumstances which are outside the control of Issuu or its suppliers or sub-contractors, and which could not or should not reasonably have been foreseen and should not have been avoided or overcome when entering into these Terms
+12.4 If not otherwise provided for in these Terms, Issuu shall be liable pursuant to the ordinary rules on contractual liability in Danish law
+12.5 Issuu, however, waives any and all liability for indirect loss and consequential damage, including loss of profits and other loss caused by lack of accessibility to ISSUU and/or loss of data unless caused by wilful misconduct or gross negligence
+12.6 Issuu' s liability for damages shall under all circumstances be limited to the total consideration received from User in the most recent twelve (12) months before the claim is made, however, with an absolute maximum of USD 5,000 during the entire term of the Users use of ISSUU
+13.1 By accepting these Terms, you agree to indemnify Issuu, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of ISSUU, any violation by you of these Terms, or any breach of the representations, warranties, and covenants made by you, in particular in your capacity as Publisher, in these Terms
+13.2 Issuu reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Issuu, and you agree to cooperate with Issuu's defense of these claims
+Upon notice of any impending claim, action or proceeding, Issuu will use reasonable efforts to notify of any indemnification obligation
+14.1 ISSUU has in accordance with present industry standards been secured against unauthorized access
+14.2 Before closing an account, User shall ensure that all relevant data including Publications or other content, have been copied/ downloaded locally to Users own systems
+User acknowledges that it is not possible to retrieve data after its account has been closed
+15.1 Publisher must implement recognized anti-malware software and procedures to ensure that all content uploaded to ISSUU have been scanned for all known viruses, spyware and malware etc
+15.2 If Publisher fails to scan data prior to uploading in accordance with section
+15.1, Publisher shall be responsible and liable for any damages and losses suffered by Issuu and other users/publishers, should any of Publishers uploaded Publications/other content be infected with viruses, spyware and/or malware etc
+16.1 Issuu, its employees, sub-suppliers and their employees shall observe strict confidentiality as regards any information concerning User' s business affairs and other confidential information coming into their possession in connection with the set-up, operation and performance of ISSUU
+17.1 The full access to and use of ISSUU may be terminated by User as follows: 
+17.2 If a Publisher does not want to use ISSUU anymore, the Publisher shall takedown all its Publications and Other Content
+17.3 A User may simply close its user account
+Closing an account does not entitle User to a proportional refund of any prepaid access fee or subscription fee
+17.4 If User, after being given at least ten (10) days written notice, has not paid any outstanding fees or other amounts due to Issuu, Issuu is entitled to disable the User' s access to ISSUU
+17.5 The access to ISSUU cannot be restored until User has paid all amounts due, including all costs
+17.6 In addition, either party may terminate the access to use ISSUU without notice if the other party has not remedied a material breach at the latest ten (10) working days after having received a written demand thereof
+18.1 Issuu may use User' s e-mail for all types of communication, including service messages, demands, and reminder letters and notices concerning news in ISSUU or other services provided by Issuu
+18.2 All enquiries to Issuu in addition to support enquiries, must be sent by e-mail or via a web-based form provided by Issuu
+19.1 Issuu is free to assign rights and/or liabilities in connection with the delivery of ISSUU to a third party without prior written consent from User
+Furthermore, Issuu may use sub-suppliers to fulfil all of or parts of its obligations
+20.1 Governing Law; Venue
+20.1.1 These Terms and any action arising out of these Terms or your use of ISSUU, whether interpreted in a court of law or in arbitration, will be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles but without depriving you of the preceptive protection you enjoy in the country where you live or usually resides
+20.2 Enforceability 
+20.3 If any or all of the below arbitration agreement provision is found to be unenforceable, then the entirety of the below arbitration agreement provision will be void and, in that case, you and Issuu agree to the personal and exclusive jurisdiction in the state and federal courts in San Francisco, California will govern any action arising out of or related to these Terms
+20.4 Internal dispute resolution 
+20.4.1 Issuu has established an internal dispute resolution board ("Resolution Board") that will hear your complaint free of charge
+The Resolution Board is comprised by an Issuu executive and an external expert, normally our local lawyer
+20.4.2 You may submit your complaint to the Resolution Board using the e-mail disputeresolution@issuu.com
+20.4.3 The Resolution Board will normally within 30 days after having received your complaint and all relevant information decide your complaint
+The Resolution Board' s decision is binding upon Issuu
+The Resolution Board may meet your complaint in whole or in part or it may reject it
+20.4.4 When deciding your complaint the Resolution Board will take into account the consumers rights that you may hold but it will primarily use the principle of bono and equity to reach a decision
+20.4.5 You will receive the decision from the external member of the Resolution Board
+If your complaint is not meet, you will receive an explanation of why it is not meet and a guide to who will hear your complaint and the implications of submitting your complaint to either the below mentioned arbitration or the competent court
+20.5 Arbitration 
+20.5.1 In the interest of resolving disputes between you and Issuu in the most expedient and cost-effective manner, you and Issuu agree that any and all disputes arising in connection with these Terms and the use of ISSUU will be resolved by binding arbitration if you decide to refer the matter to arbitration
+20.5.2 Arbitration is more informal than a lawsuit in court
+Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts
+Arbitrators can award the same damages and relief that a court can award
+20.5.3 Our agreement to arbitrate disputes includes, but is not limited to all claims arising out of or relating to any aspect of these Terms or the Service, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms
+20.5.4 You understand and agree that, by entering into these Terms, you and Issuu are each waiving the right to a trial by jury or to to participate in a class action 
+20.5.5 You and Issuu agree that nothing in these Terms will be deemed to waive, preclude, or otherwise limit either of our rights to: (i) bring an individual action in small claims court; (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available; (iii) seek injunctive relief in a court of law; or (iv) to file suit in a court of law to address intellectual property infringement claims
+20.5.6 Any arbitration between you and Issuu will be governed by the American Arbitration Association ("AAA") Consumer Arbitration Rules in their entirety
+20.5.6.1 You may find the rules here (the AAA Rules): 
+20.5.6.2 You can find the forms you need to demand arbitration proceedings on www.adr.org 
+20.5.7 If you commence arbitration in accordance with these Terms, and provided that you first have submitted your complaint/claim to our Resolution Board for resolution, Issuu will reimburse you for your payment of the filing fee unless your claim is for greater than $ 25,000, in which case the payment of any fees will be decided by the AAA Rules
+20.5.8 Modifications 
+20.5.8.1 Issuu will not make any future change to this arbitration provision (other than a change to Issuu's address for notice), unless required to do so by a change to the AAA rules or changes to the applicable regulation
+20.5.9 No Class Actions
+YOU AND ISSUU AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING
+20.5.10 Opt-out Deadline 
+20.5.10 Further, unless both you and Issuu agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding
+YOU MAY OPT-OUT OF THE CLASS ACTION WAIVER ABOVE WITHIN 30 DAYS FROM THE DATE THAT YOU FIRST CONSENT TO THIS AGREEMENT (the "Opt- Out Deadline")
+You may opt out of the waiver by mailing written notification to Issuu at the address stated at the end of these Terms
+Your written notification must include (1) your name, (2) your address, and (3) a clear statement that you do not agree to the class action waiver
+Your decision to opt-out will have no adverse effect on your relationship with Issuu
+Any opt-out request received after the Opt-Out Deadline will not be valid
+Neither you, nor any other user of the Issuu Service can be a class representative, class member, or otherwise participate in a class, consolidated, or representative proceeding without having complied with the opt-out requirements above.

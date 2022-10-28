@@ -1,0 +1,187 @@
+Parallels International GmbH and its affiliated entities (collectively, " Parallels ", " us ", or " we ") are committed to protecting your privacy
+This Privacy Statement describes Parallels’ information practices and the choices available to you regarding Parallels’ use of information that can be used to identify you (" Personal Data ")
+If you are in the European Union (" EU "), please pay particular attention to the information for EU users in Section 5 below
+This Privacy Statement addresses Parallels’ use of information collected through any of our web properties (collectively, the " Sites "), our value-added offerings, which include but are not limited to, white paper downloads, seminars, or other similar offerings (collectively, the “ Value-Added Offerings ”), or our software or maintenance products (collectively, " Products ")
+We will only collect and use information from you as described in this Privacy Statement
+We will not sell your data to any third parties
+Depending on how you interact with us, we process different kinds of data in different ways
+Some data is automatically processed if you visit our Sites or use our Products
+Other data is only processed if you actively submit it to us (like using our web forms to get in touch with us or uploading content to our Sites or registering accounts with us or sending technical reports to us from the Parallels products you use)
+Data we process if you visit our Sites: 
+Even if you are only a visitor on one of our Sites, your computer or device automatically sends us the following technical information ("Website Usage Data") which our web servers store in the log files: 
+The date and time of the visit and the duration of use of the Site 
+The IP address of your device 
+The broad geographical location of your device: i.e., country, city and (where applicable) state 
+The referral/exit URL 
+The visited subsites of the Site 
+Information about your device: type of the device, type and version of the web browser, type and version of the operating system 
+Your preferred language 
+To customize user experience on our Sites, we use cookies and similar technologies
+Click here to review our Cookie Notice
+We process Website Usage Data to allow you to surf the Sites and to ensure their functionality
+We perform analyses of the Website Usage Data to continuously improve the Sites and correct errors, to ensure IT security and operation of our systems, as well as to prevent from or uncover abuse
+We further process this data in aggregated or anonymized form to analyze trends, administer the Sites, track users’ navigation around the Sites, and to gather demographic information about our customers as a whole to improve marketing (including serving personalized, interest-based ads) as well as the user experience on our Sites and guaranteeing the safety of our IT systems
+If you use a Third Party Service such as Apple, Facebook or Google to create a new or sign in to an existing Parallels account when visiting our Sites, we may obtain your personal data like your name and email from that Third Party Service but only when you have consented to that Third Party Service sharing your personal data with us
+Data we process if you use our Products: 
+Parallels processes the following information when you install and activate (register) one of our Products (“ Product Installation Data ”): 
+The date and time of the connection with the Site 
+The IP address of your device 
+The broad geographical location of your device: i.e., country, city and (where applicable) state 
+Information about your device: type of the device, type and version of the web browser, type and version of the operating system 
+The type and version of the Product 
+Hardware ID and (for certain products) computer or device model and name 
+Your email address 
+Your name (only if you provide it to us) 
+Your business affiliation , including company or organization name, country, city and (where applicable) state, and a business phone number (this data is mandatory and collected only if you activate a business product, otherwise it is not collected) 
+The date and time of the product activation (registration) 
+A license (activation) key (for certain products); 
+We use Product Installation and Registration Data to keep a record of your product license (that is to authenticate and periodically verify your licensing rights in the product for anti-piracy purposes) and to enable the provision of maintenance or support services to you
+We also use this information to send you in-product messages with information about products, features, or services offered by Parallels
+We collect information about the way our Products are used after installation and activation but only if you consent to participate in the Parallels Customer Experience Program
+Click here to review Parallels Customer Experience Program 
+If you consent to participate in the Customer Experience Program, certain Products may send us the following information (“ Product Usage Data ”) which we process and store in anonymized form: 
+The date and time of the Product installation and start 
+The type and model of a computer or mobile device 
+General information about hardware installed on the computer 
+The list of the third-party software products installed on the computer 
+For Parallels Desktop only: the list of Parallels virtual machines installed on the computer including virtual machine name(s), and virtual hardware configuration; the type and version of the operating system running in the virtual machine(s) and the list of the third-party software products installed inside virtual machine(s); the list of the software products used inside the virtual machine(s) 
+The name/type of functions used in Products 
+We process the Product Usage Data to understand how customers use our products and services, analyze customer preferences, and improve the users’ experience
+In addition, certain of our products may allow you to store, send, receive, edit, sync, share, or otherwise organize or manage files and folders (including any information or data stored in those folders) ("User Files")
+We may record and store information about the filenames and sizes a of the User Files that you make available via these Products
+If you use a Third Part Service such as Apple, Facebook or Google to create a new or sign in to an existing Parallels account when using our Products, we may obtain your personal data like your name and email from that Third Party Service but only when you have consented to that Third Party Service sharing your personal data with us
+Data we process only if you submit it to us: 
+When you interact with us on our Sites or using our Products, you can submit Personal Data to us in various situations, including: 
+Account Data: On some of our Sites (“Interactive Sites”) or/and in certain Products, you register an account with us using either your e-mail address and a password or via a Third Party Service such as Apple, Facebook, or Google
+You can use your Parallels account to manage your Product licenses and communication settings, submit requests to Parallels Support, access your remote computers using Parallels Access web application, and communicate with other users on our Interactive Sites
+Some of our Interactive Sites offer publicly accessible blogs or forums
+Any information you provide there may be read, collected, and used by other users who access them under their registered accounts as well as by anyone surfing the community pages as unregistered users
+Transaction Data: In relation to purchases you may make online at the Parallels Online Store of our online reseller Cleverbridge AG, we process your Personal Data, which Cleverbridge AG shares with us
+This information may include: 
+Billing information, such as your name, email address, billing address, your business affiliation (company or organization name); 
+Type of a Parallels Product you purchase; 
+Amount you pay in your currency; 
+Subscription ID; 
+Subscription-related URLs (such as purchase confirmation page URL, subscription cancelation URL, invoice PDF URL); 
+We use this data to complete your purchase order, for billing purposes, and for internal accounting
+We do not collect or process the data about your payment instruments such as credit card numbers, banking account numbers or Pay Pal accounts
+This information is collected, processed and stored by Cleverbridge AG
+Technical Report Data: When you send a technical data to us from a Product you use to report a problem, the data you choose to send may include: 
+The name and version of the Product 
+The license key used for the product activation (if applicable) 
+The type and model of the computer or mobile device 
+Computer’s hardware ID and the general information about hardware installed on the computer 
+For Parallels Desktop only: the list of Parallels virtual machines installed on the computer including virtual machine name(s), and virtual hardware configuration; the type and version of the operating system running in the virtual machine(s) and the list of the third-party software products installed inside virtual machine(s); the list of the software products used inside the virtual machine(s) 
+The Product configuration files and technical (diagnostic) logs files 
+Computer operating system’s log files 
+Parallels Product crash log files 
+For Parallels Desktop only, snapshots of your computer’s and virtual machine’s screens 
+Any file(s) attached by you to the technical report 
+Your comment provided for the technical report 
+You can choose not to include all or any of these categories of data
+The information which you send to us when reporting problems is used for analysis of the root causes of the problems in our Products and allows us to improve the Products for you
+Customer Support Data: You can communicate with us through the different web-forms and chat functionalities on our Sites
+For example, you can use the contact forms to request technical assistance, request information on the status of your order, or otherwise reach out to our Customer Support Team
+In order to respond to your request, we will process your IP address and contact data as well as the contents of your request and the uploaded files and/or attachments you have sent to us
+Survey Data: From time to time we may conduct surveys in respect of our products and services
+Participation in our surveys is optional
+However, if you respond to one of our surveys, you may provide us with personal information about you
+Unless you otherwise consent, we will only use this information to determine the types of Products that may be of interest to you and to operate and improve our Product offerings
+Email/Direct Mail Campaign Data: From time to time, we may contact our customers directly by mail, email, or telephone to inform you about upgrades, new products, promotions, or special offers that you told us you were interested in receiving (including our newsletters)
+However, we will not contact you with any commercial communications that are unrelated to the Products that you have purchased from us unless you have given us your prior explicit consent to receiving such information
+Please note that if you don’t want to receive marketing communications from us, you are free to opt-out from receiving such communications at any point in time
+When responding to one of these campaigns, you may have the option to provide us with personal information, which we will use for the purpose indicated
+See Section 5 below for information on how to change your account’s communication preferences
+Special Collaborative Programs: We may collaborate with another company to provide you with a unique product or service (a " Collaborative Program ")
+Our use of your Personal Data is limited to the specific Collaborative Program that you have joined or elected to use and we will disclose to you the specific Personal Data we will share and for what purpose before sharing with our collaboration partner
+Applicant Data: If you would like to apply for employment with Parallels, you can apply online at www.parallels.com on our Careers page
+We will process your application data solely for the purpose of responding to your application
+Your data will be deleted (i) for applicants to Parallels c/o Corel UK Limited and Parallels International GmbH, 6 months after notifying unsuccessful candidates , and (ii) for applicants to all other Parallels affiliated entities, within two years after finalizing your application, and in either case we may retain it for 1 additional year if you give us your explicit consent to keep your application on file to contact you with further job offers in the future
+Business Contact or Sales Prospect Data: If you are a business contact or sales prospect that has provided us your Personal Data, we will store your data in our database so that we can follow up on previous business conversations we’ve had with you, provide you additional information about our Products, or assist you in purchasing our Products
+We may also share your Personal Data with sales representatives employed with our local affiliates or resellers so that they can work with you to complete any requested purchase of our Products
+Participants in our Value-Added Offerings through third parties: If you sign-up to a Parallels webinar, download our whitepaper or participate in our offerings through a third party (eg
+our business partner) we may collect or receive personal data, that you have provided in connection with the offering, from such third parties, such as social media platforms, websites, and business partners, or from publicly available sources
+We treat your Personal Data with care and confidentially and will only pass it on to third parties to the extent described below and not beyond
+We do not share, sell, rent, or trade Personal Data with third parties for any promotional purposes
+Where our affiliates, resellers, or service providers process Personal Data, they will do so solely on our instructions and have undertaken to comply with strict contractual requirements for the security of your data (including, but not limited to, complying with this Privacy Statement)
+Third Party Services: If you use a Third Party Service such as Apple, Facebook or Google to create a new or sign in to an existing Parallels account when visiting our Sites or using Products, some of your personal data such as IP address of your device, your broad geographical location (country, state (if applicable), and city) and the type of the Product you use becomes indirectly known to that Third Party Service
+Affiliated Companies: Parallels is a part of Corel group of companies , with affiliates worldwide, including in Canada, the USA, Germany, the UK, Japan, Estonia, Russia, Malta, and Switzerland
+We share data with our affiliates in the ordinary course of our business
+For example, if one of our resellers makes contact with you on our behalf, this data will be shared with the relevant Parallels affiliate, such as Corel GmbH GmbH in Germany
+For an overview of our affiliates, as well as their mailing addresses, refer to https://www.parallels.com/about/contact/ and https://www.corel.com/de/contact-us/ 
+Service Providers: Parallels transmits data to service providers that enable us to provide our Site and market, sell, and deliver our Products
+This includes the parties providing our third-party cookies and tracking tools, as well as parties providing us with services to assist us in processing transactions, including credit card transactions, handling shipping and processing of orders, providing customer support, managing customer relationships (like Saleforce.com), hosting the Sites (like Amazon Web Services), collecting, storing, or removing your information, or performing statistical analysis of our Sites (such as Google)
+We occasionally also share Personal Data with independent auditors acting on our behalf, for anti-piracy or revenue accounting purposes in connection with the internal operations of our business
+We sometimes need to share your information with these companies in order for them to provide the applicable services
+Document/File Hosting Providers: Some of the Products (like Parallels Desktop and Parallels Access) allow you to connect your cloud storage account (such as Dropbox, Microsoft OneDrive, Google Drive, and Apple iCloud Drive)
+If you do so, the Product may collect the information about the type of the cloud storage you use
+But we neither collect nor share with third parties for any purposes your cloud storage account credentials and your files stored in there
+This information is only stored locally, on your Mac or PC or other computing device
+Business Transactions: In the event Parallels goes through a business transaction such as a merger, an acquisition by another company, or a sale of all or a portion of its assets to which this Privacy Statement relates, your information will likely be among the assets transferred and, in such case, you will be notified in advance via email and/or a prominent notice on our Sites of such change in ownership or a change in the use of your Personal Data, as well as any choices you may have regarding your Personal Data (including, if applicable, your right to object to such transfer)
+Public Authorities: Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law, such as when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or litigation or other legal process or action (whether or not initiated by Parallels) to protect Parallels’, our users' or third parties' rights, property or safety
+We will transmit data to public authorities such as law enforcement or tax authorities only in the case of a legal obligation to do so based on a request for information from the respective authority
+Promotional Offers: As a registered Parallels customer, you have the opportunity to receive news and special offers from Parallels regarding our Products or the products of third parties who we think may offer products or services that would be of interest to you
+We process and store your Personal Data as long as necessary for the fulfillment of our contractual or legal obligations
+Thus, we store the data as long as our contractual relationship with you as our customer obliges us to do so and for the duration of your account with us
+If you delete your account or request us to do so, all your Personal Data will be deleted, unless its further processing is necessary for the preservation of evidence or the prevention of legal claims from becoming time-barred
+Customers may update, delete, access, or change their account information by editing their user, group, or team records
+To update a customer profile, login to your account at https://my.parallels.com 
+To update customer billing information, contact our payment provider customer support as specified here 
+If you do not have an account, please contact us in accordance with Section 8 below
+If you do not want to receive marketing emails from Parallels, you can opt-out of receiving future marketing emails by clicking on the “unsubscribe” option located at the bottom of the marketing email you wish to opt out of or/and by changing your account notification settings at https://my.parallels.com/profile/personal/notification 
+If you prefer to be removed from all Parallels marketing lists, you can follow the foregoing process
+Customers cannot opt-out of receiving all transactional emails related to their Parallels account, but may change their account settings (as described above) to reduce the frequency or eliminate certain Parallels notification emails
+5
+Information for EU Residents: 
+The data controller is Parallels International GmbH, Vordergasse 59, 8200 Schaffhausen, Switzerland
+Our representative in the EU is Corel GmbH, Landsbergerstr
+302 80687 Munich, Germany
+You are not legally required to provide Parallels with the Personal Data described in this Privacy Statement
+Further, the contractual relationship that you might have entered into with us by purchasing our Products does not imply any obligation to provide your Personal Data
+However, you might not be able to use our Products to the full extent, or in some cases you may not be able to use our Products at all, if you do not provide us with certain data or object to the use of this data
+When processing your Personal Data, we rely on the General Data Protection Regulation (" GDPR "), an EU-wide legal framework for the standardization of data protection
+Parallels primarily processes data as a controller, for the purposes explained above under Sections 1 and 2 of this Privacy Statement
+These purposes represent our legitimate interests for the purposes of Article 6 (1) f) GDPR
+At the same time, some of the Personal Data we process is necessary for us to perform a contract with you or in order to take steps at your request prior to entering into a contract with you
+For example, if you express your interest in purchasing one of our Products, such as by filling out a webform, we will process the Personal Data submitted to comply with your request
+This may include sharing your Personal Data with one of our authorized resellers, who will then use your Personal Data to complete the purchase transaction
+In addition, we are legally obliged to provide certain information to criminal prosecution or tax authorities in individual cases upon request
+In these cases, the legal basis for the processing is either legal requirements (Article 6 (1) c) GDPR) or reasons of public interest (Article 6 (1) e) GDPR)
+Where we process your Personal Data with your explicit consent, pursuant to Article 6 (1) a) GDPR, this declaration of consent will be the legal basis for processing your Personal Data
+Parallels’ principal place of business is in Switzerland, which is a " Third Country " under the GDPR
+Third Countries are generally not considered to afford the same level of protection that you enjoy in the EU, but Parallels still provides an adequate level of protection for your Personal Data - decision 2000/518/EC of the EU Commission states that Switzerland is deemed to provide an adequate level of data protection regarding commercial organizations such as Parallels
+We have ensured that our service providers and affiliates have been subjected to strict contractual provisions in their contract with us to guarantee that an adequate level of data protection for your data is guaranteed
+We use your data for " Profiling "
+This means that we use your data to make tailored offers based on your previous behavior as well as to serve you personalized ads
+However, we will never process and analyze your Personal Data in the context of Profiling in a way would lead to an automated decision that has a legal effect on you or significantly impairs you in a similar way
+As a natural person, you have certain rights as " Data Subject "
+You can assert the following rights against us under the GDPR: 
+Your right to information and access under Article 15 GDPR, Your right to rectification under Article 16 GDPR, Your right to erasure under Article 17 GDPR, Your right to restriction of processing under Article 18 GDPR, and Your right to data portability under Article 20 GDPR
+In addition, you have a right of objection to the competent data protection supervisory authority under Article 77 GDPR, but only with respect to the data processing we conduct on our own behalf, as a controller
+In the event Parallels acts as a processor of your data for a third party, you must refer to the entity acting as controller to assert this right
+Please note that, where you have granted us your consent to process certain Personal Data, you are free to withdraw this declaration of consent with future effect at any point in time
+This also applies to the withdrawal of declarations of consent issued to us prior to the validity of the GDPR
+In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of Personal Data relating to you, which is processed on the basis of Article 6 (1) e) GDPR (data processing in the public interest) and Article 6 (1) f) GDPR (data processing on the basis of a balance of interests); this also applies to profiling based on this provision within the meaning of Article 4 (4) GDPR
+If you file an objection, we will no longer process your Personal Data unless we can prove compelling grounds for the processing that outweigh your interests, rights and freedoms or the processing serves to assert, exercise, or defend legal claims
+Please also note that, if we terminate the processing due to your objection, the Sites or Products may no longer be available to you or only to a limited extent
+You also have the right to object at any time to the processing of your Personal Data for the purpose of direct marketing, including any subscription to our newsletters or personalized ads; this also applies to Profiling, insofar as it is associated with such direct marketing
+If you object, we will no longer process your Personal Data in the future
+Under the California Consumer Protection Act (“CCPA”), California residents are granted five consumer rights that Parallels will uphold: 
+The right to know which personal information is being collected 
+The right to know if personal data is being sold or shared, and to whom 
+The right to object to the sale of personal data 
+The right to access one's own personal information 
+The right to equal service and price, even for consumers who exercise their privacy rights 
+Any Customer wishing to exercise a right to access personal information held by Parallels must submit a verifiable consumer request to Parallels by either: 
+Emailing Parallels at privacy@parallels.com 
+Calling Parallels at +1 (888) 811 2489 (US) or +49 (89) 549 986 567 (Europe) 
+Please note that only an individual who is a resident of California (or the legal guardian of such individual in the case of a minor child) may make a request under the CCPA
+Parallels’ Sites and Products are not intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18
+If a parent or guardian becomes aware that their child has provided Parallels with Personal Data or that we have otherwise inadvertently collected this information, contact us at privacy@parallels.com , so that we may delete the information from our servers
+Parallels reserves the right to change this Privacy Statement
+We will provide notification of the material changes to this Privacy Statement through our Sites at least 30 days prior to the change taking effect
+To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please contact us at privacy@parallels.com 
+We strongly encourage you to use this email to ensure the most efficient handling of your submission
+Please do not use this email to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement
+For technical issues, contact Parallels Customer Support from your Parallels account at https://my.parallels.com/support/ 
+Last Updated: January 2022

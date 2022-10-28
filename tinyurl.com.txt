@@ -1,0 +1,174 @@
+THESE TERMS OF USE GOVERN YOUR USE OF THE TINYURL.COM WEBSITE AND RELATED SERVICES.
+ACCORDINGLY, PLEASE READ THESE TERMS BEFORE USING THE SITE AND SERVICES
+SPECIFICALLY, YOU ARE ENCOURAGED TO READ SECTION 14 CAREFULLY AS IT DESCRIBES HOW DISPUTES BETWEEN US SHALL BE HANDLED, WHICH AFFECTS YOUR RIGHTS TO BRING OR PARTICIPATE IN A LAWSUIT.
+This Agreement Acceptance of Terms of Use
+This agreement is an electronic contract that sets out the legally binding terms (" Terms ") governing your use of the Site and the services available to you on the Site as described more fully below (the " Services ").
+Each time you use the Site and Services, you signify that you agree to be bound by these Terms.
+If you do not agree to these Terms, you must immediately discontinue using the Site and Services.
+The Site is owned by TinyURL LLC.
+All references to " us ", " our ", or " we " will be deemed to be TinyURL.
+Updates to Terms
+TinyURL LLC reserves the right to update or change these Terms at any time by posting the most current version of the Terms on the Site.
+TinyURL LLC will provide notice of changes to the Terms by posting the new Terms on the Site with a new Effective Date shown.
+All such changes in the Terms shall be effective from the Effective Date set when it is posted on the Site or Services.
+Your continued use of the Site after we post any changes to the Terms signifies your agreement to any such changes.
+If you do not agree to these Terms, you must discontinue using the Site and Services by terminating your subscription in TinyURL.
+Electronic Form
+By accessing the Site or using a Service, you consent to have these Terms and other notices provided to you in electronic form.
+Corporate Entity
+TinyURL is a registered LLC in the State of Delaware and has its registered address at 221 N
+Broad St, Ste 2A, Middletown, DE 19709, USA.
+The Services; User Account Description
+The Services currently allow users to create shortened URLs, custom-branded links, and provide various link management and analytics products and services.
+Certain Services are available for free and others require a paid subscription
+In either case, if you use the Services, you are considered a " User ".
+User Account Eligibility
+To use the Services, you must be at least 18 years old or the age of majority in jurisdiction from which you access the Site and not be prohibited by law from using the Services.
+Authorized Users
+You may grant access to your account to others (" Authorized Users "); however, you shall at all times remain responsible for their use of the Services.
+User Representation and Warranties 
+By using the Services, you agree to:
+Provide true, accurate, current, and complete information about yourself as requested
+Maintain and properly update your account information to keep it true, accurate, current, and complete, and
+Not access store distribute or transmit any viruses codes or any other material when using the Services that is unlawful, harmful, threatening, defamatory, obscene, infringing, harassing or racially or ethnically offensive
+Not access store distribute or transmit any viruses codes or any other material when using the Services that promotes or facilitates illegal activity
+Not access store distribute or transmit any viruses codes or any other material when using the Services that depicts sexually explicit images
+Not access store distribute or transmit any viruses codes or any other material when using the Services that promotes violence
+Not access store distribute or transmit any viruses codes or any other material when using the Services that is discriminatory based on race, gender, color, religious belief, sexual orientation, disability
+Not access store distribute or transmit any viruses codes or any other material when using the Services that in a manner that is otherwise illegal or causes damage or injury to any person or property; or
+Not access store distribute or transmit any viruses codes or any other material when using the Services that is for the purpose of tracking spam-related material.
+If you provide information that is untrue, inaccurate, not current, or incomplete, or if we have reasonable grounds to suspect that you have, or you violate these Terms or any laws, as determined in our sole discretion, we have the right to suspend or terminate your use of the Service and refuse any and all current or future use of the Site and the Services (or any portion thereof).
+You acknowledge that you are solely responsible for ensuring that your use (and the use of your Authorized Users) of the Services does not violate this Section 2.b.iii.3.
+We reserve the right, without liability or prejudice to our other rights, to disable your access if we become aware of any use of any material that breaches the provisions of this Section.
+TinyURL's Rights
+Without limitation of the foregoing, TinyURL reserves the right to reject any access to the Services in its sole discretion.
+We reserve the right at any time and in our sole discretion to verify a User's eligibility and compliance with these Terms prior to accepting any subscription application.
+Subscriptions; Charges on Your Billing Account
+Billing Account
+If you select a Service that requires a subscription, TinyURL will charge you for the selected plan using the billing information you provide (your " Billing Account ") at the time of enrollment.
+By enrolling in any TinyURL Service plan, you authorize TinyURL to charge your Billing Account the fees then in effect for the selected Service plan .
+TinyURL reserves the right to correct any errors or mistakes that it makes, even if it has already requested or received payment, and to update your information from available third-party sources.
+All subscription fees and cash back earnings are in US Dollars.
+The terms of your payment will be based on your Billing Account and may be determined by agreements between you and the financial institution, credit card issuer, or other provider of your chosen Billing Account.
+If TinyURL does not receive payment from your Billing Account provider, you agree to pay all amounts due on your Billing Account upon demand.
+Free or Promotional Period
+If a Service plan includes a period during which you can try the Services for free or for an introductory rate, it will automatically continue after such period and your Billing Account will be charged the regular plan rates.
+Regardless of what subscription plan you choose, you accept responsibility for all recurring charges unless and until you cancel.
+To change or cancel your subscription at any time, go to subscriptions Cancellation
+You may cancel a subscription at any time.
+Full Refund
+If you cancel during the first 30 days of a subscription, or at any time thereafter during a payment period where you did not use the Service,
+you will be entitled to a full refund of the fee paid for that period.
+No questions asked
+Just contact us for us to issue the refund.
+Monthly Plans
+If you cancel a monthly billed plan, you will have access to the Services in the selected plan until the end of the paid-for period
+and no further charges will be applied to your Billing Account after such period.
+Annual Plans
+If you cancel an annually paid plan, you will have access to the Services in the selected plan until the end of the
+paid-for period and no further charges will be applied to your Billing Account
+A prorated refund, including a cancelation fee,
+may be available if you contact us.
+Current Information Required
+YOU MUST PROMPTLY NOTIFY TINYURL LLC IF YOUR BILLING ACCOUNT IS CANCELLED (E.G., FOR LOSS OR THEFT) OR IF YOU BECOME AWARE OF A POTENTIAL BREACH OF SECURITY, SUCH AS THE UNAUTHORIZED DISCLOSURE OR USE OF YOUR EMAIL OR PASSWORD.
+CHANGES TO SUCH INFORMATION CAN BE MADE help SECTION OF THE WEBSITE.
+IF YOU FAIL TO PROVIDE TINYURL ANY OF THE FOREGOING INFORMATION, YOU AGREE THAT TINYURL MAY CONTINUE CHARGING YOU FOR ANY USE OF THE SERVICE UNDER YOUR BILLING ACCOUNT, UNLESS WE HAVE EVIDENCE THAT YOU HAVE TERMINATED YOUR SUBSCRIPTION FOR THE SERVICE.
+Change in Amount Authorized
+If the amount to be charged to your Billing Account varies from the current rate set forth in your initial offer due to an
+increase in our current rates (other than due to the imposition or change in the amount of state sales taxes or other taxes),
+TinyURL shall provide notice of the amount to be charged and the date of the charge at least 10 days before the scheduled date of the transaction.
+Any agreement you have with your Payment Method Provider will govern your use of your Payment Method.
+You agree that TinyURL may accumulate charges incurred and submit them as one or more aggregate charges during or at the end of each billing cycle.
+User Submissions
+By submitting content to the Site, for instance, in the form of a testimonial ("User Content"), you grant to TinyURL and its licensees and successors in business a perpetual, worldwide, royalty-free, and non-exclusive license to reproduce, distribute, modify, edit, display, adapt, create derivative works from, market, and promote the User Content for any commercial purposes, and in any medium now existing or hereinafter developed, and to use your name, likeness, and any personal information you submit with the Use Content without your prior approval or the payment of any compensation
+Proprietary Rights
+The Site and all material published on the Site, including but not limited to text, photographs, video, text, graphics, music, sounds, messages, comments, ratings, and other materials, is owned by TinyURL or its licensors and is protected by copyright, patents, trademarks, trade secrets, and/or other proprietary rights, including under the United States copyright laws.
+TinyURL owns a copyright in the selection, coordination, arrangement, and enhancement of such content and a copyright in the Site.
+TinyURL and its logos are trademarks of TinyURL LLC and are protected by state, federal, and internation laws.
+All other trademarks appearing on this Site (" Marks ") are trademarks of their respective owners, including TinyURL and its marketing partners.
+Users are prohibited from using any Marks without the written permission of TinyURL LLC or such third party that may own the Marks.
+You may not copy, publish, transmit, distribute, perform, sell, create derivative works of, or in any way exploit any of the content, in whole or in part, without TinyURL's prior written consent.
+You agree not to reproduce, duplicate, copy, sell, resell, or exploit for any commercial purposes any aspect of the Site or Service.
+You acknowledge that you do not acquire any ownership rights by downloading copyrighted material.
+You may download content for your personal, non-commercial use only as provided in these Terms, provided that you keep intact all copyright and other proprietary notices.
+Copying or storing of content for other than personal use is expressly prohibited without prior permission from us or the copyright holder identified in the copyright notice contained in the content.
+Except for allowing you to use the Site and Services for your personal use as set forth in the paragraph above, when you use the Site or Services, you are not receiving a license or any other rights from us, including intellectual property or other proprietary rights of TinyURL.
+You understand that you have no rights to the Services or any other TinyURL property except as we indicate in these Terms.
+Links
+You may be able to access other websites or resources through links on the Site.
+Because TinyURL has no control over such sites and resources, you acknowledge and agree that TinyURL is not responsible for the availability of such external sites or resources and does not endorse and is not responsible or liable for any content, advertising, products, or other materials available from such sites or resources.
+You further acknowledge and agree that TinyURL shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such site or resource.
+Indemnity/Release
+You understand that you are personally responsible for your behavior while on the Site and agree to indemnify and hold TinyURL, and its affiliates, business partners, and their respective officers, directors, employees, and agents, harmless from and against any loss, damage, liability, cost, or expense of any kind (including attorneys' fees) that we may incur arising out of or related to any products or services purchased by you in connection with the Site or the Services and in connection with a third-party claim or otherwise, in relation to your use of the Services or access to the Site, or your violation of either these Terms, applicable law, or the rights of any third party.
+You are solely responsible for your own interactions with others as a result of using the Services, such as creating and using shortened URLs.
+Disclaimer of Warranties
+YOU UNDERSTAND THAT YOUR USE OF THE SITE AND SERVICES (INCLUDING ANY DOWNLOADS OR ANY LOSS OF DATA OR OTHER DAMAGE TO YOUR COMPUTER SYSTEM YOU EXPERIENCE FROM USING THE SITE AND SERVICES) IS AT YOUR SOLE RISK.
+YOU UNDERSTAND THAT THE SITE AND SERVICES AND ALL INFORMATION, PRODUCTS, AND OTHER CONTENT (INCLUDING THIRD-PARTY INFORMATION, PRODUCTS, AND CONTENT) INCLUDED IN OR ACCESSIBLE FROM THE SITE OR SERVICES, ARE PROVIDED ON AN "AS IS," "WHERE IS," AND "WHERE AVAILABLE" BASIS, AND ARE SUBJECT TO CHANGE AT ANY TIME WITHOUT NOTICE TO YOU.
+YOU ACKNOWLEDGE THAT TINYURL MAKES NO WARRANTY THAT THE SITE OR SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.
+YOU UNDERSTAND THAT YOUR USE OF AND ACCESS TO THE SERVICES MAY BE AFFECTED BY THIRD PARTY ACTS AND OMISSIONS THAT ARE BEYOND TINYURL'S CONTROL AND THAT TINYURL WILL NOT BE RESPONSIBLE FOR YOUR ACCESS TO OR INABILITY TO ACCESS AND ENJOY THE SERVICES DUE TO SUCH THIRD-PARTY ACTIONS.
+YOU UNDERSTAND THAT TINYURL DOES NOT WARRANT THAT THE RESULTS OBTAINED FROM YOUR USE OF THE SITE OR SERVICES WILL MEET YOUR EXPECTATIONS.
+NO WARRANTY OF ANY KIND, WHETHER ORAL OR WRITTEN, CAN MODIFY THE TERMS OF THE DISCLAIMER SET FORTH IN THIS DOCUMENT.
+YOUR USE AND BROWSING OF THE SITE IS AT YOUR OWN RISK
+IF YOU ARE DISSATISFIED WITH ANY OF THE MATERIALS CONTAINED IN THE SITE OR SERVICES, OR WITH ANY OF THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE ACCESSING AND USING THE SITE AND SERVICES.
+TO THE FULLEST EXTENT PERMITTED BY LAW, TINYURL DISCLAIMS ALL REPRESENTATIONS, WARRANTIES, AND CONDITIONS OF ANY KIND (EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS) AS TO THE SITE AND SERVICES AND ALL INFORMATION, PRODUCTS, AND OTHER CONTENT (INCLUDING THIRD-PARTY INFORMATION, PRODUCTS, AND CONTENT) INCLUDED IN OR ACCESSIBLE FROM THE SITE AND SERVICES.
+ALL CONTENT, PRODUCTS, AND THIRD-PARTY SERVICES ON THE SITE, OR OBTAINED FROM A WEBSITE TO WHICH THE SITE IS LINKED, ARE PROVIDED TO YOU "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR ACCURACY.
+TINYURL DOES NOT ENDORSE AND IS NOT RESPONSIBLE FOR THE MERCHANTABLITY OF ANY PRODUCT OR SERVICE ACCESSED FROM THE SITE OR A LINKED SITE.
+OTHER THAN AS REQUIRED BY LAW, UNDER NO CIRCUMSTANCE WILL TINYURL BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY YOUR RELIANCE ON INFORMATION OBTAINED THROUGH THE SITE OR A LINKED SITE, OR YOUR RELIANCE ON ANY PRODUCT OR SERVICE OBTAINED FROM THE SITE OR A LINKED SITE.
+Liability Limitation
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL TINYURL OR ITS AFFILIATES BE LIABLE TO YOU (OR ANY THIRD PARTY MAKING CLAIMS THROUGH YOU) FOR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR INCIDENTAL DAMAGES, OR DAMAGES FOR LOSS OF USE, PROFITS, DATA, OR OTHER INTANGIBLES, OR THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, UNAUTHORIZED ACCESS TO AND TAMPERING WITH YOUR PERSONAL INFORMATION OR TRANSMISSIONS, ARISING OUT OF OR RELATED TO THE USE, INABILITY TO USE, UNAUTHORIZED USE, PERFORMANCE, OR NON-PERFORMANCE OF THE SITE OR THE SERVICES, EVEN IF TINYURL HAS BEEN ADVISED PREVIOUSLY OF THE POSSIBILITY OF SUCH DAMAGES AND WHETHER SUCH DAMAGES ARISE IN CONTRACT, NEGLIGENCE, TORT, UNDER STATUTE, IN EQUITY, AT LAW, OR OTHERWISE.
+UNLESS LIMITED OR MODIFIED BY APPLICABLE LAW, THE FOREGOING DISCLAIMERS, WAIVERS, AND LIMITATIONS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE
+TINYURL'S LICENSORS AND CONTRACTORS ARE INTENDED THIRD-PARTY BENEFICIARIES OF THESE DISCLAIMERS.
+IF ANY PART OF THESE WARRANTY DISCLAIMERS OR LIMITATIONS OF LIABILITY IS FOUND TO BE INVALID OR UNENFORCEABLE FOR ANY REASON, THEN TINYURL'S AGGREGATE LIABILITY FOR ALL CLAIMS UNDER SUCH CIRCUMSTANCES FOR LIABILITIES SHALL NOT EXCEED TEN DOLLARS ($10).
+Termination
+We can suspend or terminate your use of any Service and your access to the Site or the Services, in whole or in part, at any time, immediately and without notice if, at TinyURL's sole discretion, you fail to comply with any of these Terms or any law
+Upon termination, you must destroy all materials obtained from this Site and the Services and all copies thereof.
+In the event of suspension or termination, you are no longer authorized to access the Site or the Services, and the restrictions imposed on you with respect to any materials downloaded from the Site or the Services and the disclaimers and limitations of liabilities set forth in the Terms shall survive.
+Access to Services
+You understand and agree that your use of the Service and/or subscription to any Service plan is subject to and conditioned upon your continued adherence to these Terms.
+Your violation of these Terms or any other agreement between you and TinyURL constitutes grounds for immediate termination of your use of the Service without further notice, at our sole discretion.
+We may also terminate your access to the Service at any time, immediately and without notice, if we determine, in our sole discretion, that your conduct is detrimental to our business.
+Termination of your access will result in cancellation of all rights of access and use of Services, as well as future denied access to Services or re-enrollment.
+TinyURL reserves the right to change, discontinue, or suspend TinyURL or any of the Services at any time for any reason.
+Privacy
+This Site is governed by the terms and conditions set out in our privacy policy found at https://tinyurl.com/app/privacy-policy, which is incorporated herein by reference.
+No Third-Party Beneficiaries
+You agree that, except as otherwise expressly provided in this Agreement, there shall be no third-party beneficiaries to this Agreement.
+Dispute Resolution
+Any and all disputes, controversies, demands, counts, claims, or causes of action between you and TinyURL (including, but not limited to, disputes related in any way to the interpretation and scope of this clause, these Terms and our Privacy Policy , your use of the Site and Services, and the arbitrability of the dispute) shall exclusively be settled through binding and confidential arbitration.
+THERE'S NO JUDGE OR JURY IN ARBITRATION, PROCEDURES FOR ARBITRATION ARE SIMPLER AND MORE LIMITED THAN RULES APPLICABLE IN COURT, AND REVIEW BY A COURT IS LIMITED.
+Venue
+Arbitration shall be subject to the U.S
+Federal Arbitration Act and shall be conducted by the American Arbitration Association (AAA) before one commercial arbitrator.
+The conduct of the arbitration shall be subject to AAA's then-current rules and procedures for commercial arbitration and, if the arbitrator deems it appropriate, the then-current supplementary rules and procedures for consumer-related disputes (collectively, " AAA Rules and Procedures ").
+YOU SPECIFICALLY AGREE THAT YOU ARE BOUND TO RESOLVE ALL DISPUTES IN ARBITRATION, AND YOU ACKNOWLEDGE THAT YOU ARE VOLUNTARILY AND KNOWINGLY FORFEITING YOUR RIGHT TO A TRIAL BY JURY AND TO OTHERWISE PROCEED IN A LAWSUIT IN STATE OR FEDERAL COURT.
+Payment of arbitration costs will be governed by the AAA's fee schedule, unless you are able to show that your portion will be prohibitive as compared to litigation costs, in which case TinyURL will pay as much of your arbitration costs as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive as compared to litigation costs.
+TinyURL also reserves the right, in its sole and exclusive discretion, to assume responsibility for all arbitration costs imposed by the AAA.
+Each party agrees to pay its own attorneys' fees and expenses unless there is a governing statutory provision or remedy under the governing law that requires the prevailing party to be paid attorneys' fees and expenses.
+Exceptions
+Notwithstanding the foregoing, to the extent the dispute arises from a violation of your or TinyURL's intellectual property rights in any manner, both parties agree that the non-infringing party may seek injunctive remedies (or an equivalent type of urgent legal relief) in a state or federal court consistent with the Governing Law and Jurisdiction subsections below, and both parties consent to exclusive jurisdiction and venue in such courts
+Additionally, you or TinyURL may take the dispute to small claims court if the dispute qualifies for small claims court.
+Waiver of Class Arbitration
+To the fullest extent permissible under applicable law, all disputes shall be resolved by binding confidential arbitration on an individual basis
+You expressly agree that no other disputes shall be consolidated or joined with your dispute, whether through class arbitration proceedings or otherwise
+You further acknowledge and agree that any arbitrator assigned to a dispute shall not and lacks the authority to conduct class arbitration or award class-wide relief and that such arbitrator shall only hear your individual dispute
+You acknowledge that you are voluntarily and knowingly waiving any right to participate as a representative of any class of claimants pertaining to any dispute subject to arbitration, such that you shall not be entitled to arbitrate any dispute as a representative plaintiff or claimant, class representative, class member, or private attorney general.
+Governing Law
+These Terms and all disputes between the parties shall be governed in all respects by the laws of the State of South Dakota, consistent with the U.S
+Federal Arbitration Act, as they apply to agreements entered into and to be performed entirely within South Dakota between South Dakota residents, without regard to any conflict-of-law provisions
+Further, in any arbitration, both parties agree the arbitrator shall honor claims of privilege and privacy recognized under South Dakota law.
+Enforcement of Arbitration Award
+The arbitrator's award shall be final and binding on all parties and may be entered as a judgment in any court of competent jurisdiction.
+Severability
+If any portion of this Dispute Resolution section (with the exception of the Waiver of Class Arbitration subsection) is deemed invalid or unenforceable by any arbitrator or court of competent jurisdiction, the invalid or unenforceable portion shall be severed and removed from the Terms, and the remaining portions (including the Agreement to Arbitrate Disputes subsection) shall remain binding on you and TinyURL.
+If any arbitrator deems the Waiver of Class Arbitration subsection to be invalid or unenforceable, then the entire Agreement to Arbitrate Disputes subsection shall be null and void
+Under such circumstances, you expressly acknowledge and agree that the Governing Law and Jurisdiction subsections apply to any disputes between you and TinyURL, and both parties consent to exclusive jurisdiction and venue in such courts.
+Jurisdiction
+If, in any dispute, the Agreement to Arbitrate Disputes subsection above is determined to be invalid or unenforceable, notwithstanding the Severability subsection above, or null and void by any arbitrator or court of competent jurisdiction, or if the dispute seeks injunctive remedies arising from a violation of your or TinyURL's intellectual property rights, the dispute shall be resolved by a court located in Sioux Falls, South Dakota.
+The parties agree to submit to the personal jurisdiction of such South Dakota courts for the purposes of litigating any such dispute.
+This subsection does not apply disputes made in small claims court.
+Miscellaneous
+These Terms and policies incorporated herein are the entire agreement between you and TinyURL.
+They supersede any and all prior or contemporaneous agreements between you and TinyURL relating to your use of the Site or the Services.
+If any part of these Terms is determined to be invalid or unenforceable, it will not impact any other provision of these Terms, all of which will remain in full force and effect.
+The failure of TinyURL to partially or fully exercise any rights, or the waiver of TinyURL of any breach of these Terms by you, shall not prevent a subsequent exercise of such right by TinyURL or be deemed a waiver by TinyURL of any subsequent breach by you of the same or any other term of these Terms.
+The rights and remedies of TinyURL under these Terms and any other applicable agreement between you and TinyURL shall be cumulative, and the exercise of any such right or remedy shall not limit TinyURL's right to exercise any other right or remedy.

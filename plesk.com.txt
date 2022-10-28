@@ -1,0 +1,338 @@
+This End-User License Agreement (this “Agreement”) is a legal contract between you, as either an individual or an Entity (as defined below), and Plesk International GmbH, Vordergasse 59, 8200 Schaffhausen / Switzerland and its subsidiaries and affiliated companies (“Plesk”).
+READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY, OR OTHERWISE ACCESSING OR USING PLESK PROPRIETARY SOFTWARE, INCLUDING SOFTWARE AS A SERVICE, ACCOMPANIED BY OR REFERENCED IN THIS AGREEMENT (the “SOFTWARE”)
+THE SOFTWARE IS COPYRIGHTED AND IT IS LICENSED TO YOU UNDER THIS AGREEMENT, NOT SOLD TO YOU
+ BY DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY, OR OTHERWISE ACCESSING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU ACCEPT AND AGREE TO BE BOUND BY ITS TERMS
+ IF YOU ARE ACCEPTING THIS AGREEMENT ON BEHALF OF A COMPANY, ORGANIZATION, EDUCATIONAL INSTITUTION, OR AGENCY, INSTRUMENTALITY OR DEPARTMENT OF A GOVERNMENT (AN “ENTITY”) AS ITS AUTHORIZED LEGAL REPRESENTATIVE, THEN YOU REPRESENT AND WARRANT THAT YOU HAVE THE POWER AND AUTHORITY TO BIND SUCH ENTITY TO THESE TERMS, AND REFERENCES TO “YOU” HEREIN REFER TO BOTH YOU, THE INDIVIDUAL END USER, AND THE ENTITY ON WHOSE BEHALF YOU ARE ACCEPTING THIS AGREEMENT
+IF AT ANY TIME YOU ARE NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, YOU SHOULD CLICK THE “I DO NOT ACCEPT” OR SIMILAR BUTTON, TERMINATE THE DOWNLOAD AND/OR INSTALLATION PROCESS, IMMEDIATELY CEASE AND REFRAIN FROM ACCESSING OR USING THE SOFTWARE AND DELETE ANY COPIES YOU MAY HAVE
+THIS AGREEMENT, ALONG WITH ANY ADDITIONAL TERMS OR POLICIES INCORPORATED HEREIN BY REFERENCE, REPRESENTS THE ENTIRE AGREEMENT BETWEEN YOU AND PLESK CONCERNING THE SOFTWARE, AND THIS AGREEMENT SUPERSEDES AND REPLACES ANY PRIOR PROPOSAL, REPRESENTATION, OR UNDERSTANDING YOU MAY HAVE HAD WITH PLESK RELATING TO THE SOFTWARE, WHETHER ORALLY OR IN WRITING
+License.1.1
+Grant of License.Subject to your full and ongoing compliance with the terms and conditions of this Agreement, including without limitation payment of all applicable license fees, the applicable Plesk entity from which you obtained the Software hereby grants to you, and you accept, a personal, limited, nonexclusive, nontransferable (except as set forth in Section1.6 below), non-assignable, revocable license to use the Software during the Term in machine-readable, object code form only, and the user manuals accompanying the Software (the “Documentation”), only as authorized in this Agreement
+For purposes of this Agreement, the “Software” includes any updates, enhancements, modifications, revisions, or additions to the Software made by Plesk and made available to end-users
+Notwithstanding the foregoing, Plesk shall be under no obligation to provide any updates, enhancements, modifications, revisions, or additions to the Software.1.2
+Scope of Use.Your license to use the Software is conditioned on the following license restrictions, and any use of the Software in violation of any of these restrictions, or any of the other terms of this Agreement is a breach of this Agreement and is unlicensed
+ You may use one copy of the Software activated by a license key on a single virtual or physical device owned, leased, or otherwise controlled by you, at a single time (the “Authorized Device”)
+If you have multiple license keys for the Software, you may install and use as many copies of the Software as you have license keys, in each case, on an Authorized Device and only as authorized herein
+For purposes of this Agreement, “use” of the software means loading the Software into the temporary or permanent memory of an Authorized Device
+Installation of the Software on a network server solely for distribution to other computers is not “use” of the Software, and is permitted, provided that you have a valid license key for each Authorized Device on which the Software is installed
+The Software may not be used on, distributed to, or installed on a greater number of computers than you have license keys
+If you use or distribute the Software to multiple users, you must ensure that the number of Authorized Devices does not exceed the number of license keys you have obtained, or you will be in breach of this Agreement and such use and distribution is unlicensed.1.3 Additional Terms.Depending on the country in which you are located, additional terms and restrictions may apply, as set forth in Exhibit A (the “Additional Terms”), which terms are incorporated by reference herein and made a part of this Agreement.1.4
+Evaluation Licenses.In the event you obtained a trial or evaluation version of the Software, it will come with a trial activation key that activates the Software for a limited time period (the “Trial Period”)
+ You may use the Software during the Trial Period for internal noncommercial purposes, solely to evaluate the suitability of the Software for your needs
+ Upon the expiration of the Trial Period you must either purchase an activation key or destroy the Software, Documentation, all backup copies thereof, and all trial activation keys that you have obtained
+ If you do not purchase an activation key prior to the expiration of the Trial Period, this Agreement, and all your rights and licenses hereunder will terminate at the expiration of the Trial Period.1.5
+Copies and Modifications.Except and solely to the extent that such a restriction is prohibited under applicable law, you may not reverse engineer, decompile, disassemble, or otherwise translate the Software or any license keys you have obtained
+You may not modify or adapt the Software or any license keys that you have obtained in any way
+Any such copies of the Software, Documentation, or license keys shall include any copyright or other proprietary notices that were included on such materials when you first received them
+Except as authorized in this Section, no copies of the Software, Documentation, or license keys, or any portions thereof, may be made by you or any person under your authority or control.1.6
+Assignment of Rights.You will not sublicense, lease, rent, or lend your rights in the Software, Documentation, or license keys, as granted by this Agreement, without prior written consent of Plesk, except that you may transfer this Agreement in full in connection with the sale of all or substantially all of the assets related to this Agreement, provided that the assignee assumes all of your obligations hereunder, and the licenses granted hereunder will only extend to use of the Software on the Authorized Device on which the Software was installed immediately prior to the assignment
+ Plesk may assign this Agreement without limitation
+ Any assignment in violation of the foregoing shall be void and of no effect
+ Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties and their respective successors and permitted assigns.1.7
+Support and Maintenance Services; Updates; Upgrades.Plesk will not provide any support or maintenance services under this Agreement
+ You acknowledge that Plesk has no express or implied obligation to announce or make available any updates, enhancements, modifications, revisions, or additions to the Software and that this Agreement does not give you any rights in or to any of the foregoing
+ Plesk may offer support and/or maintenance services separately
+ If you have purchased Plesk support and/or maintenance services with the Software, these services are provided to you under the terms and conditions accompanying the applicable service
+ Any supplemental software code or related materials that Plesk provides to you as part of any support and/or maintenance services are considered part of the Software and are subject to the terms and conditions of this Agreement
+ If you purchase an upgrade (a new version of the Software) from a perpetual license to a newer version of the perpetual license, then your license keys to the prior perpetual license will continue to operate
+ However, if you purchase an upgrade from a perpetual license to a term-based license, then the license keys to the perpetual license will terminate upon activation of the term-based license
+Intellectual Property and Confidentiality.2.1
+Use Reporting, License Violations and Remedies.Plesk reserves the right, and you authorize Plesk, to gather data on key usage including license key numbers, Authorized Device IP addresses or other applicable device identifier (including MAC address or UDID), domain counts and other information deemed relevant, to ensure that our products are being used in accordance with the terms of this Agreement
+Plesk reserves the right to remedy violations of any of the terms of this Agreement immediately upon discovery, by charging the then current list price of unauthorized keys to the payment instrument used to make the original, authorized purchase, or by any other means necessary, including remotely disabling the Software
+You agree not to block, electronically or otherwise, the transmission of data required for compliance with this Agreement
+Any blocking of data required for compliance under this Agreement is considered violation of this Agreement and will result in immediate termination of this Agreement pursuant to Section 4.2.2
+License Expiration.Your license may include an expiration date that can result in the termination of the license
+If your license key is stolen, or if you suspect any improper or illegal usage of your license outside of your control you should promptly notify Plesk of such occurrence
+A replacement license will be issued to you and the suspect license will be allowed to expire
+For monthly subscription licenses, your monthly payment for each month must be processed prior to the expiration date in order for the license updates to be performed
+For your convenience Plesk may, but has no obligation to, provide license expiration warnings in the product interface
+It is your responsibility to contact Plesk regarding any potential expiration that you deem inappropriate
+Plesk shall not liable for any damages or costs incurred in connection with the expired licenses.2.3
+Proprietary Rights to Software and Trademarks.You acknowledge that the Software and the Documentation are proprietary to Plesk (Plesk International GmbH), and the Software and Documentation are protected under copyright and other intellectual property laws and international treaties
+You further acknowledge and agree that, as between you and Plesk, Plesk and its third party licensors own and shall continue to own all right, title, and interest in and to the Software and Documentation, including associated intellectual property rights under copyright, trade secret, patent, or trademark laws
+ Except for the limited, revocable license expressly granted to you herein, this Agreement does not grant you any ownership or other right or interest in or to the Software or the Documentation or any other intellectual property rights of Plesk, whether by implication, estoppel, or otherwise
+ Any and all trademarks or service marks that Plesk uses in connection with the Software or with services rendered by Plesk are marks owned by Plesk International GmbH / Switzerland
+This Agreement does not grant you any right, license, or interest in such marks, and you shall not assert any right, license, or interest in such marks or any words or designs that are confusingly similar to such marks.2.4
+Confidentiality.You shall permit only authorized users, who possess rightfully obtained license keys, to use the Software or to view the Documentation
+Except as expressly authorized by this Agreement, you shall not make available the Software, Documentation, or any license key to any third party, or use the Software, Documentation, or any license key for any purpose other than exercising rights expressly granted to you hereunder
+You agree to cooperate with and assist Plesk in identifying and preventing any unauthorized use, copying, or disclosure of the Software, Documentation, or any portion thereof.2.5
+Consent to Use Data.You agree that Plesk may collect and use technical data and related information—including but not limited to technical information about your device, system and application software, and peripherals—that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Software
+Plesk may use this information, as long as it is in a form that does not personally identify you, to operate, provide, improve, and develop our products, services and technologies, to prevent or investigate fraudulent or inappropriate use of Plesk’s products, services, and technologies, for research and development, and for the other purposes described in this Agreement or to you as part of our products and services
+ Subject to your consent in accordance to the applicable laws in your region, Plesk’s websites and online services may use “cookies,” which enable you to personalize your experience on Plesk’s sites and provide information to Plesk such as which websites have been visited and which ads and web searches are effective
+ If you want to disable cookies, check your browser settings or reject the use of cookies when entering Plesk’s website.Plesk may, e.g
+for the purpose of providing technical support to you, in the course of your use of the Software be furnished with or have access to information which may qualify as personal identifiable Information (PII) in some or all jurisdictions (such as admin email address).By accepting this Agreement, you agree and acknowledge that Plesk may collect, use, process, record, arrange, accumulate, keep,  update, extract, transfer (including trans-border transfer) access, depersonalize, block or remove such PII in performing its contractual duties and for general administrational purposes and may also disclose the PII to related third parties in its country of residence and abroad to the extent required by this Agreement and always in accordance to the provisions of the applicable data protection laws in effect
+By implementing and maintaining sufficient technical and organizational measures as requested by applicable data protection laws, Plesk makes sure that your PII is kept in strictest confidence and protected sufficiently against further disclosure.You may, at your exclusive option and discretion, at any time ask Plesk for information about the collected or processed data as well as request the alteration, anonymization or deletion of such data
+This may however in some cases have delaying effects on the availability of further Plesk services (e.g
+support services)
+Please direct your data protection-related requests to privacy@plesk.com2.6
+Audit Rights.During the term of this Agreement and for two (2) years after termination or expiration of this Agreement, Plesk may audit, upon written notice to you, your books, records, and computing devices to determine your compliance with this Agreement and your payment of the applicable license fees, if any, for the Software
+In the event that any such audit reveals an underpayment by you of more than five percent (5%) of the license fees due to Plesk in the period being audited, or that you have breached any term of this Agreement, then, in addition to any other rights and remedies Plesk may have, you will promptly pay to Plesk any underpayments plus the cost of the audit.3
+License Fees.The Software will be available to you for use upon your receipt of one or more license keys
+Upon acceptance of this Agreement, you may obtain one or more license keys by paying the requisite license fees, using the procedure set forth on Plesk web site
+License fees for term-based licenses are due prior to the commencement of the applicable term, and may be re-billed to the payment instrument you used for your initial purchase upon the commencement of any renewal term
+ Your license to the Software will terminate automatically without notice if you notify Plesk in advance that you do not intend to renew a term-based license or if you fail to pay a renewal fee for a term-based license
+ The license fees paid by you are paid in consideration of the license granted under this Agreement
+License sales are final and Plesk does not refund license fees under any circumstances
+By accepting this Agreement you fully understand that once license fee payment is made to Plesk you will have no recourse for receiving a refund of any part of the fees.4
+Term and Termination.This Agreement is effective upon your acceptance of the Agreement, or upon your downloading, installing, accessing, and using the Software, even if you have not expressly or formally accepted this Agreement
+This Agreement shall continue in effect until expiration or termination as provided herein (the “Term”)
+ Term-based licenses terminate upon the expiration of the prepaid term, unless you have paid all applicable fees to extend the term
+ Without prejudice to any other rights, this Agreement will terminate automatically without notice to you if you breach or fail to comply with any of the limitations or other requirements described herein, including the payment of any applicable fees, and you agree that in any such case Plesk may, in addition to any other remedies it may have at law or in equity, remotely disable the Software
+You may terminate this License Agreement at any time by providing written notice of your decision to terminate the Agreement to Plesk and ceasing use of the Software and Documentation
+ Upon any termination or expiration of the Agreement for any reason, you agree to uninstall the Software and either return to Plesk the Software, Documentation, all copies thereof, and all license keys that you have obtained, or to destroy all such materials and provide written verification of such destruction to Plesk.5
+IndemnificationYou will, at your own expense, indemnify and hold Plesk, and all officers, directors, and employees thereof, harmless from and against any and all claims, actions, liabilities, losses, damages, judgments, grants, costs, and expenses, including reasonable attorneys’ fees (collectively, “Claims”), arising out of any use of the Package (as defined below) by you, any party related to you, or any party acting upon your authorization in a manner that is not expressly authorized by this Agreement.6
+Third Party Software.The Software which is distributed to you may include various third party software components or software services (“Third Party Software” and together with the Software, the “Package”) which are provided under separate license terms (the “Third Party Terms”), as may be described in more detail in the “Notices.txt” file (if applicable) included in the Documentation
+ Information regarding Third Party Software included in the Package is also available on our website at www.Plesk.com
+ You are permitted to use the Third Party Software in conjunction with the Software, provided that such use is consistent with the terms of this Agreement
+You may have broader rights to use the Third Party Software under the applicable Third Party Terms
+ Nothing in this Agreement is intended to impose further restrictions on your use of the Third Party Software in accordance with any Third Party Terms
+ The Software may also enable interoperation with certain other third party operating systems and applications
+ Plesk does not provide you with any such third party licenses and it is solely your responsibility to obtain all necessary software licenses from respective vendors.7
+Limited Warranty; Disclaimer; Limitation of Liability.7.1
+Limited Warranty.  Plesk warrants that it has the right to license the Software to you and that it works substantially in accordance to its Documentation for at least 90 following the date of purchase.7.2
+WARRANTY DISCLAIMER.
+EXCEPT FOR THE SOLE LIMITED WARRANTY EXPRESSLY GRANTED TO YOU IN SECTION 8.1, THE PACKAGE AND DOCUMENTATION ARE LICENSED “AS IS,” AND PLESK DISCLAIMS ANY AND ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, TIMELINESS, TITLE, OR NON-INFRINGEMENT OF THIRD PARTY RIGHTS, TO THE FULLEST EXTENT AUTHORIZED BY LAW
+ WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, PLESK EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND FOR THE THIRD PARTY SOFTWARE, AND DOES NOT WARRANT THAT THE PACKAGE WILL MEET YOUR REQUIREMENTS OR THAT OPERATION OF THE PACKAGE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE, THAT DEFECTS OR ERRORS IN THE PACKAGE WILL BE CORRECTED OR THAT THE PACKAGE WILL BE COMPATIBLE WITH FUTURE PLESK PRODUCTS, OR THAT ANY INFORMATION OR DATA STORED OR TRANSMITTED THROUGH THE PACKAGE WILL NOT BE LOST, CORRUPTED OR DESTROYED
+YOU ASSUME RESPONSIBILITY FOR SELECTING THE PACKAGE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE RESULTS OBTAINED FROM YOUR USE OF THE PACKAGE
+YOU SHALL BEAR THE ENTIRE RISK AS TO THE QUALITY AND THE PERFORMANCE OF THE PACKAGE.
+7.3
+LIMITATION OF LIABILITY.
+IN NO EVENT SHALL PLESK BE LIABLE TO YOU OR ANY PARTY RELATED TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF DATA OR OTHER SUCH PECUNIARY LOSS), WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY, OR OTHERWISE, EVEN IF PLESK HAS or had BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
+ IN NO EVENT WILL PLESK’S TOTAL AGGREGATE AND CUMULATIVE LIABILITY TO YOU FOR ANY AND ALL CLAIMS OF ANY KIND ARISING HEREUNDER EXCEED THE AMOUNT OF LICENSE FEES ACTUALLY PAID BY YOU FOR THE SOFTWARE GIVING RISE TO THE CLAIM IN THE TWELVE MONTHS PRECEDING THE CLAIM
+ THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+7.4
+CERTAIN LIMITATIONS.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATION OR EXCLUSION OF CERTAIN TYPES OF WARRANTIES, DAMAGES, OR LIABILITIES, SO THE ABOVE EXCLUSION AND LIMITATIONS MAY NOT APPLY TO YOU, BUT IN SUCH A CASE THE EXCLUSIONS AND LIMITATIONS SET FORTH IN THIS SECTION 7 SHALL BE APPLIED TO THE GREATEST EXTENT ENFORCEABLE UNDER APPLICABLE LAW.
+8
+General Terms
+8.1
+Feedback.
+If you provide any ideas, feedback, suggestions, materials, information, opinions, or other input to Plesk (“Feedback”), regardless of any accompanying communication, Plesk has no obligation to review, consider, or implement your Feedback, all such submissions are made on a non-confidential basis, Plesk and its successors and assigns have an unconditional and unlimited right to use, reproduce, modify, and disclose such Feedback without any compensation or attribution, and you waive and agree not to assert any so-called “moral rights” you may have in the Feedback.
+8.2
+Governing Law and Choice of Forum.
+This Agreement shall be governed by and interpreted in accordance with the laws of Switzerland, without regard to the conflicts of law rules thereof
+Any claim or dispute arising in connection with this Agreement shall be resolved in the applicable courts situated in Zürich / Switzerland
+To the maximum extent permitted by law, you hereby consent to the jurisdiction and venue of such courts and waive any objections to the jurisdiction or venue of such courts
+ This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
+8.3
+Severability.
+If any term or provision of this Agreement is declared void or unenforceable in a particular situation, by any judicial or administrative authority, this declaration shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation
+ To the extent possible the provision will be interpreted and enforced to the greatest extent legally permissible in order to effectuate the original intent, and if no such interpretation or enforcement is legally permissible, shall be deemed severed from the Agreement.
+8.4
+Survival.
+Articles 2, 5, 7, and 8 of this Agreement and all Sections thereof, shall survive the termination or expiration of this Agreement, regardless of the cause for termination or expiration, and shall remain valid and binding indefinitely.
+8.5
+Headings.
+The Article and Section headings contained in this Agreement are included for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+8.6
+No Waiver.
+The failure of either party to enforce any rights granted hereunder or to take action against the other party in the event of any breach hereunder shall not be deemed a waiver by that party as to subsequent enforcement of rights or subsequent actions in the event of future breaches.
+8.7
+Amendment.
+Plesk reserves the right, in its sole discretion, to amend this Agreement from time to time by posting an updated version of the Agreement on www.Plesk.com, provided that disputes arising hereunder will be resolved in accordance with the terms of the Agreement in effect at the time the dispute arose
+ We encourage you to review the published Agreement from time to time to make yourself aware of changes
+ Material changes to these terms will be effective upon the earlier of (i) your first use of the Software with actual knowledge of such change, or (ii) 30 days from publishing the amended Agreement on www.Plesk.com
+ If there is a conflict between this Agreement and the most current version of this Agreement, posted at www.Plesk.com, the most current version will prevail
+Your use of the Software after the amended Agreement becomes effective constitutes your acceptance of the amended Agreement
+ If you do not accept amendments made to this Agreement, then it is your responsibility to terminate this Agreement pursuant to Section 4.
+8.8
+Taxes.
+You shall, in addition to the license fees required under this Agreement, pay all applicable sales, use, transfer, or other taxes and all duties, whether national, state, or local, however designated, that are levied or imposed by reason of the transaction contemplated under this Agreement, excluding income taxes on the net profits of Plesk
+You shall reimburse Plesk for the amount of any such taxes or duties paid or incurred directly by Plesk as a result of this transaction, and you agree that Plesk may charge any such reimbursable taxes to the payment instrument you used for your initial payment.
+8.9
+Export Controls.
+You may not use, export, re-export, import, sell or transfer the Software except as authorized by the laws of the jurisdiction in which you obtained the Software and any other applicable laws and regulations
+ You represent and warrant that (i) you are not located in a country that is subject to a U.S
+Government embargo, or that has been designated by the U.S
+Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S
+Government list of prohibited or restricted parties
+ You also acknowledge that the Software may be subject to other U.S
+and foreign laws and regulations governing the export of software by physical and electronic means
+ You agree to comply with all applicable U.S
+and foreign laws that apply to Plesk as well as end-user, end-use, and destination restrictions imposed by U.S
+and/or foreign governments
+ You also agree that you will not use the Software for any purposes prohibited by U.S
+law, including, without limitation, the development, design, manufacture or production of nuclear missiles, or chemical or biological weapons.
+8.10
+United States Government Use Rights.
+The Software as defined herein and any related technical data, including manuals and Documentation, are commercial as defined in the Federal Acquisition Regulation (FAR) at 2.101
+If the Software is acquired by or on behalf of an agency, department, or other entity of the U.S
+Government (“Government”), the use, duplication, reproduction, release, modification, disclosure, or transfer (“use”) of the Software, and any related technical data of any kind, including manuals and Documentation, no matter how received by the Government, is restricted by the terms and conditions of this Agreement in accordance with FAR 12.212 for civilian agencies, and Defense Federal Acquisition Regulation Supplement 227.7202 for military agencies
+All other use is prohibited.
+8.11
+Governing Language.
+Any translation of this Agreement is done for local requirements and in the event of a dispute between the English and any non-English versions, the English version of this Agreement shall govern.
+8.12
+Trademark Notice
+The Plesk logo and Plesk, are registered trademarks or trademarks of Plesk International GmbH, in the United States and/or other countries
+ All other trademarks referenced in the Software or Documentation are the property of their respective owners.
+8.13
+Contact Information.
+You may contact Plesk for more information about the Software, other Plesk products and services at Plesk International GmbH, Vordergasse 59, Schaffhausen, Switzerland, or by visiting our website:  www.Plesk.com 
+EXHIBIT A 
+Additional Terms  for Consumers (End-Customers) 
+United States 
+If you acquired the Software and are located in the United States of America, the following terms and conditions supplement the Agreement and therefore also apply to you: 
+1 Thirty Day Money Back Guarantee
+ If you are not completely satisfied with the Software for any reason, you may return the Software, together with your receipt, for a refund of the money you paid for the Software (less shipping, handling, and any applicable taxes) at any time during the thirty (30) day period following the date of purchase
+Australia 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN AUSTRALIA, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+ Limited Warranty
+The Limited Warranty set forth in section 7.1 of the Agreement only applies for the Warranty Period
+The benefits given to you by the Limited Warranty under clause 7.1 are in addition to other rights and remedies under a law in relation to the goods to which the Limited Warranty relates
+Plesk Software comes with guarantees that cannot be excluded under the Australian Consumer Law
+ You are entitled to a replacement or refund for a major failure and for compensation for any other reasonably foreseeable loss or damage
+ You are also entitled to have the Software repaired or replaced if the Software fails to be of acceptable quality and the failure does not amount to a major failure
+Plesk’s details are as follows: Plesk International GmbH, Vordergasse 59, Schaffhausen, Switzerland
+2
+ Limitation of Liability
+(liability limit) The Australian Consumer Law contains guarantees that protect the purchasers of goods or services in certain circumstances
+ To the fullest extent permitted by law, the liability of Plesk to you for any loss or claim arising under or in connection with this Agreement that cannot be lawfully excluded under the Australian Consumer Law is limited to: 
+  (i) (replacement) the replacement of the Package and/or Documentation; 
+  (ii) (repair) the repair of the Package and/or Documentation; 
+  (iii) (replacement price) the payment of the cost of replacing the Package and/or Documentation or of acquiring equivalent goods; or 
+  (iv) (repair price) the payment of the cost of having the Package and/or Documentation repaired
+3
+ Governing Law
+This Agreement is governed by the laws of the State of Victoria, Australia
+ The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement
+Czech Republic 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN THE CZECH REPUBLIC, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Audit Rights. During the term of this Agreement and for two (2) years after termination or expiration of this Agreement, Plesk may audit, upon written notice to you, your books, records, and computing devices to determine your compliance with this Agreement and your payment of the applicable license fees, if any, for the Software
+In the event that any such audit reveals an underpayment by you of more than five percent (5%) of the license fees due to Plesk in the period being audited, or that you have breached any term of this Agreement, then, in addition to any other rights and remedies Plesk may have, you will promptly pay to Plesk any underpayments plus the cost of the audit
+Information acquired during the control shall not be provided to any third party, used for commercial purposes and must respect the relevant provisions of the Act no
+121/2000 Coll., on the protection of individuals with regard to the processing of personal data
+Information acquired during such audit shall be used only for the purposes of findings related to the Agreement, compliance and license fee payments
+2
+License Fees. The Software will be available to you for use upon your receipt of one or more license keys
+Upon acceptance of this Agreement, you may obtain one or more license keys by paying the requisite license fees, using the procedure set forth on Plesk web site
+License fees for term-based licenses are due prior to the commencement of the applicable term, and may be re-billed to the payment instrument you used for your initial purchase upon the commencement of any renewal term
+(1) Right of withdrawal regarding software delivered by download or by electronic key 
+If you are a consumer you have the following statutory right of withdrawal
+You may withdraw from the contract in written form (e.g
+letter, fax, email) without giving any grounds and within a period of 14 days
+If you have purchased software by download from the Plesk’s web pages, this provision shall only apply until you started the download
+If you have purchased software by an electronic installation key entitling you to download it from third parties, the right of withdrawal shall only be applicable until we send you the key by email
+After this point in time, your right of withdrawal expires
+The time limit of 14 days for any assertion of your right of revocation begins at the earliest on the day after the conclusion of the contract and after you have received this instruction in written form but not before we complied with our information obligations under Sec
+53 (4) (6) Czech Civil Code
+To comply with the time limit it is sufficient to send the withdrawal notice in due time to Plesk International GmbH, Vordergasse 59, Schaffhausen, Switzerland
+In case of an effective withdrawal the parties shall each return the services received as well as the benefits drawn from utilization (such as the use and enjoyment)
+3
+Governing Law and Choice of Forum. This Agreement shall be governed by and interpreted in accordance with the laws of Switzerland, without regard to the conflicts of law rules thereof
+Any claim or dispute arising in connection with this Agreement shall be resolved in the courts situated in Zürich / Switzerland
+To the maximum extent permitted by law, you hereby consent to the jurisdiction and venue of such courts and waive any objections to the jurisdiction or venue of such courts
+ This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded
+This choice of law does not exclude any imperative consumer protection laws applicable in the country where the customer has his/her usual place of residence
+France 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN FRANCE, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Proprietary Rights to Software and Trademarks
+You acknowledge that the Software and the Documentation are proprietary to Plesk, and the Software and Documentation are protected under United States copyright and other national and international intellectual property laws and international treaties
+You further acknowledge and agree that, as between you and Plesk, Plesk and its third party licensors own and shall continue to own all right, title, and interest in and to the Software and Documentation, including associated intellectual property rights under copyright, trade secret, patent, or trademark laws
+ Except for the limited, revocable license expressly granted to you herein, this Agreement does not grant you any ownership or other right or interest in or to the Software or the Documentation or any other intellectual property rights of Plesk, whether by implication, or otherwise
+ Any and all trademarks or service marks that Plesk uses in connection with the Software or with services rendered by any of Plesk are marks owned by Plesk
+This Agreement does not grant you any right, license, or interest in such marks, and you shall not assert any right, license, or interest in such marks or any words or designs that are confusingly similar to such marks
+2
+Term and Termination
+ This Agreement is effective upon your acceptance of the Agreement, or upon your downloading, installing, accessing, and using the Software, even if you have not expressly accepted this Agreement
+This Agreement shall continue in effect until expiration or termination as provided herein (the “Term”)
+ Term-based licenses terminate upon the expiration of the prepaid term, unless you have paid all applicable fees to extend the term
+ Without prejudice to any other rights, this Agreement will terminate automatically without notice to you if you breach or fail to comply with any of the limitations or other requirements described herein, including the payment of any applicable fees, and you agree that in any such case Plesk may, in addition to any other remedies it may have at law, remotely disable the Software
+You may terminate this License Agreement at any time by providing written notice of your decision to terminate the Agreement to Plesk and ceasing use of the Software and Documentation
+ Upon any termination or expiration of the Agreement for any reason, you agree to uninstall the Software and either return to Plesk the Software, Documentation, all copies thereof, and all license keys that you have obtained, or to destroy all such materials and provide written verification of such destruction to Plesk
+3
+LIMITATION OF LIABILITY
+ IN NO EVENT SHALL PLESK BE LIABLE TO YOU OR ANY PARTY RELATED TO YOU FOR ANY INDIRECT DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF DATA OR OTHER SUCH PECUNIARY LOSS), WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY, OR OTHERWISE, EVEN IF PLESK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
+ IN NO EVENT WILL PLESK’S TOTAL AGGREGATE AND CUMULATIVE LIABILITY TO YOU FOR ANY AND ALL CLAIMS OF ANY KIND ARISING HEREUNDER EXCEED THE AMOUNT OF LICENSE FEES ACTUALLY PAID BY YOU FOR THE SOFTWARE GIVING RISE TO THE CLAIM IN THE TWELVE MONTHS PRECEDING THE CLAIM
+ THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED REMEDY FAILS OF ITS ESSENTIAL PURPOSE
+4
+Feedback
+ If you provide any ideas, feedback, suggestions, materials, information, opinions, or other input to Plesk (“Feedback”), regardless of any accompanying communication, Plesk has no obligation to review, consider, or implement your Feedback, all such submissions are made on a non-confidential basis, Plesk and its successors and assigns have an unconditional and unlimited right to use, reproduce, modify, and disclose such Feedback without any compensation or attribution
+Germany 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN GERMANY AND YOU ARE A CONSUMER AS DEFINED IN SECTION 14 OF THE GERMAN CIVIL CODE/BÜRGERLICHES GESETZBUCH (“GERMAN CONSUMER”), THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Warranty. Plesk will be liable for material defects and defects in title only to the extent necessary according to German Statutory Law
+An additional guarantee is only given by Plesk, if explicitly stated in written form
+2
+Limitation of Liability. Sections 8.3
+and 8.4
+of the Agreement shall not apply for contracts with German Consumers
+Instead, Plesk shall only be liable according to the following: 
+(i) Plesk shall be liable for damages exclusively according to this clause 2
+Every other liability for damages shall be excluded
+(ii) The liability of Plesk is unlimited for damages arising out of death, injury to body or health based on a breach conducted by a legal representative or designated agent of Plesk, as well as for damages that arose from the lack of a guaranteed characteristic or in case of fraudulent intent
+(iii) The liability of Plesk is unlimited for damages caused by Plesk, a legal representative, or designated agent by intent or gross negligence
+(iv) In case of a slight negligent breach of a contractual core duty Plesk shall, except in the cases pursuant to clause (ii) and (v) herein, only be liable to the amount of the typically foreseeable damage
+Contractual core duties abstractly are such duties whose accomplishment enables proper fulfilment of the contract in the first place and whose fulfilment a contractual party regularly may rely on
+(v) Liability pursuant to the German Product Liability Act (“Produkthaftungsgesetz”) remains unaffected
+3
+Governing Law. This Agreement shall be exclusively governed by German law while excluding the United Nations Convention on Contracts for the International Sale of Goods
+Italy 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN ITALY, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Governing Law and Choice of Forum
+This Agreement shall be governed by and interpreted in accordance with the laws of the state of Switzerland, without prejudice to the mandatory Italian consumer protection laws in case you are a consumer with your usual place of residence in Italy
+Any claim or dispute arising in connection with this Agreement shall be resolved in the courts situated in Zürich / Switzerland
+To the maximum extent permitted by law, you hereby consent to the jurisdiction and venue of such courts and waive any objections to the jurisdiction or venue of such courts
+ This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded 
+Poland 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN POLAND, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Feedback
+ If you provide any ideas, feedback, suggestions, materials, information, opinions, or other input to Plesk (“Feedback”), regardless of any accompanying communication, Plesk has no obligation to review, consider, or implement your Feedback, all such submissions are made on a non-confidential basis, Plesk and its successors and assigns have an unconditional and unlimited right to use, reproduce, modify, and disclose such Feedback without any compensation or attribution, and you refrain from exercising and agree not to assert any so-called “moral rights” you may have in the Feedback
+FURTHER, IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN POLAND AND YOU ARE A CONSUMER AS DEFINED IN APPLICABLE POLISH LAW, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+1
+Assignment of Rights. You will not sublicense, lease, rent, or lend your rights in the Software, Documentation, or license keys, as granted by this Agreement, without prior written consent of Plesk, except that you may transfer this Agreement in full in connection with the sale of all or substantially all of the assets related to this Agreement, provided that the assignee assumes all of your obligations hereunder, and the licenses granted hereunder will only extend to use of the Software on the Authorized Device on which the Software was installed immediately prior to the assignment
+  Any assignment in violation of the foregoing shall be void and of no effect
+ Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties and their respective successors and permitted assigns
+2
+Term and Termination. This Agreement is effective upon your acceptance of the Agreement, or upon your downloading, installing, accessing, and using the Software, even if you have not expressly accepted this Agreement
+This Agreement shall continue in effect until expiration or termination as provided herein (the “Term”)
+ Term-based licenses terminate upon the expiration of the prepaid term, unless you have paid all applicable fees to extend the term
+ Without prejudice to any other rights, this Agreement will terminate upon seven (7) days notice to you if you breach or fail to comply with any of the limitations or other requirements described herein, including the payment of any applicable fees, and you agree that in any such case Plesk may, in addition to any other remedies it may have at law or in equity, remotely disable the Software
+You may terminate this License Agreement at any time by providing written notice of your decision to terminate the Agreement to Plesk and ceasing use of the Software and Documentation
+ Upon any termination or expiration of the Agreement for any reason, you agree to uninstall the Software and either return to Plesk the Software, Documentation, all copies thereof, and all license keys that you have obtained, or to destroy all such materials and provide written verification of such destruction to Plesk
+3
+Right of Revocation. At any time during the ten (10) day period following the date of purchase of the Software / conclusion of this Agreement, You may, for any reason, return the Software (terminate this Agreement), together with your receipt, for a refund of the money you paid for the Software
+4
+Indemnification. Does not apply
+5
+Limited Warranty. The Limited Warranty does not exclude the statutory warranty provided under the Polish Act on particular conditions of consumers’ sale
+6
+WARRANTY DISCLAIMER. The WARRANTY DISCLAIMER does not exclude the statutory warranty provided under the Polish Act on particular conditions of consumers’ sale
+7
+Governing Law and Choice of Forum. This Agreement shall be governed by and interpreted in accordance with the laws of Switzerland, without regard to the conflicts of law rules thereof
+Any claim or dispute arising in connection with this Agreement shall be resolved in the competent courts of Poland
+This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded
+8
+Amendment. Plesk reserves the right, in its sole discretion, to amend this Agreement from time to time by posting an updated version of the Agreement on www.Plesk.com, provided that disputes arising hereunder will be resolved in accordance with the terms of the Agreement in effect at the time the dispute arose
+ We encourage you to review the published Agreement from time to time to make yourself aware of changes
+ Material changes to these terms will be effective upon your first use of the Software with actual knowledge of such change
+ If there is a conflict between this Agreement and the most current version of this Agreement, posted at www.Plesk.com, the most current version will prevail
+Your use of the Software after the amended Agreement becomes effective constitutes your acceptance of the amended Agreement
+9
+Taxes. Does not apply
+10
+Governing Language. Any translation of this Agreement is done for local requirements and in the event of a dispute between the English and Polish versions, the Polish version of this Agreement shall govern
+Russia 
+IF YOU ARE DOWNLOADING, INSTALLING, OBTAINING A LICENSE KEY OR OTHERWISE ACCESSING OR USING THE SOFTWARE WHILE YOU ARE LOCATED IN RUSSIA, THE FOLLOWING TERMS AND CONDITIONS SHALL APPLY, AND TO THE EXTENT INCONSISTENT, SUPERSEDE THE APPLICABLE TERMS AND CONDITIONS CONTAINED IN THE AGREEMENT: 
+This End-User License Agreement (this “Agreement”) is a legal contract between You, as either an individual or an Entity (as defined below), and Plesk International GmbH and its subsidiaries, including Plesk’s official Russian subsidiary, being a patent / trademark / copyright owner (“Plesk”)
+1
+Grant of License. Subject to your full and ongoing compliance with the terms and conditions of this Agreement, including without limitation payment of all applicable license fees, Plesk hereby grants to you, and you accept, a personal, limited, nonexclusive, nontransferable (except as set forth in Section 1.6 below), non-assignable, revocable license to use the Software during the Term in machine-readable, object code form only, and the user manuals accompanying the Software (the “Documentation”), only as authorized in this Agreement
+For purposes of this Agreement, the “Software” includes any updates, enhancements, modifications, revisions, or additions to the Software made by Plesk and made available to end-users through Plesk’s web site
+Notwithstanding the foregoing, Plesk shall be under no obligation to provide any updates, enhancements, modifications, revisions, or additions to the Software
+2
+Consent to Use Data. You agree that Plesk may collect and use technical data and related information—including but not limited to technical information about your device, system and application software, and peripherals—that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Software
+Plesk may use this information, as long as it is in a form that does not personally identify you, to operate, provide, improve, and develop our products, services and technologies, to prevent or investigate fraudulent or inappropriate use of our products, services, and technologies, for research and development, and for the other purposes described in this Agreement or to you as part of our products and services
+Should any personal data as described in the effective applicable law of your jurisdiction be gathered for the purposes as described above, you hereby expressly grant Plesk the right to collect, record, arrange, accumulate, keep,  update, extract, use, transfer (including trans-border transfer) access, depersonalize, block, remove your personal data obtained
+3
+LIMITATION OF LIABILITY. IN NO EVENT SHALL PLESK BE LIABLE TO YOU OR ANY PARTY RELATED TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF DATA OR OTHER SUCH PECUNIARY LOSS), WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, OR OTHERWISE, EVEN IF PLESK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
+ IN NO EVENT WILL PLESK’S TOTAL AGGREGATE AND CUMULATIVE LIABILITY TO YOU FOR ANY AND ALL CLAIMS OF ANY KIND ARISING HEREUNDER EXCEED THE AMOUNT OF LICENSE FEES ACTUALLY PAID BY YOU FOR THE SOFTWARE GIVING RISE TO THE CLAIM IN THE TWELVE MONTHS PRECEDING THE CLAIM
+ THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED REMEDY FAILS OF ITS ESSENTIAL PURPOSE
+4
+Governing Law and Choice of Forum. This Agreement shall be governed by and interpreted in accordance with the laws of Russia, without regard to the conflicts of law rules thereof
+Any claim or dispute arising in connection with this Agreement shall be resolved in the courts situated in Novosibirsk / Russia, unless specific rules apply to you as a consumer (natural person obtaining license for personal needs)
+In the latter case the dispute shall be settled in the court duly empowered by the applicable law of your jurisdiction
+ This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.

@@ -1,0 +1,217 @@
+Revised: 08.10.2021 The following Terms and Conditions include general provisions for using the Online Shop (section A) and special provisions for specific products (section B)
+A.1.1    “Online Shop” means any online shop for the sale of Products by Springer Nature to which these Terms and Conditions apply
+A.1.2    “Digital Content Platform” means any platform provided by or on behalf of Springer Nature hosting Digital Content for access by Authorized Users
+A.1.3    “Springer Nature” means the relevant entity with which contracts are concluded
+(a)    For Customers having their habitual residence in North, Central or South America: Springer Nature Customer Service Center, LLC, 1 New York Plaza, Suite 4600, New York, NY 10004-1562, phone 1-866-839-0194, fax: +1 212 460 1700, email: customerservice@springernature.com (b)    For Customers having their habitual residence in Europe, Middle East, Africa, Asia, Oceania or Australia: Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, fax: +49 6221 345 4229, email: customerservice@springernature.com A.1.4    “Products” means any Goods, Digital Content and Services offered in the Online Shop, including Subscriptions and Rentals
+A.1.4.1    “Goods” means any tangible movable items, in particular print books and magazines
+A.1.4.2    “Digital Content” means any form of digital images, texts, sounds, audio-visual content and software (or combinations thereof), which is not delivered on a tangible medium
+A.1.4.3    “Services” means any kind of services, excluding the supply of or providing access to Digital Content
+A.1.4.4    “Subscription” means (a)    the regular supply of Goods or Digital Content; or (b)    access to Digital Content, but not including Rentals
+A.1.4.5    “Rental” means access to Digital Content for a fixed period, which cannot be extended or renewed
+A.1.5    “User” means the natural person who owns an account for using the Online Shop and, if applicable, accessing Digital Content and/or Services (the “User Account”), acting either as an Individual Customer or on behalf of an Institutional Customer
+A.1.6    “Customer” means either (a) an Individual Customer or (b) an Institutional Customer entering into a contract with Springer Nature
+A.1.6.1    “Individual Customer” means a natural person acting in their own name
+A.1.6.2    “Institutional Customer” means an organization which orders Products to be used by the Authorized User
+A.1.7    “Authorized User” means (a)    a User who ordered Digital Content or Services as an Individual Customer; or (b)    a User who ordered Digital Content or Services on behalf of an Institutional Customer and was authorized to use that Product by the Institutional Customer
+Springer Nature offers the following kinds of Products in the Online Shop: A.2.1    Print books, print journals and print magazines: The provisions on the delivery of Goods apply; unless a copy of an individual issue was ordered, the provisions on Subscriptions apply as well
+A.2.2    ePapers, eBooks, eJournals and eMagazines (including individual chapters or articles, if available) for download: The provisions on access to Digital Content apply; unless a copy of an individual issue was ordered, the provisions on Subscriptions apply as well
+A.2.3    Coupon Codes: The provisions on Coupon Codes apply
+A.2.4    Rentals of eBooks: The provisions on access to Digital Content and on Rentals apply
+A.2.5    Personal Collections, i.e
+access by an Individual Customer to packages of Digital Content arranged by subject matter, such as “Nature+”: The provisions on Digital Content, Personal Collections and Subscriptions apply
+A.2.6    Services: If Services can be ordered in the Online Shop; any specific provisions set out on the product page apply in addition to these Terms and Conditions
+A.3.1    A User Account is a prerequisite for placing orders in the Online Shop, using Digital Content or Services, and providing User content such as comments on websites operated by Springer Nature or its affiliated companies
+A.3.2    Prerequisites for registering a User Account and registration process A.3.2.1    User must be of age and have full legal capacity
+A.3.2.2    User must provide accurate and complete details upon registration and must keep them up to date
+A.3.2.3    User must provide a valid email address
+User warrants that they are entitled to receive email at such email address
+Springer Nature is not obliged to use such email address for communication with User
+A.3.2.4    User may review the data entered and correct any errors or terminate the registration process at any time before sending off the completed registration form
+By clicking the confirmation button, User registers a User Account
+Springer Nature will send User a confirmation of receipt of their registration
+Springer Nature may reject registrations for any or no reason
+The contract on using the user account will not be filed and will not be accessible to User
+A.3.3    Individual User Account and Institutional User Account A.3.3.1    If User wants to order Products as an Individual Customer as well as on behalf of an Institutional Customer (section A.1.6), User must register two separate User Accounts for those different purposes, i.e
+(a)    one User Account for placing orders as an Individual Customer (“Individual User Account”) and (b)    another User Account for placing orders on behalf of the relevant Institutional Customer (“Institutional User Account”)
+A.3.3.2    User may, however, always register only one Individual User Account and only one Institutional User Account
+A.3.3.3    User must use a private email address for their Individual User Account and their professional email address (provided by the relevant Institutional Customer) for their Institutional User Account
+A.3.3.4    Upon registering an Institutional Account, User warrants and represents that they are duly authorized by the relevant Institutional Customer to act as its agent and conclude contracts in the name of that Institutional Customer
+A.4.1    User’s role when using their User Account(s) A.4.1.1    When using their Individual User Account, User shall always be deemed to act in their own name; when using their Institutional User Account, User shall always be deemed to act on behalf of the relevant Institutional Customer
+This means: A.4.1.2    If User orders Products as an Individual Customer, User shall be the Customer (as defined in clause A.1.6) and the Authorized User (as defined in A.1.7)
+A.4.1.3    If User orders Products on behalf of the relevant Institutional Customer, that Institutional Customer shall be the Customer (as defined in clause A.1.6), but User shall be the (only) Authorized User (as defined in clause A.1.7)
+A.4.2    Strictly personal use A.4.2.1    A User Account is always User’s personal account
+It provides User with access to the Digital Content and/or Services which they are authorized to use as the Authorized User (section A.4.1) according to the User’s rights of use for Digital Content (section B.2.7) and/or the specific terms for the relevant Service
+This means: (a)    User may not let other persons (including other persons affiliated with the same Institutional Customer) use their User Account and/or any Digital Content and/or  Services which can be accessed from their User Account
+(b)    User may not give other persons access to downloaded Digital Content or share downloaded Digital Content with other persons in any form
+(c)    User may not give other persons access to any results created using a Service or share such results unless expressly authorized to do so under the applicable terms of the relevant Service (clause A.1.1)
+A.4.3    User’s obligations and consequences of noncompliance A.4.3.1    User must keep their user credentials confidential
+If User has reason to suspect that another person may have access to, or be using, their User Account, User must inform Springer Nature immediately and set a new password
+A.4.3.2    Where User is responsible for third-party use of their User Account due to noncompliance with said obligations, User shall be liable for all consequences, including payment for orders
+A.4.3.3    Springer Nature may suspend or terminate a User Account after a warning or immediately in order to prevent misuse
+In such event, User may not re-register without Springer Nature’s prior written consent
+The suspension or termination of the User Account shall not affect Springer Nature’s right to continue to use User content already submitted by User
+A.5.1    User may put any Product in the shopping cart by clicking the relevant button on the Product page
+User can review the content of the shopping cart at any time and may alter the number of copies (for goods only) or remove Products from the shopping cart or terminate the order process before submitting their order
+A.5.2    By clicking the confirmation button, User submits their order
+Springer Nature will send User a confirmation of receipt; subject to clause A.5.3 the contract is concluded upon such confirmation
+The contract will not be filed and will not be accessible to User, but Springer Nature will include the Terms and Conditions in the confirmation email
+A.5.3    Should the payment process not be completed successfully, i.e
+Springer Nature does not receive a confirmation of Customer’s payment from the relevant payment service provider, Springer Nature will not confirm the order, but notify Customer of the failure of payment, and no contract will be deemed made
+A.6.1    An Individual Customer who has their habitual residence in Europe, Middle East, Africa, Asia, Oceania or Australia and is acting for purposes which are outside their trade, business, craft or profession (“consumer”), has a statutory right of withdrawal
+The conditions for and effects of withdrawal depend on the nature of the Product (section A.2)
+A.6.2    There is no right of withdrawal for the following types of contracts: (a)    the supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery; (b)    the supply of a newspaper, periodical or magazine with the exception of subscription contracts for the supply of such publications (i.e
+the purchase of an individual issue); (c)    the supply of or access to Digital Products if the performance has begun with Customer’s prior express consent and Customer’s acknowledgment that Customer thereby loses their right of withdrawal; (d)    contracts of Services after the Service has been fully performed if the performance has begun with Customer’s prior express consent, and with the acknowledgement that Customer will lose their right of withdrawal once the contract has been fully performed by Springer Nature
+A.6.3    Information on withdrawal (a)    For a contract on the delivery of Goods which are delivered in one delivery: Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason
+The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the goods
+To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, fax: +49 6221 345 4229, email: customerservice@springernature.com ) of your decision to withdraw from this contract by an unequivocal statement (e.g
+a letter sent by post, fax or e-mail)
+You may use the attached model withdrawal form, but it is not obligatory
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired
+Effects of withdrawal If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement
+We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest
+You shall send back the goods or hand them over to us without undue delay and in any event not later than 14 days from the day on which you communicate your withdrawal from this contract to us
+The deadline is met if you send back the goods before the period of 14 days has expired
+You will have to bear the direct cost of returning the goods
+You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods
+(b)    For a contract on the delivery of Goods which were ordered in one order but are delivered separately: Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason
+The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the last good
+To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, fax: +49 6221 345 4229, email: customerservice@springernature.com ) of your decision to withdraw from this contract by an unequivocal statement (e.g
+a letter sent by post, fax or e-mail)
+You may use the attached model withdrawal form, but it is not obligatory
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired
+Effects of withdrawal If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement
+We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest
+You shall send back the goods or hand them over to us without undue delay and in any event not later than 14 days from the day on which you communicate your withdrawal from this contract to us
+The deadline is met if you send back the goods before the period of 14 days has expired
+You will have to bear the direct cost of returning the goods
+You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods
+(c)    For the regular supply of Goods (e.g
+Subscriptions of print magazines): Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason
+The withdrawal period will expire after 14 days from the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the first good
+To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, fax: +49 6221 345 4229, email: customerservice@springernature.com ) of your decision to withdraw from this contract by an unequivocal statement (e.g
+a letter sent by post, fax or e-mail)
+You may use the attached model withdrawal form, but it is not obligatory
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired
+Effects of withdrawal If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement
+We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest
+You shall send back the goods or hand them over to us without undue delay and in any event not later than 14 days from the day on which you communicate your withdrawal from this contract to us
+The deadline is met if you send back the goods before the period of 14 days has expired
+You will have to bear the direct cost of returning the goods
+You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods
+(d)    For contracts on the supply of or access to Digital Content: Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason
+The withdrawal period will expire after 14 days from the day on of the conclusion of the contract
+To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, fax: +49 6221 345 4229, email: customerservice@springernature.com ) of your decision to withdraw from this contract by an unequivocal statement (e.g
+a letter sent by post, fax or e-mail)
+You may use the attached model withdrawal form, but it is not obligatory
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired
+Effects of withdrawal If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement
+(e)    For contracts on Services: Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason
+The withdrawal period will expire after 14 days from the day on of the conclusion of the contract
+To exercise the right of withdrawal, you must inform us (Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany, fax: +49 6221 345 4229, email: customerservice@springernature.com ) of your decision to withdraw from this contract by an unequivocal statement (e.g
+a letter sent by post, fax or e-mail)
+You may use the attached model withdrawal form, but it is not obligatory
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired
+Effects of withdrawal If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract
+Customer may use the following form, but it is not obligatory: Model withdrawal form (complete and return this form only if you wish to withdraw from the contract) –    To Springer Nature Customer Service Center GmbH, Tiergartenstr
+15-17, 69121 Heidelberg, Germany: –    I/We (*) hereby give notice that I/We (*) withdraw from my/our (*) contract of sale of the following goods (*)/for the provision of the following service (*), –    Ordered on (*)/received on (*), –    Name of consumer(s), –    Address of consumer(s), –    Signature of consumer(s) (only if this form is notified on paper), –    Date (*) Delete as appropriate
+A.7.1    Customer may pay with credit card and/or via PayPal, as displayed before or at the beginning of the order process
+In order to use PayPal, Customer must have an account with PayPal
+No other means of payment will be available
+A.7.2    If Customer pays with credit card, Springer Nature will transmit the payment details to the relevant credit card issuer
+The purchase price will be charged immediately after receipt of the order
+The relevant credit card issuer’s terms and conditions apply
+A.7.3    If Customer pays via PayPal, Customer will be redirected to www.paypal.com , which is operated by PayPal (Europe) S
+à r
+l
+et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg, Luxembourg or an affiliate company in order to make the payment
+Customerr’s PayPal account shall be charged immediately
+PayPal’s terms and conditions apply
+A.7.4    Customer agrees to receive an electronic invoice at the email address provided in the User Account
+Springer Nature may charge a reasonable fee for sending a hard-copy invoice at Customer’s request
+A.7.5    If Customer fails to honor their payment obligations, or if any amounts paid are reverse-charged, Springer Nature may block Authorized User’s access to the Online Shop and/or to Digital Content Platforms until Springer Nature has received full payment of all arrears
+A.7.6    Goods are delivered subject to retention of title and shall remain Springer Nature’s property until the purchase price has been paid in full
+A.8    Termination of the User Account, Subscriptions and contracts on Services A.8.1    User may give notice of termination of the User Account at any time
+A.8.2    After termination, User shall no longer have any access to the Online Shop and, if applicable, to Digital Content Platforms, and will lose access any Digital Content
+Unused amounts under on-going Subscriptions shall not be refunded
+A.8.3    Any provisions on the term of the User Account and on Rentals, Subscriptions and Services shall not affect the right of either party to terminate a contract for cause with immediate effect
+A.8.4    Notice of termination by Customer A.8.4.1    Any notice of termination must be in in writing
+A.8.4.2    For Customers having their habitual residence in Europe, Middle East, Africa, Asia, Oceania or Australia, the following applies: ‘’In writing” means “text form” (as defined in section 126b of The German Civil Code), i.e
+on a “durable medium” (including fax and email) and specifying the sender (see clause A.1.3 for Springer Nature’s contact details)
+A.9    Springer Nature’s Liability A.9.1    For Customers having their habitual residence in Europe, Middle East, Africa, Asia, Oceania or Australia, the following applies: A.9.1.1    For Goods there is a legal guarantee of conformity
+Claims arising from that guarantee become statute-barred within two years after the goods have been received
+A.9.1.2    Springer Nature’s liability shall not be limited in any event for any loss or damage which is (a) due to intent or gross negligence; (b) for loss of life, limb, or health
+Strict liability under the German Product Liability Act shall not be limited
+A.9.1.3    If an essential contractual obligation (i.e
+an obligation the performance of which is necessary for due implementation of the contract, the performance of which a contractual partner generally may rely on, and the breach of which jeopardizes the attainment of the purpose of the contract) was breached due to slight negligence, Springer Nature’s liability shall be limited to that loss or damage the occurrence of which is typical with regard to the nature of the contract and was foreseeable at the time of conclusion of the contract
+A.9.1.4    In all other cases, Springer Nature shall not be liable, for whatever cause in law
+A.9.2    For Customers having their habitual residence in North, Central or South America, the following applies: Springer Nature warrants that it has the right to grant Customer the rights granted in these Terms and Conditions
+Except for foregoing express warranty and to the extent permitted by applicable law, Springer Nature provides all Goods, Digital Content and Subscriptions (the “Content”) “as is” and makes no other representation or warranty
+Springer Nature expressly disclaims any liability for any claim arising from or out of the Content, including but not limited to any errors, inaccuracies, omissions, or defects contained therein, and any implied or express warranty as to merchantability or fitness for a particular purpose
+Springer Nature shall not be liable for any special, incidental, consequential, punitive or exemplary damages, even if it has been advised of the possibility of such damages
+Springer Nature’s liability for any and all claims under this agreement is limited to the agreed amounts actually paid by the customer at the time of the relevant purchase
+A.9.3    Customer is obliged to make regular complete backups of data produced or stored by Customer at reasonable intervals that reflect the value of such data
+Springer Nature shall not be liable for any loss of such data which could have been avoided by Customer’s compliance with said obligation
+A.10    Application of the Terms and Conditions, amendments A.10.1    The contract on the use of the User Account and all contracts concluded in the Online Shop shall be subject to these Terms and Conditions as well as any other terms and conditions or other legal terms applicable to websites on which Customer has created the User Account
+Should Customer have its own terms of business, such terms shall only apply where Springer Nature has expressly agreed to them in writing prior to conclusion of the relevant contract
+A.10.2    Springer Nature may amend these Terms and Conditions if Springer Nature deems the amendment necessary to adapt these Terms and Conditions to changes in statutory law or case-law or to technical developments, or due to the introduction of new products or features of products
+Springer Nature will notify the User/Customer of its intent to amend the Terms and Conditions and the envisaged date of the amended Terms and Conditions entering into force
+If User/Customer does not object to the amendment within one month after receipt of said notification (the “Objection Period”), User/Customer shall be deemed to have agreed to the amended Terms and Conditions
+In said notification, Springer Nature shall point out the legal relevance of the Objection Period
+A.10.3    Should User/Customer object to the amendment, Springer Nature may give notice of termination of the relevant contract(s) at the time when the amended Terms and Conditions come into force; in such event Springer Nature shall without undue delay reimburse on a pro rata basis any advance payments of subscription fees
+A.11    Severability Should any provision of these Terms and Conditions be or become ineffective or unenforceable, this shall not affect the remainder of these Terms and Conditions
+In any such case, the parties shall negotiate in good faith for a clause which is to substitute the ineffective/unenforceable provision, reasonably balancing the parties’ interests
+A.12    Governing law and venue A.12.1    For Customers having their habitual residence in Europe, Middle East, Africa, Asia, Oceania or Australia, the following applies: A.12.2    Contracts between User/Customer and Springer Nature shall be governed and its provisions construed and enforced in accordance with German law, without giving effect to its conflict of laws rules and the UN Convention on Contracts for the International Sale of Goods (CISG)
+If User/Customer is a natural person who concluded a contract for a purpose which can be regarded as being outside their trade or profession, this shall not have the result of depriving the User/Customer of the protection afforded to them by provisions that cannot be derogated from by agreement by virtue of the law of the country where the User/Consumer has their habitual residence
+A.12.3    The parties agree that they are subject to the exclusive jurisdiction of the courts in Heidelberg, Germany for all legal disputes arising directly or indirectly from the contractual relationship between Springer Nature and the User/Customer in the following circumstances: (a)    User/Customer is a registered trader according to the German Commercial Code, a public corporation or a special trust managing public assets; (b)    User’s/Customer’s place of residence or habitual place of abode is outside Germany or User/Customer relocated their place of residence or habitual place of abode outside Germany after the conclusion of the contract; (c)    User’s/Customer’s place of residence or habitual place of abode is not known at the time when legal action is filed
+A.13    For Customers having their habitual residence in North, Central or South America, the following applies: A.13.1    Contracts between User/Customer and Springer Nature shall be governed and its provisions construed and enforced in accordance with the laws of the State of New York, USA, without giving effect to its conflict of laws rules and the UN Convention on Contracts for the International Sale of Goods (CISG)
+A.13.2    The parties agree that they are subject to the exclusive jurisdiction of the courts in New York, NY, USA
+A.14    Out-of-court settlements/jury trial A.14.1    We do not engage in out-of-court settlements before consumer arbitration bodies
+However, we are obliged to inform you that the European Commission provides a platform for online dispute resolution, which is available at http://ec.europa.eu/consumers/odr/ 
+A.14.2    For Customers having their habitual residence in North America, Central America or South America, the following applies: User/Customer expressly waives the right to a trial by jury
+B.1    Purchase of Goods B.1.1    Springer Nature shall deliver Goods within the time specified at the time the order is placed
+B.1.2    Springer Nature shall deliver Goods using an appropriate shipping method chosen in its reasonable discretion; shipping costs shall never exceed the amount specified specified at the time the order is placed
+B.1.3    Springer Nature may make partial deliveries where Customer can be reasonably expected to accept partial delivery; this will never result in higher shipping costs to be borne by Customer
+B.2.1    General prerequisites For using digital content, e.g
+reading purchased or rented eBooks, and for reading content downloaded from Personal Collections, Customer/Authorized User needs normal Internet access and software for viewing documents in the electronic format specified on the Product page, if any
+B.2.1.1    Authorized User needs to log into their User Account in order to trigger the download of Digital Content
+B.2.1.2    Digital Content purchased for Download can be downloaded by Authorized User immediately after the conclusion of the contract
+B.2.2    Coupon codes B.2.2.1    Springer Nature in some cases offers coupon codes to purchase Digital Content for download in the Online Shop
+(a)    “E-Book inside” means an eBook accessible via a coupon code imprinted in a print book
+The Customer may order the corresponding eBook for free
+(b)    “Companion eBook” means an eBook offered to the buyer of the corresponding print book
+The Customer may order the corresponding eBook a reduced price
+B.2.3    Rentals B.2.3.1    Authorized User needs to log into their User Account in order to view the Digital Content
+B.2.3.2    Rentals give Authorized User the right to view the rented Digital Content for a fixed term, as specified on the Product page
+B.2.3.3    Authorized User may make copies of the Digital Content only to the extent allowed by the exceptions and limitations under applicable copyright law
+B.2.4    Personal Collections B.2.4.1    Only Individual Customers may order access to a Personal Collection; if User orders a Personal Collection using an Institutional User Account (section A.3.3.1), neither User nor any other person shall be deemed an Authorized User
+B.2.4.2    Authorized User will be granted access to the relevant Personal Collection(s) on a Digital Content Platform immediately after the conclusion of the contract (“activation”)
+Authorized User may use the Digital Content Platform to the extent necessary to access their activated Personal Collection(s), either (a) via direct log-in to the Digital Content Platform (using the same credentials as for the Online Shop) or (b) via a link on the Product page of the relevant Personal Collection
+B.2.4.3    Springer Nature may, in its discretion, add new content to a Personal Collection or replace existing content with revised editions, but Springer Nature shall not be obliged to make such updates
+B.2.5    Removal of Digital Content Springer Nature reserves the right to discontinue the distribution of specific eBooks etc
+or to remove parts of Personal Collections in the event of copyright infringements or any other legal issue which could give rise to Springer Nature’s liability towards third parties
+Should Authorized User have not downloaded removed content within 12 months after conclusion of the contract, Springer Nature will reimburse to Customer the purchase price in full or in part (if the removed content was part of a Personal Collection)
+B.2.6    Rights of Use for Digital Content B.2.6.1    Authorized User may use Digital Content only for personal purposes and subject to the restrictions set out in this section B.2 or to the extent allowed by the exceptions and limitations under applicable copyright law
+  B.2.6.2    Springer Nature reserves the right to mark purchased items of Digital Content with User’s name and email address, using an electronic watermark or other technical identification marks, including means that are not evident to User; or to equip them with technological measures designed to prevent infringements of intellectual property rights (“Technological Measures”)
+B.2.6.3    Authorized User may use and store Downloaded Digital Content (including parts thereof) only on end devices used by the Authorized User personally
+The following in particular is not permitted: making unauthorized additional copies, in particular on end devices or media to which third parties have access; adapting digital content; distributing Digital Content to third parties or making it available to the public (including on intranets); circumventing Technological Measures
+B.2.6.4    Springer Nature reserves the right to block Authorized User’s access to Digital Content if Authorized User is in breach of clauses B.2.7.1 or B.2.7.3 and/or may give notice of termination for cause with immediate effect
+The same applies if an Institutional Customer is found to have ordered a Personal Collection in breach of clause B.2.4.1
+B.2.6.5    Clauses B.2.7.1 to B.2.7.4 apply to Personal Collections accordingly
+B.2.6.6    Authorized User’s right to use Digital Content which is the subject matter of a Rental or was downloaded from a Personal Collection or under a subscription granting access to Digital Content (point (b) of clause A.1.4.4) shall expire as soon as the respective rental term or subscription term expires
+After that Authorized User may no longer use the relevant Digital Content and must delete any copies; Springer Nature may block access to such Digital Content
+B.2.6.7    Apress Access: By way of exception to clause B.2.6.6 the following applies: Upon termination of the Apress Access subscription, Authorized User may continue to use any Apress eBooks that they downloaded during the term of the subscription
+B.3    Subscriptions B.3.1    Subscriptions of journals and magazines (including eJournals and eMagazines) are always made for one calendar year as the initial term
+B.3.2    Monthly Subscriptions will run for an indefinite time after expiry of the initial term, if any, and one month’s notice of termination may be given any time
+B.3.3    Annual subscriptions will run for a fixed term of one year will not be automatically renewed unless Customer has opted in to the auto-renew feature (if available).

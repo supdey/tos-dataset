@@ -1,0 +1,285 @@
+Last Updated: May 23, 2018 
+ALEXA'S BROWSER EXTENSION SOFTWARE (“TOOLBAR SERVICE”) COLLECTS AND STORES INFORMATION ABOUT THE
+WEB PAGES YOU VIEW
+AND SEARCH QUERIES YOU MAKE
+IN SOME CASES, INFORMATION COLLECTED BY THE TOOLBAR SERVICE MAY BE PERSONALLY IDENTIFIABLE,
+BUT WE DO NOT ATTEMPT TO ANALYZE ANY INFORMATION COLLECTED BY THE TOOLBAR
+SERVICE TO DETERMINE THE IDENTITY OF ANY ALEXA USER
+Welcome to Alexa Internet ( “Alexa” )
+Alexa provides the Toolbar Service and website
+features and other products and services to you when you visit Alexa.com, use Alexa products or services, or use
+software provided by Alexa in connection with any of the foregoing (collectively, the
+“Services” ).
+Alexa provides the Services subject to the following conditions
+By using the Services (including the Toolbar Service), you agree to this Alexa Internet Website Terms of
+Use and End User License Agreement, which incorporates Alexa's Privacy Notice
+Please read this agreement
+carefully
+We offer a range of Services, and sometimes additional terms may apply
+When you use a Service (for example, the
+Alexa Subscription Services), you also will be subject to the guidelines, terms and agreements applicable to that
+Service (”Service Terms”)
+If this agreement is inconsistent with the Service Terms, those Service
+Terms will control
+Please review our Privacy Notice , which also applies to your use of the Services, to
+understand our practices
+To
+use certain features of the Services, such as the Toolbar Service, Alexa may collect and store personally
+identifiable information
+When you use any Service, or send e-mails, text messages, and other communications from your desktop or mobile
+device to us, you are communicating with us electronically
+You consent to receive communications from us
+electronically, such as e-mails, texts, mobile push notices, or notices and messages on this site or through the
+other Services, and you can retain copies of these communications for your records
+You agree that all agreements,
+notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement
+that such communications be in writing
+All content included in or made available through any Service, such as text, graphics, logos, button icons,
+images, audio clips, digital downloads, data compilations, and software is the property of Alexa, its affiliates
+or its content suppliers and protected by United States and international copyright laws
+The compilation of all
+content included in or made available through any Service is the exclusive property of Alexa and protected by U.S.
+and international copyright laws
+Alexa, Amazon, 1-Click, and all related graphics, logos, page headers, button icons, scripts, and service names
+included in or made available through any Service are trademarks or trade dress of Alexa or its affiliates, in the
+U.S
+and other countries
+Neither Alexa's nor its affiliates' trademarks and trade dress may be used in
+connection
+with any product or service that is not Alexa's or its affiliates', in any manner that is likely to cause
+confusion among customers, or in any manner that disparages or discredits Alexa or its affiliates
+All other
+trademarks not owned by Alexa or its affiliates that appear in any Service are the property of their respective
+owners, who may or may not be affiliated with, connected to, or sponsored by Alexa or its affiliates
+Subject to your compliance with this agreement and your payment of any applicable fees, Alexa or its content
+providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make
+personal and non-commercial use of the Services
+Alexa, in its sole discretion, may terminate your license to any
+Service at any time without notice
+This license does not include any resale or commercial use of any Service or
+its contents; any derivative use of any Service or its contents; or any use of data mining, robots, or similar
+data gathering and extraction tools
+All rights not expressly granted to you in this agreement or any Service
+Terms are reserved and retained by Alexa or its licensors, suppliers, publishers, rightsholders, or other content
+providers
+No Service, nor any part of any Service, may be reproduced, duplicated, copied, sold, resold, visited,
+or otherwise exploited for any commercial purpose without the express written consent of Alexa
+You may not frame
+or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images,
+text, page layout, or form) of Alexa without our express written consent
+You may not use any meta tags or any
+other "hidden text" utilizing Alexa’s name or trademarks without our express written consent
+You may not misuse
+the Services
+You may use the Services only as permitted by law
+The licenses granted by Alexa terminate if you do
+not comply with this agreement or any Service Terms
+Without limiting any of the other licenses you grant in this agreement, you hereby grant Alexa and its affiliates
+a royalty-free, nonexclusive, worldwide, perpetual, irrevocable, and fully sublicensable right and license to Your
+Trademarks, Content, data, information, photographs, images, videos and other materials and items you provide or
+make available to Alexa (collectively, “Your Materials” ) including, without limitation,
+the right to use,
+reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise
+commercially or non-commercially exploit in any manner, any and all of Your Materials; provided, however, that
+nothing in this agreement will prevent or impair our right to use Your Materials without your consent to the
+extent that such use is allowable without a license from you or your affiliates under applicable law (e.g., fair
+use under United States copyright law, referential use under trademark law, or valid license from a third party).
+“Your Trademarks” means Trademarks of yours that you provide to us: (a) in non-text form
+for branding purposes;
+and (b) separate from (and not embedded or otherwise incorporated in) any product specific information or
+materials
+“Trademark” means any trademark, service mark, trade dress (including any
+proprietary "look and feel"),
+trade name, other proprietary logo or insignia or any other source or business identifier, protected or
+protectable under applicable laws
+“Content” means copyrightable works under applicable
+law
+You are solely responsible for Your Materials
+Your Materials may not be false, materially misleading, libelous,
+defamatory, obscene, vulgar, abusive, harassing, threatening, or otherwise objectionable, invade a person's
+privacy, infringe another person's intellectual property or proprietary rights, or otherwise violate applicable
+law
+You represent and warrant that you own or otherwise control all of the rights to Your Materials; that the use
+of such materials by Alexa and its affiliates will not infringe upon or violate the rights of any third party; and
+that you will indemnify Alexa and its affiliates for all claims resulting from Your Materials
+If you use any Service, you are responsible for maintaining the confidentiality of your account and password and
+for restricting access to your computer, and you agree to accept responsibility for all activities that occur
+under your account or password
+If you are under 18, you may use the
+Services only with involvement of a parent or guardian
+Alexa reserves the right to refuse service, terminate
+accounts, remove or edit content, or cancel orders in its sole discretion
+The Web changes constantly, and no technique can ever index all pages accessible on the Web
+As a result, Alexa
+cannot guarantee the completeness or accuracy of the websites or URLs to which the Services link or refer
+Further, the process of including websites in the Services is largely automatic
+Alexa does not screen the
+websites included in the Services, and these other websites are maintained by persons over whom Alexa exercises no
+control
+For these reasons, Alexa assumes no responsibility for the content of any website or URL included in the
+Services and is not responsible for errors or omissions or for offensive or objectionable content contained on any
+website or URL included in the Services
+Instructions for restricting Alexa from crawling your site are available at Webmaster
+Support
+THE SERVICES (INCLUDING THE TOOLBAR SERVICE) AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING
+SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICES ARE PROVIDED BY
+ALEXA AND ITS AFFILIATES ON AN "AS IS" AND "AS AVAILABLE" BASIS
+ALEXA AND ITS AFFILIATES MAKE NO REPRESENTATIONS
+OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SERVICES (INCLUDING THE TOOLBAR
+SERVICE), OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR
+OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICES
+YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR
+SOLE RISK
+TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, ALEXA AND ITS AFFILIATES DISCLAIM ALL WARRANTIES, EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE
+NEITHER ALEXA NOR ITS AFFILIATES WARRANT THAT THE SERVICES (INCLUDING THE TOOLBAR SERVICE), INFORMATION,
+CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU
+THROUGH THE SERVICES, ALEXA'S SERVERS OR ELECTRONIC COMMUNICATIONS SENT FROM ALEXA ARE FREE OF VIRUSES OR OTHER
+HARMFUL COMPONENTS
+NEITHER ALEXA NOR ITS AFFILIATES WILL BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM USE
+OF THE SERVICES (INCLUDING THE TOOLBAR SERVICE), OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING
+SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICES, INCLUDING, BUT
+NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN
+DAMAGES
+IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT
+APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS
+Any dispute or claim relating in any way to this agreement (including Alexa's Privacy Notice) or your
+use
+of any Services (including the Toolbar Service) will be resolved by binding arbitration, rather than in
+court, 
+except that you may assert claims in small claims court if your claims qualify
+The Federal Arbitration Act and
+federal arbitration law apply to this agreement
+There is no judge or jury in arbitration, and court review of an arbitration award is limited
+However, an
+arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and
+declaratory relief or statutory damages), and must follow the terms of this agreement as a court would
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to
+our registered agent, Corporation Service Company, 2730 Gateway Oaks Drive, Suite 100, Sacramento, CA 95833
+The
+arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's
+Supplementary Procedures for Consumer-Related Disputes
+The AAA's rules are available at www.adr.org or by calling
+1-800-778-7879
+Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules
+We
+will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are
+frivolous
+Likewise, Alexa will not seek attorneys' fees and costs in arbitration unless the arbitrator determines
+the claims are frivolous
+You may choose to have the arbitration conducted by telephone, based on written
+submissions, or in person at a mutually agreed location
+We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not
+in a
+class, consolidated or representative action
+If for any reason a claim proceeds in court rather than in
+arbitration we each waive any right to a jury trial
+We also both agree that you or we may bring suit
+in a state
+or federal court in King County, Washington to enjoin infringement or other misuse of intellectual property
+rights
+By using any Services, you agree that the Federal Arbitration Act, applicable federal law, and the laws of the
+state of Washington, without regard to principles of conflict of laws, will govern this agreement (including
+Alexa’s Privacy Notice) and any dispute of any sort that might arise between you and Alexa
+We reserve the right to make changes to the Services and this agreement at any time
+We may amend any of this
+agreement's terms and any of the Service Terms at our sole discretion by posting the revised terms on the Alexa
+website
+If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition
+shall be deemed severable and shall not affect the validity and enforceability of any remaining condition
+If you have a subpoena to serve on Alexa, please note that Alexa does not accept service via e-mail or fax and
+will not respond to the subpoena
+All subpoenas must be properly served on Alexa, preferably by mailing the
+subpoena to Corporation Service Company (CSC), Alexa's national registered agent
+Please find below the
+California
+address for CSC: 
+Alexa Internet 
+Corporation Service Company 
+2730 Gateway Oaks Drive, Suite 100 
+Sacramento, CA 95833 
+Attn: Legal Department - Subpoena 
+Please note also that providing detailed and accurate information at the outset will facilitate efficient
+processing of your request
+That information will include, for example, e-mail and/or credit card number used to
+make purchases
+If you believe that your work has been copied in a way that constitutes copyright infringement, please submit
+your notice in writing to Alexa's Copyright Agent
+Your notice must contain the following information: 
+A physical signature of the person authorized to act on behalf of the owner of the copyright interest; 
+A description of the copyrighted work that you claim has been infringed upon; 
+A description of where the material that you claim is infringing is located on the site; 
+Your address, telephone number, and e-mail address; 
+A statement by you that you have a good-faith belief that the disputed use is not authorized by the
+copyright owner, its agent, or the law; 
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate
+and that you are the copyright owner or authorized to act on the copyright owner's behalf
+Amazon's Copyright Agent for notice of claims of copyright infringement on its site can be reached as
+follows: 
+Copyright Agent 
+c/o Alexa Internet 
+525 Market Street 
+Amazon.com, Floor 19 
+San Francisco, CA 94105 
+Email: copyright-agent@alexa.com 
+Phone: (415) 234-2050 
+Please note that this procedure is exclusively for notifying Alexa that your copyrighted material has been
+infringed
+Alexa reserves the right to terminate accounts of repeat copyright infringers
+Use of the Software
+From time to time, we may make available to you software
+(including any updates or upgrades to the software and any related documentation) for your use in connection with the
+Services (the “Software” )
+You may use the Software solely for purposes of enabling you
+to use and enjoy the Services as provided by Alexa, and as permitted by this agreement and any Service Terms
+You may
+not incorporate any portion of the Software into your own programs or compile any portion of it in combination with
+your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or
+sub-license the Software or otherwise assign any rights to the Software in whole or in part
+You may not use the
+Software for any illegal purpose
+We may cease providing any Software and we may terminate your right to use any
+Software at any time
+Your rights to use the Software will automatically terminate without notice from us if you fail
+to comply with this agreement or any applicable Service Terms
+Additional third party terms contained within or
+distributed with certain Software that are specifically identified in related documentation may apply to that Software
+(or software incorporated with the Software) and will govern the use of such software in the event of a conflict with
+this agreement
+All software used in any Service is the property of Alexa or its software suppliers and protected by
+United States and international copyright laws
+Use of Third Party Services
+When you use the Software, you may also be using the services of
+one or more third parties, such as a wireless carrier or a mobile platform provider
+Your use of these third party
+services may be subject to the separate policies, terms of use, and fees of these third parties
+No Reverse Engineering
+You may not, and you will not encourage, assist or authorize any other
+person to copy, modify, reverse engineer, decompile or disassemble, or otherwise tamper with, the Software,
+whether in whole or in part, or create any derivative works from or of the Software
+Updates
+In order to keep the Software up-to-date, we may offer automatic or manual updates at
+any time and without notice to you
+Export Regulations; Government End Users
+You represent and warrant that you and your financial
+institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted
+parties or owned or controlled by such a party, including but not limited to the lists maintained by the United
+Nations Security Council, the US Government (e.g., the US Department of Treasury's Specially Designated Nationals
+list and Foreign Sanctions Evaders list and the US Department of Commerce's Entity List), the European Union or
+its member states, or other applicable government authority
+You will not directly or indirectly export,
+re-export, transmit, or cause to be exported, re-exported or transmitted, any commodities, software or technology
+(”Items“) to any country, individual, corporation, organization, or entity to which such export,
+re-export, or
+transmission is restricted or prohibited, including any country, individual, corporation, organization, or entity
+under sanctions or embargoes administered by the United Nations, US Departments of State, Treasury or Commerce,
+the European Union, or any other applicable government authority
+If you are a U.S
+Government end user, we are
+licensing the Software to you as a "Commercial Item" as that term is defined in the U.S
+Code of Federal
+Regulations (see 48 C.F.R
+§ 2.101), and the rights we grant you to the Software are the same as the rights we
+grant to all others under this agreement.
